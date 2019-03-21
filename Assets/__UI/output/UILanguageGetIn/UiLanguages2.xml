@@ -1,0 +1,62 @@
+<Data>
+  <uiRoot name="DrowEquipView">
+    <uiLabel name="ChooseTenDesc">
+      <path>DrowEquipView/Anim/ChooseTen/gobj_ChooseTenSp/ChooseTenDesc</path>
+      <value>必出紫色或橙色裝備</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="MallView">
+    <uiLabel name="TitleLb">
+      <path>MallView/Anim/TitleObj/TitleLb</path>
+      <value>商城</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/SkillBook/Label</path>
+      <value>技能書</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/WeaponMat/Label</path>
+      <value>武器材料</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/gobj_WeaponMatObj/Grid/WeaponMatWhite/Label</path>
+      <value>白色</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/gobj_WeaponMatObj/Grid/WeaponMatGreen/Label</path>
+      <value>綠色</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/gobj_WeaponMatObj/Grid/WeaponMatBlue/Label</path>
+      <value>藍色</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/RingMat/Label</path>
+      <value>戒指材料</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/gobj_RingMatObj/Grid/RingMatWhite/Label</path>
+      <value>白色</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/gobj_RingMatObj/Grid/RingMatGreen/Label</path>
+      <value>綠色</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/gobj_RingMatObj/Grid/RingMatBlue/Label</path>
+      <value>藍色</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/NecklaceMat/Label</path>
+      <value>項鍊材料</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/OtherMat/Label</path>
+      <value>其他材料</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>MallView/Anim/Pre/gobj_StoreItem/Name</path>
+      <value>春哥的復活甲</value>
+    </uiLabel>
+  </uiRoot>
+</Data>

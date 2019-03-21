@@ -1,0 +1,723 @@
+<Data>
+  <uiRoot name="ActivitiesView">
+    <uiLabel name="AwardsTip">
+      <path>ActivitiesView/gobj_MainGroup/Activities/RightActivity/AwardTipGroup/AwardsTip</path>
+      <value>可獲得[3de962]武將訓練書[-]</value>
+    </uiLabel>
+    <uiLabel name="AwardsTip">
+      <path>ActivitiesView/gobj_MainGroup/Activities/LeftActivity/AwardTipGroup/AwardsTip</path>
+      <value>可獲得[3de962]仙書寶典[-]</value>
+    </uiLabel>
+    <uiLabel name="SurplusChanllenge">
+      <path>ActivitiesView/gobj_SelectDifficult/SurplusGroup/SurplusChanllenge</path>
+      <value>今日剩餘次數:5</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>ActivitiesView/gobj_SelectDifficult/Purchase/Label</path>
+      <value>購買次數</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ArtifactIntensifyView">
+    <uiLabel name="Label">
+      <path>ArtifactIntensifyView/IntensifyLabelItem/Label</path>
+      <value>防禦+15</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="BackPackView">
+    <uiLabel name="Label">
+      <path>BackPackView/Anim/RightGroup/BtnFuncGroup/AddSoldierEquip/Label</path>
+      <value>購買格子</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="BuyCoinView">
+    <uiLabel name="AllCostNumLabel">
+      <path>BuyCoinView/OffsetRoot/ExchangeResultGroup/AllCostNumLabel</path>
+      <value>1000 的兌換</value>
+    </uiLabel>
+    <uiLabel name="CostNumLabel">
+      <path>BuyCoinView/Source/BuyCoinItem/CostNumLabel</path>
+      <value>10   獲得</value>
+    </uiLabel>
+    <uiLabel name="CritNumLabel">
+      <path>BuyCoinView/Source/BuyCoinItem/CritNumLabel</path>
+      <value>0倍暴擊</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="BuySPView">
+    <uiLabel name="Content">
+      <path>BuySPView/Anim/Content</path>
+      <value>（今天已購買0/4次）</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="CastleView">
+    <uiLabel name="Label">
+      <path>CastleView/Scale/IntensifyLabelItem/Label</path>
+      <value>防禦+15</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ChatView">
+    <uiLabel name="SendTime">
+      <path>ChatView/gobj_Chat/ContentGroup/ContentScrollView/Table/gobj_ContentComp/SendTime</path>
+      <value>11月11日</value>
+    </uiLabel>
+    <uiLabel name="WorldChatMsg">
+      <path>ChatView/gobj_Chat/ButtomGroup/gobj_SendWorldChat/WorldInput/WorldChatMsg</path>
+      <value>點擊輸入，字數限制50字</value>
+    </uiLabel>
+    <uiLabel name="WroldFreeTip">
+      <path>ChatView/gobj_Chat/ButtomGroup/gobj_SendWorldChat/WroldFreeTip</path>
+      <value>免費(10)</value>
+    </uiLabel>
+    <uiLabel name="CorpsChatMsg">
+      <path>ChatView/gobj_Chat/ButtomGroup/gobj_SendCorpsChat/CorpsInput/CorpsChatMsg</path>
+      <value>點擊輸入，字數限制50字</value>
+    </uiLabel>
+    <uiLabel name="PrivateChatMsg">
+      <path>ChatView/gobj_Chat/ButtomGroup/gobj_SendPrivateChat/PrivateInput/PrivateChatMsg</path>
+      <value>點擊輸入，字數限制50字</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ChoosePrisonView">
+    <uiLabel name="Label_Name">
+      <path>ChoosePrisonView/OtherGroup/MaterialScroll/item/LabelGroup/Label_Name</path>
+      <value>我是六個字啊@1</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="CreateUnionView">
+    <uiLabel name="Label">
+      <path>CreateUnionView/UnionName/Label</path>
+      <value>點擊輸入軍團名，最長6個字</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CreateUnionView/Notice/Label</path>
+      <value>點擊輸入公告，最長50個字</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="DrowEquipView">
+    <uiLabel name="OnceFreeLb">
+      <path>DrowEquipView/Anim/ChooseOnce/gobj_OnceFree/OnceFreeLb</path>
+      <value>今日剩餘免費次數：5</value>
+    </uiLabel>
+	<uiLabel name="ChooseCountTitle">
+      <path>DrowEquipView/Anim/TitleBG/ChooseCountTitle</path>
+      <value>緣寶閣</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="EndlessView">
+    <uiLabel name="MaxDPLabel">
+      <path>EndlessView/Anim/BattleGroundItem/BattlegroundItem_PT/PT_LevelLabel/MaxDPLabel</path>
+      <value>最高成績:0</value>
+    </uiLabel>
+    <uiLabel name="MaxScoreLabel">
+      <path>EndlessView/Anim/BattleGroundItem/BattlegroundItem_PT/PT_LevelLabel/MaxScoreLabel</path>
+      <value>最高得分:0</value>
+    </uiLabel>
+    <uiLabel name="EndlessRankLabel">
+      <path>EndlessView/Anim/BattleGroundItem/BattlegroundItem_PT/PT_LevelLabel/EndlessRankLabel</path>
+      <value>全服排名:0</value>
+    </uiLabel>
+    <uiLabel name="MaxDPLabel">
+      <path>EndlessView/Anim/BattleGroundItem/BattlegroundItem_JY/JY_LevelLabel/MaxDPLabel</path>
+      <value>最高成績:0</value>
+    </uiLabel>
+    <uiLabel name="MaxScoreLabel">
+      <path>EndlessView/Anim/BattleGroundItem/BattlegroundItem_JY/JY_LevelLabel/MaxScoreLabel</path>
+      <value>最高得分:0</value>
+    </uiLabel>
+    <uiLabel name="EndlessRankLabel">
+      <path>EndlessView/Anim/BattleGroundItem/BattlegroundItem_JY/JY_LevelLabel/EndlessRankLabel</path>
+      <value>全服排名:0</value>
+    </uiLabel>
+    <uiLabel name="MaxDPLabel">
+      <path>EndlessView/Anim/BattleGroundItem/BattlegroundItem_YX/YX_LevelLabel/MaxDPLabel</path>
+      <value>最高成績:0</value>
+    </uiLabel>
+    <uiLabel name="MaxScoreLabel">
+      <path>EndlessView/Anim/BattleGroundItem/BattlegroundItem_YX/YX_LevelLabel/MaxScoreLabel</path>
+      <value>最高得分:0</value>
+    </uiLabel>
+    <uiLabel name="EndlessRankLabel">
+      <path>EndlessView/Anim/BattleGroundItem/BattlegroundItem_YX/YX_LevelLabel/EndlessRankLabel</path>
+      <value>全服排名:0</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="EquipChoose">
+    <uiLabel name="Lock">
+      <path>EquipChoose/Anim/EquipScrollView/Grid/item/equipt/Lock</path>
+      <value>12級解鎖</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ExoticAdvantureInfoView">
+    <uiLabel name="SurplusCount">
+      <path>ExoticAdvantureInfoView/gobj_StageInfoGroup/SurplusGroup/SurplusCount</path>
+      <value>今日剩餘挑戰次數:20</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ExpeditionView">
+    <uiLabel name="ChallengeNum">
+      <path>ExpeditionView/Anim/BottomGroup/ChallengeNum</path>
+      <value>當前進度：1/1</value>
+    </uiLabel>
+    <uiLabel name="RestartNum">
+      <path>ExpeditionView/Anim/BottomGroup/RestartNum</path>
+      <value>今日剩餘1次</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="FightView">
+    <uiLabel name="Cur_Hint">
+      <path>FightView/FightResult/Result_PVP/Rank_Current/Cur_Hint</path>
+      <value>排名變化：</value>
+    </uiLabel>
+    <uiLabel name="UpHint">
+      <path>FightView/FightResult/Result_PVP/Rank_Current/Cur_BG_UpHint/UpHint</path>
+      <value>上升150位</value>
+    </uiLabel>
+    <uiLabel name="His_Hint">
+      <path>FightView/FightResult/Result_PVP/Rank_History/His_Hint</path>
+      <value>歷史最高：</value>
+    </uiLabel>
+    <uiLabel name="Rew_Hint">
+      <path>FightView/FightResult/Result_PVP/Rank_Reward/Rew_Hint</path>
+      <value>獲得獎勵：</value>
+    </uiLabel>
+    <uiLabel name="Slave_Hint">
+      <path>FightView/FightResult/Result_Slave/Slave_Hint</path>
+      <value>[ff8400]解救玩家[-][4fe744]{0}[-][ff8400]，獲得戰利品銅錢[-][4fe744]{1}[-]</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="GameActivityView">
+    <uiLabel name="DescLabel">
+      <path>GameActivityView/Layer1/Source/ActivityBuyFundItem/DescLabel</path>
+      <value>[BC1A17]VIP4[-][C4AD87]以上可以購買[-]</value>
+    </uiLabel>
+    <uiLabel name="BuyCountLabel">
+      <path>GameActivityView/Layer1/Source/ActivityBuyFundItem/BuyCountLabel</path>
+      <value>已經有9999人購買</value>
+    </uiLabel>
+    <uiLabel name="DescLabel">
+      <path>GameActivityView/Layer1/Source/ActivitySingleAwardItem/DescLabel</path>
+      <value>購買基金後到達10級可領取</value>
+    </uiLabel>
+    <uiLabel name="ProgressLabel">
+      <path>GameActivityView/Layer1/Source/ActivityAwardsItem/ProgressLabel</path>
+      <value>進度: 999/999</value>
+    </uiLabel>
+    <uiLabel name="DateLabel">
+      <path>GameActivityView/Layer1/Source/GameActivitesItem/DateLabel</path>
+      <value>結束時間:2015-11-11 18點</value>
+    </uiLabel>
+    <uiLabel name="ValueLabel">
+      <path>GameActivityView/Layer1/Source/ActivityRankItem/ValueLabel</path>
+      <value>最強戰力: 99999萬</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="GateInfoView">
+    <uiLabel name="SurplusCount">
+      <path>GateInfoView/gobj_StageInfoGroup/gobj_PurchaesGroup/SurplusGroup/SurplusCount</path>
+      <value>今日剩餘挑戰次數:20</value>
+    </uiLabel>
+    <uiLabel name="Tip">
+      <path>GateInfoView/gobj_StageInfoGroup/gobj_SweepGroup/gobj_SweepTip/gobj_MulitSweepTip/Tip</path>
+      <value>或20級解鎖</value>
+    </uiLabel>
+    <uiLabel name="Tip">
+      <path>GateInfoView/gobj_StageInfoGroup/gobj_SweepGroup/gobj_SweepTip/gobj_SingleSweepTip/Tip</path>
+      <value>或35級解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>GateInfoView/gobj_StageInfoGroup/gobj_SweepGroup/SweepBtnGrid/MulitSweepGroup/MulitSweep/Label</path>
+      <value>掃蕩10次</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="GetPathView">
+    <uiLabel name="ChallengeNum">
+      <path>GetPathView/Anim/GetPathScrollView/Grid/gobj_GetPathItem/GateWay/EnableGroup/ChallengeNum</path>
+      <value>挑戰次數</value>
+    </uiLabel>
+    <uiLabel name="ChapterName">
+      <path>GetPathView/Anim/GetPathScrollView/Grid/gobj_GetPathItem/GateWay/ChapterName</path>
+      <value>關卡</value>
+    </uiLabel>
+    <uiLabel name="StageName">
+      <path>GetPathView/Anim/GetPathScrollView/Grid/gobj_GetPathItem/GateWay/StageName</path>
+      <value>關卡</value>
+    </uiLabel>
+    <uiLabel name="ViewDesc">
+      <path>GetPathView/Anim/GetPathScrollView/Grid/gobj_GetPathItem/ViewWay/ViewDesc</path>
+      <value>挑戰次數</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="GuildHegemonyView">
+    <uiLabel name="IntegralLb">
+      <path>GuildHegemonyView/Anim/Integral/IntegralBG/IntegralLb</path>
+      <value>距本賽季第2場爭霸戰報名還有9天23:59:59</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="JoinUnionView">
+    <uiLabel name="TimesCount">
+      <path>JoinUnionView/Anim/Layer1/TimesCount</path>
+      <value>今日申請次數:1/5</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>JoinUnionView/Anim/Pre/UnionItem/Name</path>
+      <value>軍團:說不在就不在 Lv9</value>
+    </uiLabel>
+    <uiLabel name="MemberCount">
+      <path>JoinUnionView/Anim/Pre/UnionItem/MemberCount</path>
+      <value>軍團成員:49/50</value>
+    </uiLabel>
+    <uiLabel name="Liveness">
+      <path>JoinUnionView/Anim/Pre/UnionItem/Liveness</path>
+      <value>本周活躍:5000</value>
+    </uiLabel>
+    <uiLabel name="Condition">
+      <path>JoinUnionView/Anim/Pre/UnionItem/Condition</path>
+      <value>條件:60級以上</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="LivenessView">
+    <uiLabel name="Title">
+      <path>LivenessView/Anim/Pre/LivenessItem/Title</path>
+      <value>武將技能(0/1)</value>
+    </uiLabel>
+    <uiLabel name="PointCount">
+      <path>LivenessView/Anim/Pre/LivenessItem/PointCount</path>
+      <value>單次活躍:10</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="MailView">
+    <uiLabel name="MailDateLabel">
+      <path>MailView/Source/MailItem/MailDateLabel</path>
+      <value>1月1日</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="MainCityView">
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/Against/Label</path>
+      <value>[ffcc33]第{0}章節第{1}章[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/Battleground/Label</path>
+      <value>[ffcc33]12級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/Billboard/Label</path>
+      <value>[ffcc33]30級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/Activity/Label</path>
+      <value>[ffcc33]10級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/Legion/Label</path>
+      <value>[ffcc33]40級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/Slave/Label</path>
+      <value>[ffcc33]32級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/Shop/Label</path>
+      <value>[ffcc33]32級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/Magical/Label</path>
+      <value>[ffcc33]32級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/YuanBao/Label</path>
+      <value>[ffcc33]32級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCityBFG/ExpeditionTitle/Label</path>
+      <value>[ffcc33]15級[-]解鎖</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="PVPView">
+    <uiLabel name="CountDown">
+      <path>PVPView/gobj_Main/Anim/ButtomGroup/ChanglleInfoGroup/CountDown</path>
+      <value>00:00:00
+後可挑戰</value>
+    </uiLabel>
+    <uiLabel name="RankChangeLabel">
+      <path>PVPView/gobj_BattleLog/Anim/LogGroup/BattleLog/BattleLog/gobj_BattleLogComp/BattleResultGroup/RankChangeLabel</path>
+      <value>上升
+150位</value>
+    </uiLabel>
+    <uiLabel name="PVPRank">
+      <path>PVPView/gobj_Rule/Anim/RuleDesc/Rule/AwardDescGroup/GetAwards/gobj_AwardGroup/PVPRank</path>
+      <value>第20名:</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="RankView">
+    <uiLabel name="RefreshLabel">
+      <path>RankView/Anim/RefreshLabel</path>
+      <value>每日0時刷新</value>
+    </uiLabel>
+    <uiLabel name="LevelLabel">
+      <path>RankView/Anim/Source/RankItem/LevelLabel</path>
+      <value>等級：99</value>
+    </uiLabel>
+    <uiLabel name="LastWaveLabel">
+      <path>RankView/Anim/Source/RankItem/LastWaveLabel</path>
+      <value>最後一波：9999999</value>
+    </uiLabel>
+    <uiLabel name="PointLabel">
+      <path>RankView/Anim/Source/RankItem/PointLabel</path>
+      <value>積分：999999999</value>
+    </uiLabel>
+    <uiLabel name="FightPowerLabel">
+      <path>RankView/Anim/Source/RankItem/FightPowerLabel</path>
+      <value>最強戰力:99999999</value>
+    </uiLabel>
+    <uiLabel name="TimeLabel">
+      <path>RankView/Anim/Source/RankItem/TimeLabel</path>
+      <value>戰鬥耗時: 00:00:00</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="RecieveResultVertView">
+    <uiLabel name="DescLabel">
+      <path>RecieveResultVertView/OffsetRoot/DescLabel</path>
+      <value>今日探險2次後可以領取</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="RecruitView">
+    <uiLabel name="UnlockConditionsLb">
+      <path>RecruitView/Anim/gobj_MatchlessPn/gobj_matchless/Lab/UnlockConditionsLb</path>
+      <value>需要VIP3解鎖</value>
+    </uiLabel>
+    <uiLabel name="BraveFreeLb">
+      <path>RecruitView/Anim/gobj_Brave/gobj_Brave/Lab/gobj_BraveFree/BraveFreeLb</path>
+      <value>今日剩餘免費次數：1/5</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="RegistAccountView">
+    <uiLabel name="Accountlb">
+      <path>RegistAccountView/Account/Accountlb</path>
+      <value>6-20個英文字母或數位</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>RegistAccountView/Pwd/Label</path>
+      <value>6-20個英文字母或數位</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>RegistAccountView/ConfirmPwd/Label</path>
+      <value>6-20個英文字母或數位</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="RuleView">
+    <uiLabel name="Rank">
+      <path>RuleView/Anim/RuleDesc/Rule/RuleDescGroup/GetAwards/gobj_AwardGroup/Rank</path>
+      <value>第20名:</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="SignView">
+    <uiLabel name="TotalLoginCount">
+      <path>SignView/Anim/Other/TotalLoginCount</path>
+      <value>已累計登入6天</value>
+    </uiLabel>
+    <uiLabel name="ContinuousLoginR">
+      <path>SignView/Anim/Other/ContinuousLoginR</path>
+      <value>已連續登入6天</value>
+    </uiLabel>
+    <uiLabel name="ExtraAwardTip">
+      <path>SignView/Anim/Other/ExtraAward/ExtraAward/ExtraAwardTip</path>
+      <value>VIP1將額外領取</value>
+    </uiLabel>
+    <uiLabel name="Day">
+      <path>SignView/Anim/Pre/SignItem/Day</path>
+      <value>第1天</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="SoldierAttView">
+    <uiLabel name="Label">
+      <path>SoldierAttView/SoldierIntensifyPanel/Anim/AttributeComparisonGroup/AttGroup/BGSpriteAtt/Label</path>
+      <value>[c4ad87]攻擊:88889</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>SoldierAttView/SoldierIntensifyPanel/Anim/AttributeComparisonGroup/AttGroup/BGSpriteBlood/Label</path>
+      <value>[c4ad87]生命:888898+555555</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>SoldierAttView/SoldierIntensifyPanel/IntensifyLabelItem/Label</path>
+      <value>防禦+15</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>SoldierAttView/SoldierUpStarPanel/Anim/AttributeComparisonGroup/AttGroup/BGSpriteAtt/Label</path>
+      <value>[c4ad87]攻擊:88889[3abd22]+3333</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>SoldierAttView/SoldierUpStarPanel/Anim/AttributeComparisonGroup/AttGroup/BGSpriteBlood/Label</path>
+      <value>[c4ad87]生命:888889[3abd22]+333388</value>
+    </uiLabel>
+    <uiLabel name="PromptLabel">
+      <path>SoldierAttView/SoldierUpStarPanel/Anim/UpStarGroup/PromptLabel</path>
+      <value>武將升星可大幅提高屬性，武將等級上限增加5級</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="SoldierEquipIntensifyView">
+    <uiLabel name="Label">
+      <path>SoldierEquipIntensifyView/IntensifyLabelItem/Label</path>
+      <value>防禦+15</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="SystemSettingView">
+    <uiLabel name="PlayerIDLabel">
+      <path>SystemSettingView/OffsetRoot/Anim/Name/PlayerIDLabel</path>
+      <value>帳號ID：DIS342411</value>
+    </uiLabel>
+    <uiLabel name="Fighting">
+      <path>SystemSettingView/RemoveBlockView/OffsetRoot/RemoveBlockScrollView/RemoveBlockItem/PlayerInfo/Fighting</path>
+      <value>戰鬥力:  999999</value>
+    </uiLabel>
+    <uiLabel name="TodayLastLabel">
+      <path>SystemSettingView/FeedbackView/OffsetRoot/ContentGroup/TodayLastLabel</path>
+      <value>今日剩餘次數：0</value>
+    </uiLabel>
+    <uiLabel name="FeedbackLabel">
+      <path>SystemSettingView/FeedbackView/OffsetRoot/ContentGroup/ContentInupt/FeedbackLabel</path>
+      <value>點擊此處，可輸入200字的意見或建議</value>
+    </uiLabel>
+    <uiLabel name="TitleSprite">
+      <path>SystemSettingView/PushSettingView/Anim/BG/TitleGroup/TitleSprite</path>
+      <value>推送設置</value>
+    </uiLabel>
+    <uiLabel name="BGTip">
+      <path>SystemSettingView/PushSettingView/Anim/BG/BGTip</path>
+      <value>點擊上面按鈕能關閉或開啟相關信息推送</value>
+    </uiLabel>
+    <uiLabel name="SPPushFGLab">
+      <path>SystemSettingView/PushSettingView/Anim/Btn/SPPushButton/SPPushFGLab</path>
+      <value>體力回滿：開</value>
+    </uiLabel>
+    <uiLabel name="SlavePushFGLab">
+      <path>SystemSettingView/PushSettingView/Anim/Btn/SlavePushButton/SlavePushFGLab</path>
+      <value>奴隸消息：開</value>
+    </uiLabel>
+    <uiLabel name="YuanBaoPushFGLab">
+      <path>SystemSettingView/PushSettingView/Anim/Btn/YuanBaoPushButton/YuanBaoPushFGLab</path>
+      <value>免費緣寶：開</value>
+    </uiLabel>
+    <uiLabel name="AgainstPushFGLab">
+      <path>SystemSettingView/PushSettingView/Anim/Btn/AgainstPushButton/AgainstPushFGLab</path>
+      <value>免費招賢：開</value>
+    </uiLabel>
+    <uiLabel name="ShopPushFGLab">
+      <path>SystemSettingView/PushSettingView/Anim/Btn/ShopPushButton/ShopPushFGLab</path>
+      <value>商店刷新：開</value>
+    </uiLabel>
+    <uiLabel name="ZhenBaPushFGLab">
+      <path>SystemSettingView/PushSettingView/Anim/Btn/ZhenBaPushButton/ZhenBaPushFGLab</path>
+      <value>群雄爭霸：開</value>
+    </uiLabel>
+    <uiLabel name="QueRenBaPushFGLab">
+      <path>SystemSettingView/PushSettingView/Anim/Btn/QueRenPushButton/QueRenBaPushFGLab</path>
+      <value>確認修改</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionApplyView">
+    <uiLabel name="ApplyCount">
+      <path>UnionApplyView/ApplyCount</path>
+      <value>申請人數:9</value>
+    </uiLabel>
+    <uiLabel name="OfflineTime">
+      <path>UnionApplyView/Pre/UnionApplyItem/OfflineTime</path>
+      <value>最後離線:10分鐘前</value>
+    </uiLabel>
+    <uiLabel name="FightPower">
+      <path>UnionApplyView/Pre/UnionApplyItem/FightPower</path>
+      <value>最強戰力:999999</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionDonationRecordView">
+    <uiLabel name="FirstPart">
+      <path>UnionDonationRecordView/Pre/DonationRecItem/FirstPart</path>
+      <value>[A08B71]2015/9/11 11:25:25
+成員[FFD665]猩猩洗猩猩[-]，捐獻[-]</value>
+    </uiLabel>
+    <uiLabel name="SecPart">
+      <path>UnionDonationRecordView/Pre/DonationRecItem/SecPart</path>
+      <value>[A08B71]x100000，獲得[-]</value>
+    </uiLabel>
+    <uiLabel name="ThirdPart">
+      <path>UnionDonationRecordView/Pre/DonationRecItem/ThirdPart</path>
+      <value>[A08B71]x99。軍團增加物資9999999[-]</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionDonationView">
+    <uiLabel name="TokenNum">
+      <path>UnionDonationView/Gold/TokenNum</path>
+      <value>可獲得      x555</value>
+    </uiLabel>
+    <uiLabel name="SupplyTip">
+      <path>UnionDonationView/Gold/SupplyTip</path>
+      <value>軍團可獲得資源555</value>
+    </uiLabel>
+    <uiLabel name="TimesCount">
+      <path>UnionDonationView/Gold/TimesCount</path>
+      <value>今日捐獻次數:1/5</value>
+    </uiLabel>
+    <uiLabel name="TokenNum">
+      <path>UnionDonationView/Diamond/TokenNum</path>
+      <value>可獲得      x555</value>
+    </uiLabel>
+    <uiLabel name="SupplyTip">
+      <path>UnionDonationView/Diamond/SupplyTip</path>
+      <value>軍團可獲得資源555</value>
+    </uiLabel>
+    <uiLabel name="TimesCount">
+      <path>UnionDonationView/Diamond/TimesCount</path>
+      <value>今日捐獻次數:1/5</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionHallView">
+    <uiLabel name="CharLv">
+      <path>UnionHallView/Personal/CharLv</path>
+      <value>等級:99</value>
+    </uiLabel>
+    <uiLabel name="WeekLiveness">
+      <path>UnionHallView/Personal/WeekLiveness</path>
+      <value>本周活躍:    99999</value>
+    </uiLabel>
+    <uiLabel name="GetHp">
+      <path>UnionHallView/Personal/GetHp</path>
+      <value>今日領取:    49/50</value>
+    </uiLabel>
+    <uiLabel name="SendHpTimes">
+      <path>UnionHallView/Personal/SendHpTimes</path>
+      <value>今日拜訪:    6/10</value>
+    </uiLabel>
+    <uiLabel name="MemberCount">
+      <path>UnionHallView/Pre/UnionMemberItem/MemberCount</path>
+      <value>最後離線:10分鐘前</value>
+    </uiLabel>
+    <uiLabel name="Liveness">
+      <path>UnionHallView/Pre/UnionMemberItem/Liveness</path>
+      <value>本周活躍:5000</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionHegemonyView">
+    <uiLabel name="TeamCountLabel">
+      <path>UnionHegemonyView/Anim/UnionHInfoItem_Self/TeamCountLabel</path>
+      <value>參戰隊伍:00/99</value>
+    </uiLabel>
+    <uiLabel name="WinCountLabel">
+      <path>UnionHegemonyView/Anim/UnionHInfoItem_Self/WinCountLabel</path>
+      <value>已結勝利:99</value>
+    </uiLabel>
+    <uiLabel name="TeamCountLabel">
+      <path>UnionHegemonyView/Anim/UnionHInfoItem_Enemy/TeamCountLabel</path>
+      <value>參戰隊伍:00/99</value>
+    </uiLabel>
+    <uiLabel name="WinCountLabel">
+      <path>UnionHegemonyView/Anim/UnionHInfoItem_Enemy/WinCountLabel</path>
+      <value>已結勝利:99</value>
+    </uiLabel>
+    <uiLabel name="CombatPowerLabel">
+      <path>UnionHegemonyView/Anim/UnionHPlayerInfoItem_Self/CombatPowerLabel</path>
+      <value>戰力:99999999</value>
+    </uiLabel>
+    <uiLabel name="CombatPowerLabel">
+      <path>UnionHegemonyView/Anim/UnionHPlayerInfoItem_Enemy/CombatPowerLabel</path>
+      <value>戰力:99999999</value>
+    </uiLabel>
+    <uiLabel name="CombatPowerLabel">
+      <path>UnionHegemonyView/Anim/Source/UnionHTeamItem_0/CombatPowerLabel</path>
+      <value>戰力:9999999</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionRankView">
+    <uiLabel name="UnionPointLabel">
+      <path>UnionRankView/Anim/Source/UnionRankItem/UnionPointLabel</path>
+      <value>軍團積分:99999999</value>
+    </uiLabel>
+    <uiLabel name="KillNumLabel">
+      <path>UnionRankView/Anim/Source/UnionRankItem/KillNumLabel</path>
+      <value>殺敵數：00000</value>
+    </uiLabel>
+    <uiLabel name="FightPowerLabel">
+      <path>UnionRankView/Anim/Source/UnionRankItem/FightPowerLabel</path>
+      <value>戰力:99999</value>
+    </uiLabel>
+    <uiLabel name="WinNumLabel">
+      <path>UnionRankView/Anim/Source/UnionRankItem/WinNumLabel</path>
+      <value>勝利場數:00000</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionReadinessView">
+    <uiLabel name="TeamNumLabel">
+      <path>UnionReadinessView/Anim/TeamNumLabel</path>
+      <value>參戰隊伍：0</value>
+    </uiLabel>
+    <uiLabel name="PlayerFightPowerLabel">
+      <path>UnionReadinessView/Source/ReadinessItem/PlayerFightPowerLabel</path>
+      <value>戰力:0</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionView">
+    <uiLabel name="UnionID">
+      <path>UnionView/Anim/Up/UnionID</path>
+      <value>軍團ID:99999999</value>
+    </uiLabel>
+    <uiLabel name="MenberCount">
+      <path>UnionView/Anim/Mid/Hall/MenberCount</path>
+      <value>探險進度99-99</value>
+    </uiLabel>
+    <uiLabel name="Progress">
+      <path>UnionView/Anim/Mid/Advanture/Progress</path>
+      <value>探險進度99-99</value>
+    </uiLabel>
+    <uiLabel name="Rank">
+      <path>UnionView/Anim/Mid/Fight/Rank</path>
+      <value>爭霸排名:123456</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="VipRechargeView">
+    <uiLabel name="TitleLvUpGift">
+      <path>VipRechargeView/VipRecharge/gobj_VipPage/NewVipPage/Gift/TitleLvUpGift</path>
+      <value>VIP豪華升級禮包</value>
+    </uiLabel>
+    <uiLabel name="TitleDayGift">
+      <path>VipRechargeView/VipRecharge/gobj_VipPage/NewVipPage/Gift/TitleDayGift</path>
+      <value>VIP1每日獎勵</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>VipRechargeView/VipRecharge/gobj_VipPage/NewVipPage/Gift/GetLvGift/Label</path>
+      <value>領取</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>VipRechargeView/VipRecharge/gobj_VipPage/NewVipPage/Gift/GetDayGift/Label</path>
+      <value>已領取</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>VipRechargeView/VipRecharge/Pre/RechargeItem/RechargeInfo/Title</path>
+      <value>6480元寶</value>
+    </uiLabel>
+    <uiLabel name="Desc">
+      <path>VipRechargeView/VipRecharge/Pre/RechargeItem/RechargeInfo/Desc</path>
+      <value>贈送2000元寶</value>
+    </uiLabel>
+    <uiLabel name="Price">
+      <path>VipRechargeView/VipRecharge/Pre/RechargeItem/RechargeInfo/Price</path>
+      <value>648元</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="WalkthroughView">
+    <uiLabel name="LeftItem_Title">
+      <path>WalkthroughView/PanelLeft/LeftScrollView/LeftGrid/LeftItem/LeftItem_Title</path>
+      <value>如何獲取銅錢</value>
+    </uiLabel>
+    <uiLabel name="RightTitle">
+      <path>WalkthroughView/PanelRight/RightTitle</path>
+      <value>如何獲取銅錢</value>
+    </uiLabel>
+    <uiLabel name="RightItem_ConditionHint">
+      <path>WalkthroughView/PanelRight/RightScrollView/RightGrid/RightItemJumpTo/RightItem_SingleInfo/RightItem_IconBack/RightItem_ConditionHint</path>
+      <value>35級解鎖</value>
+    </uiLabel>
+    <uiLabel name="RightHint">
+      <path>WalkthroughView/PanelRight/RightScrollView/RightGrid/RightItemContent/RightHint</path>
+      <value>相關跳轉：</value>
+    </uiLabel>
+  </uiRoot>
+</Data>

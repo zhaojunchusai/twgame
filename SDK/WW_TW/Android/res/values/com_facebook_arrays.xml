@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="overriderUrl">
+        <item>https://account.live.com/ResetPassword.aspx</item>
+        <item>https://accounts.google.com/SignUp</item>
+        
+        <item>https://accounts.google.com/RecoverAccount</item>
+        <item>http://www.google.com/intl/zh-CN/privacy/</item>
+        <item>http://www.google.com/support/accounts?hl=zh-CN</item>
+        <item>http://go.microsoft.com/fwlink/?LinkID=254486</item>
+        <item>https://signup.live.com/signup.aspx</item>
+        <item>https://www.google.com/accounts/recovery</item>
+        <item>market://details?id=com.facebook.katana</item>
+        <item>mailto:xunlecorp@qq.com</item>
+    </string-array>
+
+    <string-array name="yahooOverriderUrl">
+        <item>https://edit.yahoo.com/config/eval_forgot_pw</item>
+        <item>https://legalredirect.yahoo.com/copyright?intl=us</item>
+        <item>https://legalredirect.yahoo.com/utos?intl=us</item>
+        <item>http://security.yahoo.com/</item>
+        <item>https://legalredirect.yahoo.com/privacy?intl=us</item>
+        <item>http://help.yahoo.com/kb/index?local</item>
+        <item>https://open.login.yahoo.com/openid/op/html/us/atos.php</item>
+        <item>http://help.yahoo.com/l/en-us/yahoo/edit/</item>
+        <item>https://login.yahoo.com/config/login?.src=ymbr</item>
+    </string-array>
+    
+</resources>

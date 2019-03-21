@@ -1,0 +1,20 @@
+
+juntuan2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juntuan
+  rotate: true
+  xy: 2, 61
+  size: 186, 419
+  orig: 186, 419
+  offset: 0, 0
+  index: -1
+juntuanqizi
+  rotate: true
+  xy: 2, 2
+  size: 57, 90
+  orig: 57, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+choujiang2.png
+size: 869,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZXG_Blue_bg
+  rotate: false
+  xy: 2, 98
+  size: 286, 430
+  orig: 286, 430
+  offset: 0, 0
+  index: -1
+ZXG_Blue_bg01
+  rotate: false
+  xy: 290, 133
+  size: 241, 81
+  orig: 241, 81
+  offset: 0, 0
+  index: -1
+pd1
+  rotate: false
+  xy: 585, 132
+  size: 209, 123
+  orig: 209, 123
+  offset: 0, 0
+  index: -1
+pd2
+  rotate: true
+  xy: 2, 2
+  size: 94, 346
+  orig: 94, 346
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 290, 216
+  size: 271, 312
+  orig: 271, 312
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 563, 257
+  size: 235, 271
+  orig: 235, 271
+  offset: 0, 0
+  index: -1
+t
+  rotate: true
+  xy: 585, 2
+  size: 128, 170
+  orig: 128, 170
+  offset: 0, 0
+  index: -1
+td
+  rotate: false
+  xy: 800, 432
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+td2
+  rotate: true
+  xy: 832, 400
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+tf
+  rotate: true
+  xy: 350, 4
+  size: 127, 233
+  orig: 127, 233
+  offset: 0, 0
+  index: -1
+tf1
+  rotate: false
+  xy: 757, 5
+  size: 92, 125
+  orig: 92, 125
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: false
+  xy: 800, 358
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1

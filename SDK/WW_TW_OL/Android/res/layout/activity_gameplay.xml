@@ -1,0 +1,197 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#a2a3dc"
+    tools:context=".GameLoginActivity" >
+
+    <!-- 登录 -->
+
+    <RelativeLayout
+        android:id="@+id/l0"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="登录" />
+    </RelativeLayout>
+
+    <!-- 选服 -->
+
+    <RelativeLayout
+        android:id="@+id/l1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/tv_serverid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="150dp"
+            android:text="设置服务器ID："
+            android:textColor="#000"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/et_serverid"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_below="@id/tv_serverid"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:inputType="text"
+            android:singleLine="true"
+            android:text="s1"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/btn_setserverid"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:text="提交，下一步"
+            android:textColor="#000" />
+    </RelativeLayout>
+
+    <!-- 选角 -->
+
+    <RelativeLayout
+        android:id="@+id/l2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="visible" >
+
+        <LinearLayout
+            android:id="@+id/l2_roleid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="150dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <TextView
+                android:id="@+id/tv_roleid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="设置角色ID："
+                android:textColor="#000"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/et_roleid"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:inputType="text"
+                android:singleLine="true"
+                android:text="1001"
+                android:textColor="#000" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l2_role"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/l2_roleid"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <TextView
+                android:id="@+id/tv_role"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="设置角色名称："
+                android:textColor="#000"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/et_role"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:inputType="text"
+                android:singleLine="true"
+                android:text="role1001"
+                android:textColor="#000" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_setrole"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:text="提交，下一步"
+            android:textColor="#000" />
+    </RelativeLayout>
+
+    <!-- 正常游戏 -->
+
+    <RelativeLayout
+        android:id="@+id/l3"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/btn_pay"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="150dp"
+            android:text="储值" />
+
+        <Button
+            android:id="@+id/btn_customer"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/btn_pay"
+            android:layout_centerHorizontal="true"
+            android:text="客服" />
+
+        <Button
+            android:id="@+id/btn_exit"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/btn_customer"
+            android:layout_centerHorizontal="true"
+            android:text="退出" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true" >
+
+            <Button
+                android:id="@+id/btn_assecc"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1.0"
+                android:text="获取FB AsseccToken" />
+
+            <Button
+                android:id="@+id/btn_share"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1.0"
+                android:text="分享FB Share" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

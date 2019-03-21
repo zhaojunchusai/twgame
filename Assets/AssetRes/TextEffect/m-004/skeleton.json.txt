@@ -1,0 +1,33 @@
+{
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "lightning", "bone": "root", "attachment": "4" }
+],
+"skins": {
+	"default": {
+		"lightning": {
+			"1": { "x": 5.78, "y": 117.02, "width": 181, "height": 331 },
+			"2": { "x": 5.78, "y": 117.02, "width": 181, "height": 331 },
+			"3": { "x": 5.78, "y": 117.02, "width": 181, "height": 331 },
+			"4": { "x": 5.78, "y": 117.02, "width": 181, "height": 331 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"lightning": {
+				"attachment": [
+					{ "time": 0, "name": "1" },
+					{ "time": 0.0666, "name": "2" },
+					{ "time": 0.1333, "name": "3" },
+					{ "time": 0.2, "name": "4" },
+					{ "time": 0.2666, "name": null }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,25 @@
+<Data Count="1">
+  <Line>
+	<boss_time>0</boss_time>
+	<cont_time>30</cont_time>
+	<challenge_cd>60</challenge_cd>
+	<clear_cd_diamond>2:10</clear_cd_diamond>
+	<clear_buff_diamond>1:10000:1;2:20:5</clear_buff_diamond>
+	<buff_effect_rate>5</buff_effect_rate>
+	<worship_Refresh_time>00:00:00</worship_Refresh_time>
+	<hegemony_rule_content>1.每天定时开放</hegemony_rule_content>
+	<hegemony_award>1:84100001;2:84100002;3:84100003;4:84100004;5:84200001;6:84200002;7:84200003;8:84200004;9:84300001;10:84300002;11:84300003;12:84300004;13:84400001;14:84400002;15:84400003;16:84400004;17:84500001;18:84500002;19:84500003;20:84500004</hegemony_award>
+	<min_award>84600001</min_award>
+	<worship_award>96139003</worship_award>
+	<tribute_award>96139004</tribute_award>
+	<max_HP>20</max_HP>
+	<min_HP>30</min_HP>
+	<wait_time>3</wait_time>
+	<fight_time>300</fight_time>
+	<init_magic>0</init_magic>
+	<fight_backpic>image_battle_11,image_battle_11</fight_backpic>
+	<fight_speed>2</fight_speed>
+  <worship_award_desc>20-50元寶</worship_award_desc>
+  <tribute_award_desc>50-80元寶</tribute_award_desc>
+  </Line>
+</Data>

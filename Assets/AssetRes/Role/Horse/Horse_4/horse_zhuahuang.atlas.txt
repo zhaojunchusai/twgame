@@ -1,0 +1,132 @@
+
+horse_zhuahuang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+horse_body
+  rotate: false
+  xy: 130, 129
+  size: 197, 125
+  orig: 197, 125
+  offset: 0, 0
+  index: -1
+horse_head
+  rotate: false
+  xy: 2, 57
+  size: 126, 197
+  orig: 126, 197
+  offset: 0, 0
+  index: -1
+horse_leg_1f_a
+  rotate: false
+  xy: 409, 81
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+horse_leg_1f_b
+  rotate: true
+  xy: 465, 71
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+horse_leg_1f_c
+  rotate: false
+  xy: 130, 29
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+horse_leg_1r_a
+  rotate: true
+  xy: 329, 85
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+horse_leg_1r_b
+  rotate: true
+  xy: 167, 2
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+horse_leg_1r_c
+  rotate: false
+  xy: 171, 29
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+horse_leg_2f_a
+  rotate: true
+  xy: 73, 12
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+horse_leg_2f_b
+  rotate: true
+  xy: 129, 2
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+horse_leg_2f_c
+  rotate: false
+  xy: 208, 33
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+horse_leg_2r_a
+  rotate: true
+  xy: 2, 2
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+horse_leg_2r_b
+  rotate: false
+  xy: 283, 36
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+horse_leg_2r_c
+  rotate: false
+  xy: 248, 32
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+horse_neck
+  rotate: false
+  xy: 329, 147
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+horse_ornament1
+  rotate: false
+  xy: 465, 100
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+horse_tail
+  rotate: false
+  xy: 438, 163
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 130, 67
+  size: 182, 60
+  orig: 182, 60
+  offset: 0, 0
+  index: -1

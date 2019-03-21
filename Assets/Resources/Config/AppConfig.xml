@@ -1,0 +1,16 @@
+<Data Count="1">
+  <Line>
+	<current_ver>0</current_ver>
+	<versionId>0</versionId>
+	<verType>1</verType>
+	<open_dlc>0</open_dlc>
+	<open_gm>0</open_gm>
+  <webip_local>http://192.168.0.249:10201/</webip_local>
+  <webip_SF>http://218.93.248.115:10201/</webip_SF>
+  <webip>http://61.219.16.52:30201/</webip>
+  <dlcip_local>http://192.168.0.252:10201/</dlcip_local>
+	<dlcip_SF>http://218.93.248.115:10201/</dlcip_SF>
+  <dlcip>http://123.57.7.132:30201/</dlcip>
+  <open_net>1</open_net>
+  </Line>
+</Data>

@@ -1,0 +1,26 @@
+<Data Count="3">
+  <Line>
+	<chapter_id>72010000</chapter_id>
+	<min_level>30</min_level>
+	<max_level>59</max_level>
+	<first_dungeon_id>72010001</first_dungeon_id>
+	<dungeon_id>72010001;72010002;72010003;72010004;72010005;72010006;72010007;72010008;72010009;72010010;72010011;72010012;72010013;72010014;72010015</dungeon_id>
+	<backdrop_pic>image_ChapterBG_11_1.assetbundle,image_ChapterBG_11_2.assetbundle,image_ChapterBG_11_3.assetbundle</backdrop_pic>
+  </Line>
+  <Line>
+	<chapter_id>72020000</chapter_id>
+	<min_level>60</min_level>
+	<max_level>84</max_level>
+	<first_dungeon_id>72020001</first_dungeon_id>
+	<dungeon_id>72020001;72020002;72020003;72020004;72020005;72020006;72020007;72020008;72020009;72020010;72020011;72020012;72020013;72020014;72020015</dungeon_id>
+	<backdrop_pic>image_ChapterBG_11_1.assetbundle,image_ChapterBG_11_2.assetbundle,image_ChapterBG_11_3.assetbundle</backdrop_pic>
+  </Line>
+  <Line>
+	<chapter_id>72030000</chapter_id>
+	<min_level>85</min_level>
+	<max_level>100</max_level>
+	<first_dungeon_id>72030001</first_dungeon_id>
+	<dungeon_id>72030001;72030002;72030003;72030004;72030005;72030006;72030007;72030008;72030009;72030010;72030011;72030012;72030013;72030014;72030015</dungeon_id>
+	<backdrop_pic>image_ChapterBG_11_1.assetbundle,image_ChapterBG_11_2.assetbundle,image_ChapterBG_11_3.assetbundle</backdrop_pic>
+  </Line>
+</Data>

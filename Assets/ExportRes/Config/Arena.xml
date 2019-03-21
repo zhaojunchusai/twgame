@@ -1,0 +1,16 @@
+<Data Count="1">
+  <Line>
+	<free_times>5</free_times>
+	<max_times>5</max_times>
+	<every_buy_num>5</every_buy_num>
+	<challenge_cd>300</challenge_cd>
+	<clear_cd_diamond>88</clear_cd_diamond>
+	<award_time>21:00:00</award_time>
+	<reset_time>00:00:00</reset_time>
+	<max_energy>750</max_energy>
+	<award_title>演武奖励</award_title>
+	<award_content>恭喜您在演武台中排行中排行第%d，获得以下奖励:</award_content>
+	<high_award_title>最高奖励</high_award_title>
+	<high_award_content>恭喜您在演武台中排行中最高排行第%d，获得以下奖励:</high_award_content>
+  </Line>
+</Data>

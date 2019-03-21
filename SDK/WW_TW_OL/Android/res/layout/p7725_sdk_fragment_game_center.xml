@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.platform7725.gamesdk.view.TitleView
+        android:id="@+id/game_center_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+
+    <com.platform7725.gamesdk.view.ScrollViewExtend
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/p7725_sdk_background" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:orientation="horizontal"
+                android:padding="@dimen/p7725_distance" >
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/game_center_ad"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <com.platform7725.gamesdk.view.ImproveListView
+                android:id="@+id/game_center_list"
+                style="@style/style_listview"
+                android:layout_marginLeft="@dimen/p7725_distance"
+                android:layout_marginRight="@dimen/p7725_distance"
+                android:dividerHeight="@dimen/p7725_distance"
+                android:paddingBottom="@dimen/p7725_distance"
+                android:visibility="gone" />
+
+            <com.platform7725.gamesdk.view.ImproveGridView
+                android:id="@+id/game_center_grid"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:horizontalSpacing="@dimen/p7725_distance"
+                android:numColumns="2"
+                android:paddingBottom="@dimen/p7725_distance"
+                android:paddingLeft="@dimen/p7725_distance"
+                android:paddingRight="@dimen/p7725_distance"
+                android:verticalSpacing="@dimen/p7725_distance"
+                android:visibility="gone" />
+
+            <include layout="@layout/p7725_sdk_item_search_more" />
+        </LinearLayout>
+    </com.platform7725.gamesdk.view.ScrollViewExtend>
+
+</LinearLayout>

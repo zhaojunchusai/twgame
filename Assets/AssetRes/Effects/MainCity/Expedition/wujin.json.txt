@@ -1,0 +1,35 @@
+{
+"skeleton": {
+	"hash": "gMvR/HbYbpZYRNfzZUzhVQd9+8M",
+	"spine": "2.1.27",
+	"width": 150,
+	"height": 150,
+	"images": "E:/03.Ltd/art/02.程序用资源/4. 特效/界面/无尽/"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "0", "bone": "root", "attachment": "0" }
+],
+"skins": {
+	"default": {
+		"0": {
+			"0": { "x": -11.99, "y": 46, "width": 150, "height": 150 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"0": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.5333, "color": "ffffff68" },
+					{ "time": 1.0666, "color": "ffffffff" }
+				]
+			}
+		}
+	}
+}
+}

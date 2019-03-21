@@ -1,0 +1,62 @@
+
+debuff_stunned.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yx1
+  rotate: false
+  xy: 2, 128
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+yx2
+  rotate: false
+  xy: 2, 86
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+yx3
+  rotate: false
+  xy: 101, 128
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+yx4
+  rotate: false
+  xy: 2, 44
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+yx5
+  rotate: false
+  xy: 101, 86
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+yx6
+  rotate: false
+  xy: 2, 2
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+yx7
+  rotate: false
+  xy: 101, 44
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+yx8
+  rotate: true
+  xy: 200, 71
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1

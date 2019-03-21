@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+  <uiRoot name="AdvanceTipView">
+    <uiLabel name="Label">
+      <path>AdvanceTipView/Accept/Label</path>
+      <value>確認</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="CrossServerWarView">
+    <uiLabel name="UnionName">
+      <path>CrossServerWarView/BattleField/BattleFieldAnim/TileItem/UnionName</path>
+      <value>军团...</value>
+    </uiLabel>
+    <uiLabel name="RankListLabel">
+      <path>CrossServerWarView/ButtonGroup/ButtonGroupAnim/RankListButton/RankListLabel</path>
+      <value>排行</value>
+    </uiLabel>
+    <uiLabel name="RuleLabel">
+      <path>CrossServerWarView/ButtonGroup/ButtonGroupAnim/RuleButton/RuleLabel</path>
+      <value>規則</value>
+    </uiLabel>
+    <uiLabel name="BattleCountdownDesc">
+      <path>CrossServerWarView/ButtonGroup/ButtonGroupAnim/BattleCountdown/BattleCountdownDesc</path>
+      <value>15:55:55 后战役结束</value>
+    </uiLabel>
+    <uiLabel name="RestCountdownDesc">
+      <path>CrossServerWarView/ButtonGroup/ButtonGroupAnim/RestCountdown/RestCountdownDesc</path>
+      <value>00:04:59 后修整完毕</value>
+    </uiLabel>
+    <uiLabel name="SearchLabel">
+      <path>CrossServerWarView/ButtonGroup/ButtonGroupAnim/SearchTile/SearchButton/SearchLabel</path>
+      <value>查找</value>
+    </uiLabel>
+    <uiLabel name="TitleLabel">
+      <path>CrossServerWarView/Rule/RuleAnim/BGGroup/TitleGroup/TitleLabel</path>
+      <value>規則</value>
+    </uiLabel>
+    <uiLabel name="TileTitle">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/TitleObj/TileTitle</path>
+      <value>空地</value>
+    </uiLabel>
+    <uiLabel name="TitleScore">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/TitleLabels/TitleScore</path>
+      <value>積分</value>
+    </uiLabel>
+    <uiLabel name="TitleName">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/TitleLabels/TitleName</path>
+      <value>军团名</value>
+    </uiLabel>
+    <uiLabel name="TitleRank">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/TitleLabels/TitleRank</path>
+      <value>名次</value>
+    </uiLabel>
+    <uiLabel name="TitleAward">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/TitleLabels/TitleAward</path>
+      <value>地塊信息</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Pre/RankScoreItem/Name</path>
+      <value>角色名六个字</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Left/UnionRank/Label</path>
+      <value>軍團排名</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Left/PersonRank/Label</path>
+      <value>成員排名</value>
+    </uiLabel>
+    <uiLabel name="TileIDLabel">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/TileIDLabel</path>
+      <value>編號:</value>
+    </uiLabel>
+    <uiLabel name="OwnerLabel">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/OwnerLabel</path>
+      <value>所屬:</value>
+    </uiLabel>
+    <uiLabel name="OwnerContent">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/OwnerContent</path>
+      <value>无主之地</value>
+    </uiLabel>
+    <uiLabel name="StateLabel">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/StateLabel</path>
+      <value>狀態:</value>
+    </uiLabel>
+    <uiLabel name="StateContent">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/StateContent</path>
+      <value>交战地</value>
+    </uiLabel>
+    <uiLabel name="MilitarySuppliesLabel">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/MilitarySuppliesLabel</path>
+      <value>軍需産出:</value>
+    </uiLabel>
+    <uiLabel name="ControlTurnsLabel">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/ControlTurnsLabel</path>
+      <value>占領場次:</value>
+    </uiLabel>
+    <uiLabel name="ControlTurnstContent">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/ControlTurnstContent</path>
+      <value>未被占领</value>
+    </uiLabel>
+    <uiLabel name="SpecialProdutionLabel">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/SpecialProdutionLabel</path>
+      <value>特殊産出:</value>
+    </uiLabel>
+    <uiLabel name="FightCDTip">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/FightCDTip</path>
+      <value>[E3A94B]军队需要休整[5AE46B]00:04:59[-]才能继续出战[-]</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CrossServerWarView/TileInfo/TileInfoAnim/Right/Fight/Label</path>
+      <value>出戰</value>
+    </uiLabel>
+    <uiLabel name="TitleLabel">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/TitleGroup/TitleLabel</path>
+      <value>軍團信息</value>
+    </uiLabel>
+    <uiLabel name="UnionNameLabel">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/Name/UnionNameLabel</path>
+      <value>军团没有名字</value>
+    </uiLabel>
+    <uiLabel name="UnionLevelLabel">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/Name/UnionLevelLabel</path>
+      <value>等级：10</value>
+    </uiLabel>
+    <uiLabel name="PopulationLabel">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/PopulationLabel</path>
+      <value>軍團人數：</value>
+    </uiLabel>
+    <uiLabel name="MaterialLabel">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/MaterialLabel</path>
+      <value>當前物資：</value>
+    </uiLabel>
+    <uiLabel name="NormalTerritoryLabel">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/NormalTerritoryLabel</path>
+      <value>壹般領地：</value>
+    </uiLabel>
+    <uiLabel name="SpecialTerritoryLabel">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/SpecialTerritoryLabel</path>
+      <value>特殊領地：</value>
+    </uiLabel>
+    <uiLabel name="FightTerritoryLabel">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/FightTerritoryLabel</path>
+      <value>交戰領地：</value>
+    </uiLabel>
+    <uiLabel name="MinProductionLabel">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/MinProductionLabel</path>
+      <value>物資産出：</value>
+    </uiLabel>
+    <uiLabel name="SpecialProductionLabel">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/SpecialProductionLabel</path>
+      <value>特殊産出：</value>
+    </uiLabel>
+    <uiLabel name="DetailInfoSprite">
+      <path>CrossServerWarView/UnionInfo/UnionInfoAnim/DetailInfoButton/DetailInfoSprite</path>
+      <value>詳細</value>
+    </uiLabel>
+    <uiLabel name="TitleLabel">
+      <path>CrossServerWarView/SpecialProductionInfo/SPInfoAnim/TitleGroup/TitleLabel</path>
+      <value>特殊産出</value>
+    </uiLabel>
+    <uiLabel name="TileIDTitle">
+      <path>CrossServerWarView/SpecialProductionInfo/SPInfoAnim/TitleBarSprite/TileIDTitle</path>
+      <value>地塊編號</value>
+    </uiLabel>
+    <uiLabel name="ProductionsTitle">
+      <path>CrossServerWarView/SpecialProductionInfo/SPInfoAnim/TitleBarSprite/ProductionsTitle</path>
+      <value>産出</value>
+    </uiLabel>
+    <uiLabel name="OwnerStateTitle">
+      <path>CrossServerWarView/SpecialProductionInfo/SPInfoAnim/TitleBarSprite/OwnerStateTitle</path>
+      <value>狀態</value>
+    </uiLabel>
+    <uiLabel name="OwnerState">
+      <path>CrossServerWarView/SpecialProductionInfo/SPInfoAnim/OutputItem/OwnerState</path>
+      <value>已占领</value>
+    </uiLabel>
+    <uiLabel name="ServerTitle">
+      <path>CrossServerWarView/ServerInfo/ServerInfoAnim/TitleObj/ServerTitle</path>
+      <value>獎勵信息</value>
+    </uiLabel>
+    <uiLabel name="ServerNameTitle">
+      <path>CrossServerWarView/ServerInfo/ServerInfoAnim/ServerListBlock/ServerNameTitle</path>
+      <value>参与服务器:</value>
+    </uiLabel>
+    <uiLabel name="TitleAward">
+      <path>CrossServerWarView/ServerInfo/ServerInfoAnim/AwardListBlock/TitleAward</path>
+      <value>--战役奖励--</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CrossServerWarView/ServerInfo/ServerInfoAnim/AwardListBlock/BattleAward/Label</path>
+      <value>戰役</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CrossServerWarView/ServerInfo/ServerInfoAnim/AwardListBlock/SeasonAward/Label</path>
+      <value>賽季</value>
+    </uiLabel>
+    <uiLabel name="RankingLabel">
+      <path>CrossServerWarView/ServerInfo/ServerInfoAnim/AwardListBlock/RankingAwardsItem/RankingLabel</path>
+      <value>1-1000物资</value>
+    </uiLabel>
+    <uiLabel name="Bulletin">
+      <path>CrossServerWarView/ServerInfo/ServerInfoAnim/BulletinBoardBg/Bulletin</path>
+      <value>第x场战役将在59:59:59后开</value>
+    </uiLabel>
+    <uiLabel name="EnemyTip">
+      <path>CrossServerWarView/StageInfo/StageInfoAnim/EnemyGroup/EnemyTip</path>
+      <value>敵方陣容</value>
+    </uiLabel>
+    <uiLabel name="NameLabel">
+      <path>CrossServerWarView/StageInfo/StageInfoAnim/EnemyGroup/EnemyGrid/gobj_EnemyInfoComp/NameLabel</path>
+      <value>敌方</value>
+    </uiLabel>
+    <uiLabel name="AwardsTitle">
+      <path>CrossServerWarView/StageInfo/StageInfoAnim/AwardsGroup/AwardsTitle</path>
+      <value>戰場獎勵</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>CrossServerWarView/StageInfo/StageInfoAnim/BGGroup/TitleGroup/Title</path>
+      <value>戰場信息</value>
+    </uiLabel>
+    <uiLabel name="TopTiltle">
+      <path>CrossServerWarView/StageInfo/StageInfoAnim/gobj_IntegralGroup/gobj_TopRank/TopTiltle</path>
+      <value>積分最高軍團:</value>
+    </uiLabel>
+    <uiLabel name="IntegralTiltle">
+      <path>CrossServerWarView/StageInfo/StageInfoAnim/gobj_IntegralGroup/gobj_Integral/IntegralTiltle</path>
+      <value>積分:</value>
+    </uiLabel>
+    <uiLabel name="MyIntegralTiltle">
+      <path>CrossServerWarView/StageInfo/StageInfoAnim/gobj_IntegralGroup/gobj_MyIntegral/MyIntegralTiltle</path>
+      <value>我的軍團積分:</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ExoticAdvantureInfoView">
+    <uiLabel name="Label">
+      <path>ExoticAdvantureInfoView/gobj_StageInfoGroup/Purchase/Label</path>
+      <value>购买</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ExpeditionInfoView">
+    <uiLabel name="PetChange">
+      <path>ExpeditionInfoView/gobj_EquipSelect/Gobj_EquipPet/PetChange</path>
+      <value>换</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="FightView">
+    <uiLabel name="CSW_IntegralTitle">
+      <path>FightView/FightResult/Result_CrossServerWar/CSW_IntegralTitle</path>
+      <value>傷害積分：</value>
+    </uiLabel>
+    <uiLabel name="CSW_AwardTitle">
+      <path>FightView/FightResult/Result_CrossServerWar/CSW_AwardTitle</path>
+      <value>獲得獎勵：</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="GateInfoView">
+    <uiLabel name="PetChange">
+      <path>GateInfoView/gobj_EquipSelect/Gobj_EquipPet/PetChange</path>
+      <value>换</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="HeroAttributeView">
+    <uiLabel name="ShowPet">
+      <path>HeroAttributeView/Anim/center/ShowPetButton/ShowPet</path>
+      <value>展示宠物</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="PetChooseView">
+    <uiLabel name="Name">
+      <path>PetChooseView/Anim/PetChooseScrollView/Grid/gobj_PetChooseComp/Name</path>
+      <value>削鐵劍</value>
+    </uiLabel>
+    <uiLabel name="TTSprite">
+      <path>PetChooseView/Anim/TitleGroup/TTSprite</path>
+      <value>选择宠物</value>
+    </uiLabel>
+    <uiLabel name="UninstallDesc">
+      <path>PetChooseView/Anim/UninstallButton/UninstallDesc</path>
+      <value>卸下</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="PetSystemView">
+    <uiLabel name="Label">
+      <path>PetSystemView/Anim/Title/Label</path>
+      <value>寵物</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>PetSystemView/Anim/LeftGroup/EquipButton/Label</path>
+      <value>篩選</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>PetSystemView/Anim/CenterGroup/PetInfoGroup/Talent/Title</path>
+      <value>等級</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>PetSystemView/Anim/CenterGroup/ButtomGroup/gobj_AttDescGroup/AddAttGroup/Title</path>
+      <value>增加屬性:</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>PetSystemView/Anim/CenterGroup/ButtomGroup/gobj_AttDescGroup/UpgradeButton/Label</path>
+      <value>升級</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>PetSystemView/Anim/CenterGroup/ButtomGroup/gobj_AttDescGroup/UpgradeMaterialGroup/QuickMatItem/Title</path>
+      <value>補全材料消耗</value>
+    </uiLabel>
+    <uiLabel name="GetPathTitle">
+      <path>PetSystemView/Anim/CenterGroup/ButtomGroup/gobj_GetPathGroup/GetPathTitle</path>
+      <value>獲得方式:</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>PetSystemView/Anim/CenterGroup/ButtomGroup/gobj_GetPathGroup/JumpButton/Label</path>
+      <value>相關跳轉</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>PetSystemView/Anim/RightGroup/StrengthButton/Label</path>
+      <value>強化</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>PetSystemView/Anim/RightGroup/gobj_StrengthMaterialGroup/QuickMatItem/Title</path>
+      <value>補全材料消耗</value>
+    </uiLabel>
+    <uiLabel name="Desc">
+      <path>PetSystemView/Anim/TopAttGroup/Desc</path>
+      <value>寵物增加英雄屬性:</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="PrepareBattleView">
+    <uiLabel name="PetChange">
+      <path>PrepareBattleView/gobj_EquipSelect/Anim/Gobj_EquipPet/PetChange</path>
+      <value>换</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="PVPView">
+    <uiLabel name="PetChange">
+      <path>PVPView/gobj_EquipSelect/Anim/Gobj_EquipPet/PetChange</path>
+      <value>换</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionView">
+    <uiLabel name="HintInfo">
+      <path>UnionView/Content/Mid/CrossServerWar/HintBG/HintInfo</path>
+      <value>99:99:99後活動開始</value>
+    </uiLabel>
+  </uiRoot>
+</Data>

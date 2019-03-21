@@ -1,0 +1,125 @@
+
+horse_junma.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+horse_body
+  rotate: false
+  xy: 2, 153
+  size: 175, 101
+  orig: 175, 101
+  offset: 0, 0
+  index: -1
+horse_head
+  rotate: false
+  xy: 2, 24
+  size: 108, 127
+  orig: 108, 127
+  offset: 0, 0
+  index: -1
+horse_leg_1f_a
+  rotate: false
+  xy: 264, 127
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+horse_leg_1f_b
+  rotate: false
+  xy: 323, 155
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+horse_leg_1f_c
+  rotate: false
+  xy: 355, 145
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+horse_leg_1r_a
+  rotate: false
+  xy: 198, 111
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+horse_leg_1r_b
+  rotate: false
+  xy: 244, 76
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+horse_leg_1r_c
+  rotate: false
+  xy: 155, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+horse_leg_2f_a
+  rotate: false
+  xy: 198, 50
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+horse_leg_2f_b
+  rotate: true
+  xy: 458, 156
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+horse_leg_2f_c
+  rotate: false
+  xy: 112, 2
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+horse_leg_2r_a
+  rotate: false
+  xy: 458, 185
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+horse_leg_2r_b
+  rotate: false
+  xy: 434, 154
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+horse_leg_2r_c
+  rotate: false
+  xy: 399, 152
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+horse_neck
+  rotate: false
+  xy: 112, 40
+  size: 84, 111
+  orig: 84, 111
+  offset: 0, 0
+  index: -1
+horse_tail
+  rotate: true
+  xy: 363, 188
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 179, 194
+  size: 182, 60
+  orig: 182, 60
+  offset: 0, 0
+  index: -1

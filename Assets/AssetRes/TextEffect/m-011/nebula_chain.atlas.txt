@@ -1,0 +1,76 @@
+
+nebula_chain.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 363
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 2
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 220
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 295, 363
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 77
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 295, 220
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 588, 363
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 881, 213
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 588, 220
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 295, 77
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+dashu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu_zuo
+  rotate: false
+  xy: 2, 19
+  size: 474, 260
+  orig: 474, 260
+  offset: 0, 0
+  index: -1
+yezi_01
+  rotate: false
+  xy: 2, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+denglujiemian.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_qi1
+  rotate: true
+  xy: 2, 2
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+L_qi2
+  rotate: true
+  xy: 87, 7
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+L_qi3
+  rotate: true
+  xy: 235, 20
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+L_qi4
+  rotate: true
+  xy: 279, 18
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+R_qi1
+  rotate: true
+  xy: 163, 7
+  size: 36, 70
+  orig: 36, 70
+  offset: 0, 0
+  index: -1
+R_qi2
+  rotate: true
+  xy: 320, 22
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1

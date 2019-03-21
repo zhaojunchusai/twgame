@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="p7725_sdk_all_background">#E6E6E6</color>
+    <color name="p7725_sdk_white">#fff</color>
+    <color name="p7725_sdk_black">#000</color>
+    <color name="p7725_sdk_gray_deep">#777777</color>
+    <color name="p7725_sdk_background">#EEEEEE</color>
+    <color name="p7725_sdk_black_light">#333333</color>
+    <color name="p7725_sdk_orange_light">#F97523</color>
+    <color name="p7725_sdk_clause">#F97523</color> 
+    <color name="p7725_sdk_transparent">#00FFFFFF</color>
+
+</resources>

@@ -1,0 +1,118 @@
+
+zhaomu_anniu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZXG_Purple_bg
+  rotate: false
+  xy: 2, 112
+  size: 262, 388
+  orig: 262, 388
+  offset: 0, 0
+  index: -1
+ZXG_Purple_bg01
+  rotate: false
+  xy: 2, 2
+  size: 220, 108
+  orig: 220, 108
+  offset: 0, 0
+  index: -1
+houpian
+  rotate: false
+  xy: 795, 383
+  size: 117, 41
+  orig: 117, 41
+  offset: 0, 0
+  index: -1
+houpiaodai
+  rotate: false
+  xy: 553, 367
+  size: 240, 133
+  orig: 240, 133
+  offset: 0, 0
+  index: -1
+juese
+  rotate: false
+  xy: 266, 180
+  size: 285, 320
+  orig: 285, 320
+  offset: 0, 0
+  index: -1
+shangfa
+  rotate: false
+  xy: 224, 27
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 266, 114
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 655, 188
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+xiafa
+  rotate: false
+  xy: 486, 120
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: false
+  xy: 692, 191
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+xiong2
+  rotate: true
+  xy: 512, 137
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+xiongqian
+  rotate: false
+  xy: 655, 302
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+youpiaodai
+  rotate: true
+  xy: 795, 426
+  size: 74, 141
+  orig: 74, 141
+  offset: 0, 0
+  index: -1
+zhengxiabai
+  rotate: false
+  xy: 692, 233
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+zuopiaodai
+  rotate: false
+  xy: 553, 183
+  size: 100, 182
+  orig: 100, 182
+  offset: 0, 0
+  index: -1
+zuoxiabai
+  rotate: false
+  xy: 938, 431
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1

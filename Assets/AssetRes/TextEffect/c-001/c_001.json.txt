@@ -1,0 +1,65 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone_effect", "parent": "root", "length": 48.04, "x": 10.28, "y": 37.76 }
+],
+"slots": [
+	{ "name": "effect", "bone": "bone_effect", "attachment": "effect2" }
+],
+"skins": {
+	"default": {
+		"effect": {
+			"effect2": { "width": 211, "height": 83 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"effect": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff80",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1666,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.4, "color": "ffffff80" }
+				]
+			}
+		},
+		"bones": {
+			"bone_effect": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.4, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": -17.21,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1666,
+						"x": -13.86,
+						"y": 3.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.4, "x": -17.21, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.017, "y": 1.594 },
+					{ "time": 0.1666, "x": 1.164, "y": 1.084 },
+					{ "time": 0.4, "x": 1.017, "y": 1.594 }
+				]
+			}
+		}
+	}
+}
+}

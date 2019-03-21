@@ -1,0 +1,1077 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+  <Element KEY="case ErrorCodeEnum.ConfigError:">
+    <VALUE>"配置错误";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DataUnusual:">
+    <VALUE>"数据异常";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ConfigUnusual:">
+    <VALUE>"配置异常";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotEnoughGold:">
+    <VALUE>"铜钱不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotEnoughDiamond:">
+    <VALUE>"元宝不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.OverItem:">
+    <VALUE>"物品达到上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ItemCanNotUse:">
+    <VALUE>"物品禁止使用";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadEquipHerr:">
+    <VALUE>"该装备已经穿在该位置";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadUninstall:">
+    <VALUE>"装备已经卸下";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.EquipTypeError:">
+    <VALUE>"不同类型的装备(装备部位出错)";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadMaxLevel:">
+    <VALUE>"装备等级达到上限，请升星装备提高上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierMaxLevel:">
+    <VALUE>"武将等级达到上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SkillUpToTop:">
+    <VALUE>"技能达到最高等级";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierNotHaveEquip:">
+    <VALUE>"武将没有穿装备";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierNotHaveEquipProme:">
+    <VALUE>"武将没有可强化的装备";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotEnoughPlayerLevel:">
+    <VALUE>"玩家等级不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CanotSail:">
+    <VALUE>"不能出售";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotEnoughSoldierLevel:">
+    <VALUE>"武将材料等级不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NextIDError:">
+    <VALUE>"后置ID错误";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotEnoughMaterial:">
+    <VALUE>"材料不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierEquipFull:">
+    <VALUE>"装备数量将超出装备背包上限,请清理背包";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotEnoughItem:">
+    <VALUE>"道具不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VIPLvNotEnough:">
+    <VALUE>"vip等级不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.TimesLimited:">
+    <VALUE>"剩余挑战次数不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.Medal_Insufficient:">
+    <VALUE>"勋章不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.Honor_Insufficient:">
+    <VALUE>"战功不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ShopUpdateTimeUndue:">
+    <VALUE>"免费刷新时间未到";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.GoodsHadSellOut:">
+    <VALUE>"该物品已购买";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadGetLivenessAward:">
+    <VALUE>"已经领取此活跃宝箱不能再领取";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.LivenessNotEnough:">
+    <VALUE>"领取此活跃宝箱活跃度不够";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadGetCumulativeLoginAward:">
+    <VALUE>"已经领取了该累计登录天数奖励";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadGetContinuLoginAward:">
+    <VALUE>"已经领取了连续登录奖励";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SuggestTimesUseup:">
+    <VALUE>"反馈次数非法";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CharnameIllegal:">
+    <VALUE>"改名非法";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadMonthCard:">
+    <VALUE>"已经购买了月卡不能再买";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKeyEarly:">
+    <VALUE>"CDKey尚未开放";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKeyInputEmpty:">
+    <VALUE>"CDKey输入为空";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKeyInvalid:">
+    <VALUE>"无效CDKey，请验证后输入";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKeyPastDue:">
+    <VALUE>"CDKey已过期，请验证后输入";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKeyUsed:">
+    <VALUE>"CDKey已使用，请验证后输入";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.BuyPHPowerUsedOver:">
+    <VALUE>"今日购买体力次数已使用完";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.OverMaxPHPower:">
+    <VALUE>"超过体力最大上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoSuchAccount:">
+    <VALUE>"账号不存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.REPEATNICKNAME:">
+    <VALUE>"角色名已存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PasswordWrong:">
+    <VALUE>"密码错误";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HeroLevelLower:">
+    <VALUE>"英雄等级不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierLevelLower:">
+    <VALUE>"武将等级不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ForbiddenWorld:">
+    <VALUE>"该昵称含敏感词汇，无法使用";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MopupItemNotEnough:">
+    <VALUE>"扫荡卡不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PwdOrNameEasy:">
+    <VALUE>"密码或者账号过于简单";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.OpponentRankTooLow:">
+    <VALUE>"对手排名太低";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionNotExist:">
+    <VALUE>"你查找的军团不存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.LeaveUnionInCD:">
+    <VALUE>"离开军团24小时内将无法加入其它军团";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ApplyForUnionTimesLimited:">
+    <VALUE>"今日军团申请次数已用完";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionNameExist:">
+    <VALUE>"军团名已存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionNameIllegal:">
+    <VALUE>"军团名非法";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotHaveUnion:">
+    <VALUE>"玩家没有军团";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoPrivilege:">
+    <VALUE>"玩家没有权限操作";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotJoinTheUnion:">
+    <VALUE>"玩家没有加入对应的军团";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ChairmanCannotExitUnion:">
+    <VALUE>"军团长无法退出军团";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HaveJoinedUnionAready:">
+    <VALUE>"玩家已经加入军团";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PendingUnionApplication:">
+    <VALUE>"军团申请待审核";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionIsFull:">
+    <VALUE>"军团人数已达上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaxUnionPromotionTimes:">
+    <VALUE>"今日军团2个升职名额已用尽";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaxUnionAbdicateTimes:">
+    <VALUE>"今日军团让位机会已用尽";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaxUnionKickMemberTimes:">
+    <VALUE>"军团长每日开除成员上限3名，无法再开除";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VMaxUnionKickMemberTimes:">
+    <VALUE>"副军团长每日开除成员上限1名，无法再开除";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ViceChairmanReachMax:">
+    <VALUE>"副军团长达到上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CannotPromotion:">
+    <VALUE>"不必升职";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CannotDemotion:">
+    <VALUE>"玩家不能降职";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CannotAbdicate:">
+    <VALUE>"无法退位";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaxDonateTimes:">
+    <VALUE>"达到最大捐献次数";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ExceedMaxVisitTimes:">
+    <VALUE>"超过最大拜访次数";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HaveVisitedAready:">
+    <VALUE>"已经拜访过该玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadBlockedPlayer:">
+    <VALUE>"已屏蔽过该玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.BlockedNumFull:">
+    <VALUE>"超出屏蔽玩家上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DungeonCannotMopup:">
+    <VALUE>"该副本无法进行扫荡";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ApplyForUnionAready:">
+    <VALUE>"已经申请军团";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionDgnIsChallenged:">
+    <VALUE>"该BOSS正被其他玩家挑战中";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoPlayerToMatch:">
+    <VALUE>"奴役匹配陌生人没有课匹配的玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PrisonLocked:">
+    <VALUE>"该囚牢未解锁 ";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PrisonFul:">
+    <VALUE>"该囚牢已经有奴隶了";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.InEnslaveFight:">
+    <VALUE>"正在奴役战斗中";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.EnslaveStatusChange:">
+    <VALUE>"奴役状态改变";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.EnslaveFightTimeOut:">
+    <VALUE>"奴役战斗准备时间超时";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.EnslaveHostChange:">
+    <VALUE>"奴隶主改变";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PrisonIsNull:">
+    <VALUE>"囚牢是空的";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PrisonMoneyZero:">
+    <VALUE>"囚牢没有可收取的铜钱";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoneEnemyPlayer:">
+    <VALUE>"没有仇人";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoneRunawayPlayer:">
+    <VALUE>"没有逃奴";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotHavePlayerInfo:">
+    <VALUE>"没有该玩家的逃奴或仇人信息";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotLockedPlayer:">
+    <VALUE>"没有锁定该玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.AskHelpTimeOut:">
+    <VALUE>"请求救援时间间隔不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerHaveLeaveUnion:">
+    <VALUE>"玩家已经离开军团";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaxUnionLevel:">
+    <VALUE>"最大军团等级了，无法再升级";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionResourceNotEnough:">
+    <VALUE>"军团物资不够";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CannotGetRewards:">
+    <VALUE>"领取条件不足，无法领取奖励";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoRecharge:">
+    <VALUE>"领取条件不足，请充值后领取";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadGetFirstRechargeAward:">
+    <VALUE>"已经领取过首冲礼包";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.WillTimeOver:">
+    <VALUE>"玩家即将满24小时";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerIsYouEnslave:">
+    <VALUE>"玩家已经是你的奴隶,无法解救";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerIsSameHolder:">
+    <VALUE>"无法解救，该玩家是您的奴隶，可在囚牢中释放该玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DiffrentLevelToMuch:">
+    <VALUE>"等级差异过大（10级），不能奴役";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.AskHelpTimeOver:">
+    <VALUE>"救援请求已过期";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotApplyUnionClashTime:">
+    <VALUE>"无法报名，不在报名期间";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ErrorState:">
+    <VALUE>"状态不对";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HaveJoinedUnionClash:">
+    <VALUE>"玩家已经参加军团战";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotJoinedUnionClash:">
+    <VALUE>"玩家没有参加军团战";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierMaxNum:">
+    <VALUE>"拥有武将数量达到上限300,操作失败";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HavePassedUnionPve:">
+    <VALUE>"已通关当前军团副本关卡";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.EnterTimesLimited:">
+    <VALUE>"当前小关卡已通关,不能再次挑战";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ExceedMaxGetHpTimes:">
+    <VALUE>"玩家超过最大领取体力次数";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.InformationExpired:">
+    <VALUE>"玩家的审核信息已过期";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CanNotEnslaveHolder:">
+    <VALUE>"不能奴役奴隶主";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.GetNothing:">
+    <VALUE>"没有可领取的体力";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerOffline:">
+    <VALUE>"目标玩家不在线";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UionPVEMemberFight:">
+    <VALUE>"当前有军团成员正在进行挑战，无法重置";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaterialSoldierNotEnough:">
+    <VALUE>"武将升级经验不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.GoldIsMax:">
+    <VALUE>"铜钱达到最大值";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DiamondIsMax:">
+    <VALUE>"元宝达到最大值";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierChipMaxNum:">
+    <VALUE>"有武魂溢出,已发放到邮箱";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CastleLevelLow:">
+    <VALUE>"等级已达上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FAILED:">
+    <VALUE>"操作失败";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.QualityExpNotEnough:">
+    <VALUE>"天将神兵经验不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.QualityWrong:">
+    <VALUE>"品质错误";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ActivityNotInTime:">
+    <VALUE>"活动已过期";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FrozenAccount:">
+    <VALUE>"检测到您的账号有不当行为，现已封停.如有疑问请联系客服.";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FrozenChat:">
+    <VALUE>"您已被系统禁言,如有疑问请联系客服.";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DataUnusual:">
+    <VALUE>"數據異常";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ConfigUnusual:">
+    <VALUE>"配置異常";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotEnoughGold:">
+    <VALUE>"銅錢不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotEnoughDiamond:">
+    <VALUE>"元寶不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.OverItem:">
+    <VALUE>"物品達到上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadEquipHerr:">
+    <VALUE>"該裝備已經穿在該位置";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadUninstall:">
+    <VALUE>"裝備已經卸下";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.EquipTypeError:">
+    <VALUE>"不同類型的裝備(裝備部位出錯)";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadMaxLevel:">
+    <VALUE>"裝備等級達到上限，請升星裝備提高上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierMaxLevel:">
+    <VALUE>"武將等級達到上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SkillUpToTop:">
+    <VALUE>"技能達到最高等級";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierNotHaveEquip:">
+    <VALUE>"武將沒有穿裝備";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierNotHaveEquipProme:">
+    <VALUE>"武將沒有可強化的裝備";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotEnoughPlayerLevel:">
+    <VALUE>"玩家等級不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotEnoughSoldierLevel:">
+    <VALUE>"武將材料等級不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NextIDError:">
+    <VALUE>"後置ID錯誤";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierEquipFull:">
+    <VALUE>"裝備數量將超出裝備背包上限,請清理背包";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VIPLvNotEnough:">
+    <VALUE>"vip等級不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.TimesLimited:">
+    <VALUE>"剩餘挑戰次數不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.Medal_Insufficient:">
+    <VALUE>"勳章不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.Honor_Insufficient:">
+    <VALUE>"戰功不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ShopUpdateTimeUndue:">
+    <VALUE>"免費刷新時間未到";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.GoodsHadSellOut:">
+    <VALUE>"該物品已購買";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadGetLivenessAward:">
+    <VALUE>"已經領取此活躍寶箱不能再領取";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.LivenessNotEnough:">
+    <VALUE>"領取此活躍寶箱活躍度不夠";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadGetCumulativeLoginAward:">
+    <VALUE>"已經領取了該累計登入天數獎勵";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadGetContinuLoginAward:">
+    <VALUE>"已經領取了連續登入獎勵";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SuggestTimesUseup:">
+    <VALUE>"回饋次數非法";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadMonthCard:">
+    <VALUE>"已經購買了月卡不能再買";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKeyEarly:">
+    <VALUE>"序號尚未開放";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKeyInputEmpty:">
+    <VALUE>"序號輸入為空";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKeyInvalid:">
+    <VALUE>"無效序號，請驗證後輸入";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKeyPastDue:">
+    <VALUE>"序號已過期，請驗證後輸入";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKeyUsed:">
+    <VALUE>"序號已使用，請驗證後輸入";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.BuyPHPowerUsedOver:">
+    <VALUE>"今日購買體力次數已使用完";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.OverMaxPHPower:">
+    <VALUE>"超過體力最大上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoSuchAccount:">
+    <VALUE>"帳號不存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PasswordWrong:">
+    <VALUE>"密碼錯誤";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HeroLevelLower:">
+    <VALUE>"英雄等級不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierLevelLower:">
+    <VALUE>"武將等級不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ForbiddenWorld:">
+    <VALUE>"該暱稱含敏感詞彙，無法使用";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MopupItemNotEnough:">
+    <VALUE>"掃蕩卡不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PwdOrNameEasy:">
+    <VALUE>"密碼或者帳號過於簡單";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.OpponentRankTooLow:">
+    <VALUE>"對手排名太低";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionNotExist:">
+    <VALUE>"你查找的軍團不存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.LeaveUnionInCD:">
+    <VALUE>"離開軍團24小時內將無法加入其它軍團";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ApplyForUnionTimesLimited:">
+    <VALUE>"今日軍團申請次數已用完";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionNameExist:">
+    <VALUE>"軍團名已存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionNameIllegal:">
+    <VALUE>"軍團名非法";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotHaveUnion:">
+    <VALUE>"玩家沒有軍團";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoPrivilege:">
+    <VALUE>"玩家沒有許可權操作";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotJoinTheUnion:">
+    <VALUE>"玩家沒有加入對應的軍團";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ChairmanCannotExitUnion:">
+    <VALUE>"軍團長無法退出軍團";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HaveJoinedUnionAready:">
+    <VALUE>"玩家已經加入軍團";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PendingUnionApplication:">
+    <VALUE>"軍團申請待審核";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionIsFull:">
+    <VALUE>"軍團人數已達上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaxUnionPromotionTimes:">
+    <VALUE>"今日軍團2個升職名額已用盡";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaxUnionAbdicateTimes:">
+    <VALUE>"今日軍團讓位機會已用盡";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaxUnionKickMemberTimes:">
+    <VALUE>"軍團長每日開除成員上限3名，無法再開除";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VMaxUnionKickMemberTimes:">
+    <VALUE>"副軍團長每日開除成員上限1名，無法再開除";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ViceChairmanReachMax:">
+    <VALUE>"副軍團長達到上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CannotPromotion:">
+    <VALUE>"不必升職";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CannotDemotion:">
+    <VALUE>"玩家不能降職";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CannotAbdicate:">
+    <VALUE>"無法退位";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaxDonateTimes:">
+    <VALUE>"達到最大捐獻次數";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ExceedMaxVisitTimes:">
+    <VALUE>"超過最大拜訪次數";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HaveVisitedAready:">
+    <VALUE>"已經拜訪過該玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadBlockedPlayer:">
+    <VALUE>"已遮罩過該玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.BlockedNumFull:">
+    <VALUE>"超出遮罩玩家上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DungeonCannotMopup:">
+    <VALUE>"該副本無法進行掃蕩";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ApplyForUnionAready:">
+    <VALUE>"已經申請軍團";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionDgnIsChallenged:">
+    <VALUE>"該BOSS正被其他玩家挑戰中";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoPlayerToMatch:">
+    <VALUE>"奴役匹配陌生人沒有可匹配的玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PrisonLocked:">
+    <VALUE>"該囚牢未解鎖";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PrisonFul:">
+    <VALUE>"該囚牢已經有奴隸了";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.InEnslaveFight:">
+    <VALUE>"正在奴役戰鬥中";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.EnslaveStatusChange:">
+    <VALUE>"奴役狀態改變";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.EnslaveFightTimeOut:">
+    <VALUE>"奴役戰鬥準備時間超時";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.EnslaveHostChange:">
+    <VALUE>"奴隸主改變";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PrisonMoneyZero:">
+    <VALUE>"囚牢沒有可收取的銅錢";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoneEnemyPlayer:">
+    <VALUE>"沒有仇人";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoneRunawayPlayer:">
+    <VALUE>"沒有逃奴";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotHavePlayerInfo:">
+    <VALUE>"沒有該玩家的逃奴或仇人資訊";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotLockedPlayer:">
+    <VALUE>"沒有鎖定該玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.AskHelpTimeOut:">
+    <VALUE>"請求救援時間間隔不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerHaveLeaveUnion:">
+    <VALUE>"玩家已經離開軍團";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaxUnionLevel:">
+    <VALUE>"最大軍團等級了，無法再升級";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionResourceNotEnough:">
+    <VALUE>"軍團物資不夠";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CannotGetRewards:">
+    <VALUE>"領取條件不足，無法領取獎勵";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoRecharge:">
+    <VALUE>"領取條件不足，請充值後領取";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadGetFirstRechargeAward:">
+    <VALUE>"已經領取過首儲禮包";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.WillTimeOver:">
+    <VALUE>"玩家即將滿24小時";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerIsYouEnslave:">
+    <VALUE>"玩家已經是你的奴隸,無法解救";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerIsSameHolder:">
+    <VALUE>"無法解救，該玩家是您的奴隸，可在囚牢中釋放該玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DiffrentLevelToMuch:">
+    <VALUE>"等級差異過大（10級），不能奴役";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.AskHelpTimeOver:">
+    <VALUE>"救援請求已過期";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotApplyUnionClashTime:">
+    <VALUE>"無法報名，不在報名期間";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ErrorState:">
+    <VALUE>"狀態不對";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HaveJoinedUnionClash:">
+    <VALUE>"玩家已經參加軍團戰";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NotJoinedUnionClash:">
+    <VALUE>"玩家沒有參加軍團戰";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierMaxNum:">
+    <VALUE>"擁有武將數量達到上限300,操作失敗";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HavePassedUnionPve:">
+    <VALUE>"已通關當前軍團副本關卡";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.EnterTimesLimited:">
+    <VALUE>"當前小關卡已通關,不能再次挑戰";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ExceedMaxGetHpTimes:">
+    <VALUE>"玩家超過最大領取體力次數";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.InformationExpired:">
+    <VALUE>"玩家的審核信息已過期";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CanNotEnslaveHolder:">
+    <VALUE>"不能奴役奴隸主";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.GetNothing:">
+    <VALUE>"沒有可領取的體力";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerOffline:">
+    <VALUE>"目標玩家不線上";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UionPVEMemberFight:">
+    <VALUE>"當前有軍團成員正在進行挑戰，無法重置";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaterialSoldierNotEnough:">
+    <VALUE>"武將升級經驗不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.GoldIsMax:">
+    <VALUE>"銅錢達到最大值";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DiamondIsMax:">
+    <VALUE>"元寶達到最大值";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierChipMaxNum:">
+    <VALUE>"有武魂滿出,已發放到郵箱";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CastleLevelLow:">
+    <VALUE>"等級已達上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FAILED:">
+    <VALUE>"操作失敗";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.QualityExpNotEnough:">
+    <VALUE>"天將神兵經驗不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.QualityWrong:">
+    <VALUE>"品質錯誤";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ActivityNotInTime:">
+    <VALUE>"活動已過期";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FrozenAccount:">
+    <VALUE>"檢測到您的帳號有不當行為，現已封停.如有疑問請聯繫客服.";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FrozenChat:">
+    <VALUE>"您已被系統禁言,如有疑問請聯繫客服.";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerIsYouEnslave:">
+    <VALUE>"无法解救，该玩家是您的奴隶，可在囚牢中释放该玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerIsSameHolder:">
+    <VALUE>"玩家与你同一奴隶主，不能解救";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKPackUsed:">
+    <VALUE>"该批次CDKey礼包已领过";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerIsYouEnslave:">
+    <VALUE>"無法解救，該玩家是您的奴隸，可在囚牢中釋放該玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerIsSameHolder:">
+    <VALUE>"玩家與你同一奴隸主，不能解救";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CDKPackUsed:">
+    <VALUE>"該批次CDKey禮包已領過";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HasVipUpReward:">
+    <VALUE>"已经领取vip奖励";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierNoEquipOn:">
+    <VALUE>"武将没有穿装备";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.GetVipDailySameDay:">
+    <VALUE>"同一天的vip每日已经领取了";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.InBlockedList:">
+    <VALUE>"该玩家被你屏蔽，无法添加为好友";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FriendsOverFlow:">
+    <VALUE>"好友列表已满，操作失败";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ApplyFriendsRepeated:">
+    <VALUE>"你以前发送的申请对方还未处理，发送失败";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ApplyNotDealed:">
+    <VALUE>"你以前发送的申请对方还未处理，发送失败";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ApplyNotDealedOther:">
+    <VALUE>"你以前发送的申请对方还未处理，发送失败";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DonateFriendsPhTimes:">
+    <VALUE>"今日赠送体力次数用完";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.RecieveFriendsPhTimes:">
+    <VALUE>"今日领取体力次数用完";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoRevieveHp:">
+    <VALUE>"没有可领取的体力";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FriendsPartOverFlow:">
+    <VALUE>"你的好友列表已满，部分好友添加失败";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FriendsPartBlockList:">
+    <VALUE>"部分玩家被你屏蔽，无法添加入好友列表";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FirendsCharNotExist:">
+    <VALUE>"该角色不存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DonateFriendsPhAlready:">
+    <VALUE>"今日已赠送此人体力";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VerifyInviteCodeNotExist:">
+    <VALUE>"邀请码不存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VerifyInviteCodeIllegal:">
+    <VALUE>"邀请码非法";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VerifyInviteCodeUsed:">
+    <VALUE>"邀请码已使用";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VerifyInviteCodeTaskStatus:">
+    <VALUE>"邀请任务状态错误";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ThirdFriendsInviteTime:">
+    <VALUE>"邀请时间未到";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ThirdFriendsWakeupTime:">
+    <VALUE>"玩家离线不足7天无法唤醒";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadGotFirstReward:">
+    <VALUE>"已经领取过登陆即送奖励";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.RefreshFriendsCD:">
+    <VALUE>"刷新推荐好友cd中";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PhPowerIsMax:">
+    <VALUE>"體力達到最大值";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ReachedPlayerMaxLevel:">
+    <VALUE>"已達到英雄最大等級上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.AltarHandleTimesNotEnough:">
+    <VALUE>"神壇安慰,調戲次數不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DependUnionNotExist:">
+    <VALUE>"依附軍團不存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DependPositionNotNil:">
+    <VALUE>"依附位置不是空閒狀態";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.AltarFightSelfUnion:">
+    <VALUE>"不能攻擊自己軍團";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.RevoltNotDependHost:">
+    <VALUE>"反抗軍團不再是依附主";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MemberNotPrivilege:">
+    <VALUE>"只有軍團長和副軍團長可操作";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SameDependHost:">
+    <VALUE>"被打軍團和自己軍團屬於同一依附主";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DotFightDependHost:">
+    <VALUE>"不能攻擊依附主軍團";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.UnionNotExistOrFree:">
+    <VALUE>"該軍團不存在或者該軍團已被釋放";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DotFightSelfDepend:">
+    <VALUE>"無法攻擊自己的附庸軍團";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MaterialSoldierEnergy:">
+    <VALUE>"材料星級價值不正確";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlevelAndVipLow:">
+    <VALUE>"玩家等級不足或VIP等級不足";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HasVipUpReward:">
+    <VALUE>"該豪華禮包已被領取過";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierNoEquipOn:">
+    <VALUE>"武將沒有穿裝備";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.GetVipDailySameDay:">
+    <VALUE>"今天的每日獎勵已領取，請明天再來";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.InBlockedList:">
+    <VALUE>"該玩家被你屏蔽，無法添加為好友";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FriendsOverFlow:">
+    <VALUE>"好友列表已滿，操作失敗";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ApplyFriendsRepeated:">
+    <VALUE>"好友申請中有對方的申請，親處理后再操作";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ApplyNotDealed:">
+    <VALUE>"你以前發送的申請對方還未處理，發送失敗";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ApplyNotDealedOther:">
+    <VALUE>"你以前發送的申請對方還未處理，發送失敗";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DonateFriendsPhTimes:">
+    <VALUE>"今日贈送體力次數用完";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.RecieveFriendsPhTimes:">
+    <VALUE>"今日領取體力次數用完";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoRevieveHp:">
+    <VALUE>"沒有可領取的體力";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FriendsPartOverFlow:">
+    <VALUE>"你的好友清單已滿，部分好友添加失敗";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FriendsPartBlockList:">
+    <VALUE>"部分玩家被你屏蔽，無法添加入好友列表";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FirendsCharNotExist:">
+    <VALUE>"該角色不存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.DonateFriendsPhAlready:">
+    <VALUE>"今日已贈送此人體力";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VerifyInviteCodeNotExist:">
+    <VALUE>"邀請碼不存在";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VerifyInviteCodeIllegal:">
+    <VALUE>"邀請碼非法";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VerifyInviteCodeUsed:">
+    <VALUE>"邀請碼已使用";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VerifyInviteCodeTaskStatus:">
+    <VALUE>"邀請任務狀態錯誤";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ThirdFriendsInviteTime:">
+    <VALUE>"邀請時間未到";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ThirdFriendsWakeupTime:">
+    <VALUE>"玩家離線不足7天無法喚醒";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.HadGotFirstReward:">
+    <VALUE>"已經領取過新手豪禮";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.RefreshFriendsCD:">
+    <VALUE>"刷新推薦好友cd中";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NoRecharge:">
+    <VALUE>"領取條件不足，請儲值後領取";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PlayerOffline:">
+    <VALUE>"目標玩家不在線上";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.VerifyInviteCodeIllegal:">
+    <VALUE>"不能輸入自己的邀請碼";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.MultipleLogins:">
+    <VALUE>"您的賬號已在其他設備登陸,當前設備無法再次登陸";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.NewHandTaskTimeOver:">
+    <VALUE>"新手任務時間結束";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FullBuff:">
+    <VALUE>"Buff層數已滿";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FullBuyGold:">
+    <VALUE>"金幣購買次數已滿";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.FullBuyDiamond:">
+    <VALUE>"鑽石購買次數已滿";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.AlreadyWorship:">
+    <VALUE>"已朝拜";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.BuyBuffInWrongTime:">
+    <VALUE>"活動未開始 無法購買BUFF";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.OverlordNoTimes:">
+    <VALUE>"活動未開始 無法挑戰霸主";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PoleMatchError:">
+    <VALUE>"沒有匹配到玩家";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PoleRewardDurationForbid:">
+    <VALUE>"休賽期無法領取獎勵";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PoleRewardRepeated:">
+    <VALUE>"重複領取";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PoleRewardForbid:">
+    <VALUE>"該獎勵無法領取";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PoleRevengeTimes:">
+    <VALUE>"復仇次數限制";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PoleBuytimesLimit:">
+    <VALUE>"購買次數限制";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PoleFightTimesLimit:">
+    <VALUE>"已達挑戰次數限制";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.PoleMatchCD:">
+    <VALUE>"匹配冷卻中";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CanNotUseUnionIcon:">
+    <VALUE>"軍團徽章已鎖定，不能使用";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.CanNotUseSameUnionIcon:">
+    <VALUE>"軍團徽章已使用，不能重複設置";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulGridNumMax:">
+    <VALUE>"格子已滿";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulCannotUp:">
+    <VALUE>"命魂無法升級";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulExploreMax:">
+    <VALUE>"獵魂区域已滿";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulBagOverFlow:">
+    <VALUE>"命魂背包已滿";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulTypeConflict:">
+    <VALUE>"命魂類型衝突";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulLevelMax:">
+    <VALUE>"命魂等級已達最大等級";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulLevelPassPlayer:">
+    <VALUE>"命魂等級達到英雄等級";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulBuyGridTimesMax:">
+    <VALUE>"命魂背包格子購買次數已達上限";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulHasNoAvailable:">
+    <VALUE>"沒有可以裝備的命魂 ";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulOneKeyExploreMax:">
+    <VALUE>"獵魂區域已滿,一鍵獵魂結束";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulOneKeyExploreGold:">
+    <VALUE>"銅錢不足,一鍵獵魂結束";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulOneKeyCollectMax:">
+    <VALUE>"命魂倉庫已滿,一鍵拾取結束";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.ExpeditionCastleDestroy:">
+    <VALUE>"你的城堡已被摧毀無法繼續遠征";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulPositionLocked:">
+    <VALUE>"命魂位置未解鎖";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.RecycleNoItems:">
+    <VALUE>"尚未選擇物品";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SkillBookOverflow:">
+    <VALUE>"煉化返還技能書達到上限，煉化失敗";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierCannotUpStep:">
+    <VALUE>"该武将不能升阶。";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierMaxStep:">
+    <VALUE>"武将已经达到最大阶级。";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierNotMaxStep:">
+    <VALUE>"武将没有达到满阶，无法升星。";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoulExploreMax:">
+    <VALUE>"獵魂區域已滿";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierCannotUpStep:">
+    <VALUE>"該武將不能升階。";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierMaxStep:">
+    <VALUE>"武將已經達到最大階級。";</VALUE>
+  </Element>
+  <Element KEY="case ErrorCodeEnum.SoldierNotMaxStep:">
+    <VALUE>"武將沒有達到滿階，無法升星。";</VALUE>
+  </Element>
+</Data>

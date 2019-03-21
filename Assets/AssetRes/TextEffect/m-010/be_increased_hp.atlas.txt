@@ -1,0 +1,55 @@
+
+be_increased_hp.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 224
+  size: 116, 220
+  orig: 116, 220
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 116, 220
+  orig: 116, 220
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 120, 224
+  size: 116, 220
+  orig: 116, 220
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 120, 2
+  size: 116, 220
+  orig: 116, 220
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 238, 224
+  size: 116, 220
+  orig: 116, 220
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 238, 2
+  size: 116, 220
+  orig: 116, 220
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 356, 224
+  size: 116, 220
+  orig: 116, 220
+  offset: 0, 0
+  index: -1

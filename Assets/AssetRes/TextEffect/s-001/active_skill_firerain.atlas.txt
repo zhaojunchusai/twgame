@@ -1,0 +1,139 @@
+
+active_skill_firerain.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firearrow
+  rotate: false
+  xy: 2, 434
+  size: 195, 71
+  orig: 195, 71
+  offset: 0, 0
+  index: -1
+fireb/4
+  rotate: false
+  xy: 449, 358
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+fireb/5
+  rotate: false
+  xy: 449, 318
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+fireball/1
+  rotate: false
+  xy: 356, 335
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+fireball/2
+  rotate: false
+  xy: 356, 234
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+fireball/3
+  rotate: true
+  xy: 214, 203
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+fireball/4
+  rotate: false
+  xy: 72, 43
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+fireball/5
+  rotate: true
+  xy: 315, 141
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+fireball/6
+  rotate: false
+  xy: 416, 133
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+firebomb/1
+  rotate: true
+  xy: 2, 2
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+firebomb/2
+  rotate: true
+  xy: 73, 147
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+firebomb/3
+  rotate: true
+  xy: 144, 292
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+firebomb/4
+  rotate: false
+  xy: 214, 366
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+firebomb/5
+  rotate: false
+  xy: 214, 296
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+fline/1
+  rotate: false
+  xy: 2, 289
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+fline/2
+  rotate: true
+  xy: 199, 436
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+fline/3
+  rotate: false
+  xy: 2, 144
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+fline/4
+  rotate: false
+  xy: 73, 289
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+fline/5
+  rotate: true
+  xy: 344, 436
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1

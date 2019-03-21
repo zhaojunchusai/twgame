@@ -1,0 +1,125 @@
+
+horse_dawan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+horse_body
+  rotate: false
+  xy: 2, 133
+  size: 192, 121
+  orig: 192, 121
+  offset: 0, 0
+  index: -1
+horse_head
+  rotate: true
+  xy: 2, 5
+  size: 126, 153
+  orig: 126, 153
+  offset: 0, 0
+  index: -1
+horse_leg_1f_a
+  rotate: false
+  xy: 212, 63
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+horse_leg_1f_b
+  rotate: false
+  xy: 255, 24
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+horse_leg_1f_c
+  rotate: false
+  xy: 215, 24
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+horse_leg_1r_a
+  rotate: true
+  xy: 291, 132
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+horse_leg_1r_b
+  rotate: false
+  xy: 346, 95
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+horse_leg_1r_c
+  rotate: false
+  xy: 309, 93
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+horse_leg_2f_a
+  rotate: true
+  xy: 157, 8
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+horse_leg_2f_b
+  rotate: true
+  xy: 408, 118
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+horse_leg_2f_c
+  rotate: true
+  xy: 275, 86
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+horse_leg_2r_a
+  rotate: false
+  xy: 157, 54
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+horse_leg_2r_b
+  rotate: true
+  xy: 215, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+horse_leg_2r_c
+  rotate: false
+  xy: 373, 108
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+horse_neck
+  rotate: false
+  xy: 380, 143
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+horse_tail
+  rotate: true
+  xy: 196, 127
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 196, 194
+  size: 182, 60
+  orig: 182, 60
+  offset: 0, 0
+  index: -1

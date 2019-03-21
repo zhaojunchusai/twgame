@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ******************LoginPro****************** -->
+    <string name="p7725_sdk_tv_login_7725">idPLAY登入</string>
+    <string name="p7725_sdk_tv_login_fb">FB登入</string>
+    <!-- ******************Login****************** -->
+    <string name="p7725_sdk_btn_back">返回</string>
+    <string name="p7725_sdk_btn_ok">確定</string>
+    <!-- 登入 -->
+    <string name="p7725_sdk_tv_login">登入</string>
+    <string name="p7725_sdk_tv_login_input_username">帳號</string>
+    <string name="p7725_sdk_tv_login_input_pass">密碼</string>
+    <string name="p7725_sdk_hint_login_input_username">請輸入idPLAY帳號</string>
+    <string name="p7725_sdk_hint_login_input_pass">請輸入idPLAY密碼</string>
+    <string name="p7725_sdk_hint_login_fail">登录失敗，請稍後再試</string>
+    <string name="p7725_sdk_chck_clause">同意</string>
+    <string name="p7725_sdk_txt_agree_clause">遊戲規範</string>
+    <string name="p7725_sdk_txt_agree_and">與</string>
+    <string name="p7725_sdk_txt_agree_privacy">隱私政策</string>
+    <string name="p7725_sdk_dlg_agree_clause">請閱讀並同意《隱私政策》及《遊戲規範》</string>
+    <string name="p7725_sdk_clause_title">遊戲規範</string>
+    <string name="p7725_sdk_privacy_title">隱私政策</string>
+    <string name="p7725_sdk_browser_title">正在瀏覽</string>
+    <string name="p7725_sdk_not_show_today">今天不要再顯示&#160;&#160;</string>
+    <!-- 注册 -->
+    <string name="p7725_sdk_tv_register_title">註冊idPLAY帳號</string>
+    <string name="p7725_sdk_btn_register">註冊</string>
+    <string name="p7725_sdk_hint_register_input_username">請輸入帳號</string>
+    <string name="p7725_sdk_hint_register_input_pass">請輸入密碼</string>
+    <string name="p7725_sdk_hint_register_input_passok">請確認密碼</string>
+    <string name="p7725_sdk_hint_register_input_email">請輸入信箱</string>
+    <!-- 联系客服 -->
+    <string name="p7725_sdk_tv_customer">聯繫客服</string>
+    <!-- 找回密码 -->
+    <string name="p7725_sdk_tv_findpass">找回密碼</string>
+    <string name="p7725_sdk_tv_findpass2">找回密碼</string>
+    <string name="p7725_sdk_hint_findpass_input_username">請輸入您的idPLAY帳號</string>
+    <string name="p7725_sdk_hint_findpass_input_email">請輸入您的註冊信箱</string>
+    <!-- 修改密码 -->
+    <string name="p7725_sdk_tv_changepass">修改密碼</string>
+    <string name="p7725_sdk_tv_changepass2">修改密碼</string>
+    <string name="p7725_sdk_hint_changepass_input_username">請輸入您的idPLAY帳號</string>
+    <string name="p7725_sdk_hint_changepass_input_pass">請輸入原始密碼</string>
+    <string name="p7725_sdk_hint_changepass_input_passnew">請輸入新的密碼</string>
+    
+    <string name="p7725_sdk_changepass_input_passold">原始密碼</string>
+    <string name="p7725_sdk_changepass_input_passnew">新的密碼</string>
+    
+    <!-- 绑定提示框 -->
+    <string name="p7725_sdk_to_binding">绑定</string>
+    
+    <!-- 退出 -->
+    <string name="p7725_sdk_btn_exit">確認登出</string>
+    <!-- DIALOG -->
+    <string name="p7725_sdk_text_ok">我知道了</string>
+    <string name="p7725_sdk_text_changepass_ok">您已經成功修改了密碼！</string>
+    <string name="p7725_sdk_text_findpass_ok">找回密碼的信息已經寄送到您的信箱，請注意查收！</string>
+    <!-- 储值 -->
+    <string name="p7725_sdk_text_back">返回</string>
+    <string name="p7725_sdk_text_store">儲值</string>
+    <string name="p7725_sdk_text_loading">拼命加載中&#8230;</string>
+    <string name="p7725_sdk_text_loading2">數據處理中，請稍後&#8230;</string>
+    <string name="p7725_sdk_deposits_no_record">無儲值內容。</string>
+    <!-- 其它 -->
+    <string name="p7725_sdk_text_no_net">網絡不可用，請檢查！</string>
+    <string name="p7725_sdk_text_sure">確定</string>
+    <string name="p7725_sdk_text_cancel">取消</string>
+    <string name="p7725_sdk_text_no_serverid">沒有設定服務器，客服功能不可用！</string>
+    <string name="p7725_sdk_text_no_roleid">沒有設定角色ID，儲值功能不可用！</string>
+    <string name="p7725_sdk_text_no_role">沒有設定角色名，儲值功能不可用！</string>
+    <string name="p7725_sdk_text_pay_failure">支付失敗，請檢查google play帳號和密碼是否正確！</string>
+    <string name="p7725_sdk_text_choose_username">請選擇帳號</string>
+    <string name="p7725_sdk_text_no_username">帳號不能為空！</string>
+    <string name="p7725_sdk_text_no_password">密碼不能為空！</string>
+    <string name="p7725_sdk_text_no_email">信箱不能為空！</string>
+    <string name="p7725_sdk_text_no_password_sure">确认密碼不能為空！</string>
+    <string name="p7725_sdk_text_no_password_new">新密碼不能為空！</string>
+    <string name="p7725_sdk_text_no_password2">兩次輸入的密碼不一致！</string>
+    <string name="p7725_sdk_text_input_error">輸入數據有誤！</string>
+    <string name="p7725_sdk_text_timeout">請求超時, 請稍後再試！</string>
+    
+     <!-- 绑定界面 -->
+    <string name="p7725_sdk_tv_binding_title">綁定idPLAY帳號</string>
+    <string name="p7725_sdk_tv_binding_to">綁定idPLAY</string>
+    <string name="p7725_sdk_tv_binding_do_not">不了，下次吧</string>
+    <string name="p7725_sdk_tv_binding_success">綁定成功</string>
+    <string name="p7725_sdk_binding_password_again">確認密碼</string>
+    <string name="p7725_sdk_binding_email">註冊信箱</string>
+    <string name="p7725_sdk_binding_hint_must_bind">為保護您的資料安全，請先綁定idPLAY帳戶</string>
+    <string name="p7725_sdk_binding_hint_not_bind">您已註冊idPLAY帳戶，無須綁定</string>
+    <string name="p7725_sdk_binding_hint_already_bind">您已經綁定了idPLAY帳戶</string>
+    
+    
+    <!-- ******************Google Billing相關****************** -->
+    <string name="com_7725_setup_isSuccess_BILLING_UNAVAILABLE">您的設備未激活GOOGLE PLAY付費服務。</string>
+    <string name="com_7725_setup_isSuccess_ITEM_UNAVAILABLE">沒有找到相關產品。</string>
+    <string name="com_7725_setup_isSuccess_DEVELOPER_ERROR">您的設備未激活GOOGLE PLAY付費服務。</string>
+    <string name="com_7725_setup_isSuccess_ERROR">您的設備未激活GOOGLE PLAY付費服務。</string>
+    <string name="com_7725_query_inventory">查詢購買過的產品失敗:</string>
+    <string name="com_7725_purchase_failure">購買未完成！</string>
+    <string name="com_7725_purchase_failure_verify">購買失敗， 驗證不通過！</string>
+    <string name="com_7725_consume_failure">異常信息：</string>
+    <string name="com_7725_submit_SUCCESS">購買金幣成功，正在處理數據，請等待服務器發送元寶。</string>
+    <string name="com_7725_submit_FAIL_4001">很抱歉，ACTION錯誤，請稍後再試！</string>
+    <string name="com_7725_submit_FAIL_4002">很抱歉，訂單有誤，請稍後再試！</string>
+    <string name="com_7725_submit_FAIL_4003">很抱歉，運營商訂單錯誤，請稍後再試！</string>
+    <string name="com_7725_submit_FAIL_4004">很抱歉，金額格式錯誤，請稍後再試！</string>
+    <string name="com_7725_submit_FAIL_4005">很抱歉，遊戲參數錯誤，請稍後再試</string>
+    <string name="com_7725_submit_FAIL_4006">很抱歉，遊戲金幣兌換比例錯誤，請稍後再試</string>
+    <string name="com_7725_submit_FAIL__1">很抱歉，服務器響應異常，請稍後再試</string>
+    
+    <string name="com_7725_pvc">3</string>
+    
+	<string name="com_7725_logining">正在登入...</string>
+	<string name="com_7725_loading">加載中...</string>
+	<string name="com_7725_change_pass_error_net_hint">網絡異常，請稍後再試</string>
+	<string name="com_7725_common_result">結果</string>
+	<string name="com_7725_common_share_success">分享成功</string>
+	<string name="com_7725_ok">確定</string>
+	
+	<string name="p7725_sdk_hint_quick_login_has_binding">您已經綁定了idPLAY，請使用idPLAY帳號登入</string>
+	
+	<string name="com_7725_exception_hint">内部发生错误</string>
+	
+	<string name="p7725_tab_game_center">遊戲中心</string>
+    <string name="p7725_tab_strategy">攻略</string>
+    <string name="p7725_tab_funs">粉絲團</string>
+    <string name="p7725_tab_user_center">帳戶</string>
+    
+	<string name="p7725_install">安裝</string>
+	<string name="p7725_invite_by_fb">邀請FB好友</string>
+	<string name="p7725_invite">邀請</string>
+	<string name="p7725_invite_success">邀請成功</string>
+	<string name="p7725_invite_no_select_friend">您還未勾選好友，請重新選擇</string>
+	
+	<string name="p7725_change_password">修改密碼</string>
+	<string name="p7725_binding_username">綁定idPLAY帳號</string>
+	<string name="p7725_download_manager">下載管理</string>
+	<string name="p7725_deposits_record">儲值記錄</string>
+	<string name="p7725_customer_service">聯繫客服</string>
+	<string name="p7725_log_out">登出</string>
+	
+	<string name="p7725_sdk_type">類型：%1$s</string>
+    <string name="p7725_sdk_size">大小：%1$s</string>
+    
+    <string name="p7725_sdk_more_game">點擊查看更多</string>
+    
+    
+    <!-- 遊戲 -->
+    <string name="p7725_sdk_recommend_game">熱門遊戲推薦</string>
+    <string name="p7725_sdk_recommend_game_detail">遊戲介紹\n\n%1$s</string>
+    
+    <!-- 我的帳戶 -->
+    <string name="p7725_sdk_user_center">我的帳戶</string>
+    <string name="p7725_sdk_user_id">玩家ID：  %1$s</string>
+    
+    
+    <!-- 资源缺失时的默认属性 -->
+    <string name="p7725_sdk_error_default">未定義！！！</string>
+    <string name="p7725_sdk_exception_hint">内部发生错误</string>
+    
+    <string name="permname_downloadManager">com.library.permission.ACCESS_DOWNLOAD_MANAGER</string>
+    <string name="permname_downloadManagerAdvanced">com.library.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED</string>
+    <string name="permname_downloadCompletedIntent">com.library.permission.SEND_DOWNLOAD_COMPLETED_INTENTS</string>
+    
+    
+</resources>

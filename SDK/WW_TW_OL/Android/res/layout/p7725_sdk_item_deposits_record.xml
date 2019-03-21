@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="horizontal"
+    android:padding="@dimen/p7725_distance" >
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/deposit_record_game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:textColor="@color/p7725_sdk_orange_light"
+        android:textSize="@dimen/p7725_font_name_size" />
+
+    </LinearLayout>
+
+        <TextView
+            android:id="@+id/deposit_record_gold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:textColor="@color/p7725_sdk_gray_deep"
+            android:textSize="@dimen/p7725_font_name_size"
+             />
+
+        
+    
+    <TextView
+            android:id="@+id/deposit_record_money"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:singleLine="true"
+            android:gravity="center_horizontal"
+            android:paddingLeft="5dp"
+            android:textSize="@dimen/p7725_font_name_size"
+            android:textColor="@color/p7725_sdk_orange_light"
+            />
+
+    <TextView
+            android:id="@+id/deposit_record_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:textColor="@color/p7725_sdk_gray_deep"
+            android:textSize="@dimen/p7725_font_detail_size"/>
+</LinearLayout>

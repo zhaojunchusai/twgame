@@ -1,0 +1,27 @@
+
+cao2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao2
+  rotate: false
+  xy: 2, 2
+  size: 107, 103
+  orig: 107, 103
+  offset: 0, 0
+  index: -1
+ye_03
+  rotate: true
+  xy: 111, 81
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+ye_04
+  rotate: true
+  xy: 111, 92
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1

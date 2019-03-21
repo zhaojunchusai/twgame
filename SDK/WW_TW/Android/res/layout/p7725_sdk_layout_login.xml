@@ -1,0 +1,107 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/p7725_sdk_box_bg" >
+
+    <!-- 标题 -->
+    <ImageView
+        android:id="@+id/iv_login_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/p7725_sdk_botton_loginlogo"
+        android:contentDescription="@string/com_7725_app_name" />
+
+    <!-- 帐号，密码 -->
+
+    <TextView
+        android:id="@+id/tv_login_input_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:hint="@string/p7725_sdk_hint_login_input_username"
+        android:text="@string/p7725_sdk_tv_login_input_username"
+        android:textColor="#fff"
+        android:textSize="38.74px"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/et_login_input_username"
+        style="@style/Input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/p7725_sdk_hint_login_input_username"
+        android:inputType="text"
+        android:paddingRight="30dp" />
+
+    <Button
+        android:id="@+id/btn_login_showList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/p7725_sdk_btn_login_showlist" />
+
+    <TextView
+        android:id="@+id/tv_login_input_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:hint="@string/p7725_sdk_hint_login_input_username"
+        android:text="@string/p7725_sdk_tv_login_input_pass"
+        android:textColor="#fff"
+        android:textSize="38.74px"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/et_login_input_pass"
+        style="@style/Input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/p7725_sdk_hint_login_input_pass"
+        android:inputType="textPassword" />
+
+    <!-- 客服 ，找回，修改 -->
+
+    <TextView
+        android:id="@+id/tv_to_customer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="@string/p7725_sdk_tv_customer"
+        android:textColor="#000"
+        android:textSize="20px" />
+
+    <TextView
+        android:id="@+id/tv_to_findpass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="@string/p7725_sdk_tv_findpass"
+        android:textColor="#000"
+        android:textSize="20px" />
+
+    <TextView
+        android:id="@+id/tv_to_changepass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="@string/p7725_sdk_tv_changepass"
+        android:textColor="#000"
+        android:textColorLink="#fff"
+        android:textSize="20px" />
+    <!-- 登入，注册 -->
+
+    <Button
+        android:id="@+id/btn_login"
+        style="@style/Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/p7725_sdk_tv_login" />
+
+    <Button
+        android:id="@+id/btn_to_register"
+        style="@style/Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/p7725_sdk_btn_register" />
+
+</RelativeLayout>

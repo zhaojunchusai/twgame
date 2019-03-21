@@ -1,0 +1,964 @@
+<Data>
+  <uiRoot name="AllocateBoxView">
+    <uiLabel name="TitleLb">
+      <path>AllocateBoxView/Anim/TitleObj/TitleLb</path>
+      <value>分配寶箱</value>
+    </uiLabel>
+    <uiLabel name="BoxCount">
+      <path>AllocateBoxView/Anim/Labels/BoxCount</path>
+      <value>寶箱總數:9999</value>
+    </uiLabel>
+    <uiLabel name="TitleRank">
+      <path>AllocateBoxView/Anim/Labels/TitleRank</path>
+      <value>名次</value>
+    </uiLabel>
+    <uiLabel name="TitleName">
+      <path>AllocateBoxView/Anim/Labels/TitleName</path>
+      <value>成員名</value>
+    </uiLabel>
+    <uiLabel name="TitleScore">
+      <path>AllocateBoxView/Anim/Labels/TitleScore</path>
+      <value>前次戰役積分</value>
+    </uiLabel>
+    <uiLabel name="TitleAllocate">
+      <path>AllocateBoxView/Anim/Labels/TitleAllocate</path>
+      <value>分配寶箱</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>AllocateBoxView/Anim/SeeBox/Label</path>
+      <value>查看寶箱</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>AllocateBoxView/Anim/Confirm/Label</path>
+      <value>確認</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>AllocateBoxView/Anim/Cancel/Label</path>
+      <value>取消</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>AllocateBoxView/Pre/AllocateBoxItem/Name</path>
+      <value>角色名六個字 Lv99</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="CaptureCityInfoView">
+    <uiLabel name="TitleScore">
+      <path>CaptureCityInfoView/TitleLabels/TitleScore</path>
+      <value>積分</value>
+    </uiLabel>
+    <uiLabel name="TitleName">
+      <path>CaptureCityInfoView/TitleLabels/TitleName</path>
+      <value>成員</value>
+    </uiLabel>
+    <uiLabel name="TitleRank">
+      <path>CaptureCityInfoView/TitleLabels/TitleRank</path>
+      <value>名次</value>
+    </uiLabel>
+    <uiLabel name="TitleAward">
+      <path>CaptureCityInfoView/TitleLabels/TitleAward</path>
+      <value>佔領獎勵</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>CaptureCityInfoView/Pre/CaptureScoreItem/Name</path>
+      <value>角色名六個字</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CaptureCityInfoView/Left/UnionRank/Label</path>
+      <value>軍團排名</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CaptureCityInfoView/Left/PersonRank/Label</path>
+      <value>個人排名</value>
+    </uiLabel>
+    <uiLabel name="AwardDesc">
+      <path>CaptureCityInfoView/Right/AwardDesc</path>
+      <value>佔領成都後,軍團裡所有成員都將獲得征戰獎勵。並會給軍團發送5份成都寶箱。成都寶箱由軍團長分配。</value>
+    </uiLabel>
+    <uiLabel name="AwardTitle">
+      <path>CaptureCityInfoView/Right/AwardTitle</path>
+      <value>征戰獎勵:</value>
+    </uiLabel>
+    <uiLabel name="BoxAwardTitle">
+      <path>CaptureCityInfoView/Right/BoxAwardTitle</path>
+      <value>成都寶箱:</value>
+    </uiLabel>
+    <uiLabel name="FightCDTip">
+      <path>CaptureCityInfoView/Right/FightCDTip</path>
+      <value>[E3A94B]軍隊需要休整[5AE46B]00:04:59[-]才能繼續出戰[-]</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CaptureCityInfoView/Right/Fight/Label</path>
+      <value>出戰</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="CaptureTerritoryInfoView">
+    <uiLabel name="EnemyTip">
+      <path>CaptureTerritoryInfoView/gobj_StageInfoGroup/EnemyGroup/EnemyTip</path>
+      <value>敵方陣容</value>
+    </uiLabel>
+    <uiLabel name="NameLabel">
+      <path>CaptureTerritoryInfoView/gobj_StageInfoGroup/EnemyGroup/EnemyGrid/gobj_EnemyInfoComp/NameLabel</path>
+      <value>敵方</value>
+    </uiLabel>
+    <uiLabel name="AwardsTitle">
+      <path>CaptureTerritoryInfoView/gobj_StageInfoGroup/AwardsGroup/AwardsTitle</path>
+      <value>城池寶箱</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>CaptureTerritoryInfoView/gobj_StageInfoGroup/BGGroup/TitleGroup/Title</path>
+      <value>關卡信息</value>
+    </uiLabel>
+    <uiLabel name="TopTiltle">
+      <path>CaptureTerritoryInfoView/gobj_StageInfoGroup/gobj_IntegralGroup/gobj_TopRank/TopTiltle</path>
+      <value>積分最高軍團:</value>
+    </uiLabel>
+    <uiLabel name="IntegralTiltle">
+      <path>CaptureTerritoryInfoView/gobj_StageInfoGroup/gobj_IntegralGroup/gobj_Integral/IntegralTiltle</path>
+      <value>積分:</value>
+    </uiLabel>
+    <uiLabel name="MyIntegralTiltle">
+      <path>CaptureTerritoryInfoView/gobj_StageInfoGroup/gobj_IntegralGroup/gobj_MyIntegral/MyIntegralTiltle</path>
+      <value>我的軍團積分:</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="CaptureTerritoryRule">
+    <uiLabel name="SelfRankTitle">
+      <path>CaptureTerritoryRule/Anim/RuleDesc/Rule/SelfRank/RankTitleGroup/SelfRankTitle</path>
+      <value>你的排名</value>
+    </uiLabel>
+    <uiLabel name="AwardTitle">
+      <path>CaptureTerritoryRule/Anim/RuleDesc/Rule/SelfRank/GetAwardsGroup/AwardsTitleGroup/AwardTitle</path>
+      <value>獲得獎勵</value>
+    </uiLabel>
+    <uiLabel name="RuleTitle">
+      <path>CaptureTerritoryRule/Anim/RuleDesc/Rule/RuleDescGroup/RuleTitleGroup/RuleTitle</path>
+      <value>規則</value>
+    </uiLabel>
+    <uiLabel name="PVPRank">
+      <path>CaptureTerritoryRule/Anim/RuleDesc/Rule/AwardDescGroup/GetAwards/gobj_AwardGroup/PVPRank</path>
+      <value>第20名:</value>
+    </uiLabel>
+    <uiLabel name="GetAwardTitle">
+      <path>CaptureTerritoryRule/Anim/RuleDesc/Rule/AwardDescGroup/GetAwardTitleGroup/GetAwardTitle</path>
+      <value>獎勵</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>CaptureTerritoryRule/Anim/BGGroup/TitleGroup/Title</path>
+      <value>規則</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="CaptureTerritoryView">
+    <uiLabel name="Title">
+      <path>CaptureTerritoryView/Other/TitleBG/Title</path>
+      <value>攻城掠地</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CaptureTerritoryView/Other/Rank/Label</path>
+      <value>排行</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CaptureTerritoryView/Other/Rule/Label</path>
+      <value>規則</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>CaptureTerritoryView/Pre/CompaignCityItem/Name</path>
+      <value>成都</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="CaptureTokenView">
+    <uiLabel name="MidDesc1">
+      <path>CaptureTokenView/Anim/Mid/MidDesc1</path>
+      <value>攻伐蜀國加成:10%</value>
+    </uiLabel>
+    <uiLabel name="MidDesc2">
+      <path>CaptureTokenView/Anim/Mid/MidDesc2</path>
+      <value>10/10層</value>
+    </uiLabel>
+    <uiLabel name="MidDesc3">
+      <path>CaptureTokenView/Anim/Mid/MidDesc3</path>
+      <value>對蜀國守城軍隊的傷害提升100%</value>
+    </uiLabel>
+    <uiLabel name="LeftDesc1">
+      <path>CaptureTokenView/Anim/Left/LeftDesc1</path>
+      <value>攻伐魏國加成:0%</value>
+    </uiLabel>
+    <uiLabel name="LeftDesc2">
+      <path>CaptureTokenView/Anim/Left/LeftDesc2</path>
+      <value>10/10層</value>
+    </uiLabel>
+    <uiLabel name="LeftDesc3">
+      <path>CaptureTokenView/Anim/Left/LeftDesc3</path>
+      <value>對魏國守城軍隊的傷害提升100%</value>
+    </uiLabel>
+    <uiLabel name="RightDesc1">
+      <path>CaptureTokenView/Anim/Right/RightDesc1</path>
+      <value>攻伐吳國加成:10%</value>
+    </uiLabel>
+    <uiLabel name="RightDesc2">
+      <path>CaptureTokenView/Anim/Right/RightDesc2</path>
+      <value>10/10層</value>
+    </uiLabel>
+    <uiLabel name="RightDesc3">
+      <path>CaptureTokenView/Anim/Right/RightDesc3</path>
+      <value>對吳國守城軍隊的傷害提升100%</value>
+    </uiLabel>
+    <uiLabel name="TitleLb">
+      <path>CaptureTokenView/Anim/TitleObj/TitleLb</path>
+      <value>攻城令</value>
+    </uiLabel>
+    <uiLabel name="TokenDesc">
+      <path>CaptureTokenView/Anim/TokenDesc</path>
+      <value>攻城令將在戰役結束後收回</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="CreateCharacterView">
+    <uiLabel name="Label">
+      <path>CreateCharacterView/Anim/Cancel/FG/Label</path>
+      <value>返回</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ExpeditionInfoView">
+    <uiLabel name="Sprite1">
+      <path>ExpeditionInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite1</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite2">
+      <path>ExpeditionInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite2</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite3">
+      <path>ExpeditionInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite3</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite4">
+      <path>ExpeditionInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite4</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite5">
+      <path>ExpeditionInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite5</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite6">
+      <path>ExpeditionInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite6</path>
+      <value>武將位置</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="FightView">
+    <uiLabel name="Cur_Integral">
+      <path>FightView/FightResult/Result_CaptureTerritory/Cur_Integral</path>
+      <value>排名變化：</value>
+    </uiLabel>
+    <uiLabel name="ST_Title">
+      <path>FightView/FightResult/Result_ServerHegemony/ST_Title</path>
+      <value>戰鬥結束</value>
+    </uiLabel>
+    <uiLabel name="ST_FightHurt">
+      <path>FightView/FightResult/Result_ServerHegemony/ST_FightHurt</path>
+      <value>戰鬥傷害：</value>
+    </uiLabel>
+    <uiLabel name="ST_BUFFHurt">
+      <path>FightView/FightResult/Result_ServerHegemony/ST_BUFFHurt</path>
+      <value>神威加成：</value>
+    </uiLabel>
+    <uiLabel name="ST_TotleHurt">
+      <path>FightView/FightResult/Result_ServerHegemony/ST_TotleHurt</path>
+      <value>傷害總計：</value>
+    </uiLabel>
+    <uiLabel name="ST_Award">
+      <path>FightView/FightResult/Result_ServerHegemony/ST_Award</path>
+      <value>獲得銅錢：</value>
+    </uiLabel>
+    <uiLabel name="Qualifying_Title">
+      <path>FightView/FightResult/Result_Qualifying/Qualifying_Content/Qualifying_Title</path>
+      <value>積分變化：</value>
+    </uiLabel>
+    <uiLabel name="Qualifying_UpHint">
+      <path>FightView/FightResult/Result_Qualifying/Qualifying_Content/Qualifying_BG_UpHint/Qualifying_UpHint</path>
+      <value>增加25分</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="MainCityView">
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/BaZhu/Label</path>
+      <value>[ffcc33]32級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Sprite1">
+      <path>MainCityView/MainCity/MainCityFG/Title/BaZhu/Sprite1</path>
+      <value>全服霸主</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/GongCheng/Label</path>
+      <value>[ffcc33]32級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Sprite1">
+      <path>MainCityView/MainCity/MainCityFG/Title/GongCheng/Sprite1</path>
+      <value>攻城掠地</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCity/MainCityFG/Title/PaiWeiSai/Label</path>
+      <value>[ffcc33]32級[-]解鎖</value>
+    </uiLabel>
+    <uiLabel name="Sprite1">
+      <path>MainCityView/MainCity/MainCityFG/Title/PaiWeiSai/Sprite1</path>
+      <value>排位賽</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="MallView">
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/gobj_NecklaceMatObj/Grid/NecklaceMatWhite/Label</path>
+      <value>白色</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/gobj_NecklaceMatObj/Grid/NecklaceMatGreen/Label</path>
+      <value>綠色</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/gobj_NecklaceMatObj/Grid/NecklaceMatBlue/Label</path>
+      <value>藍色</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/CommonMat/Label</path>
+      <value>其他商品</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/EquipBag/Label</path>
+      <value>裝備福袋</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="PlayerInfoView">
+    <uiLabel name="Sprite1">
+      <path>PlayerInfoView/Anim/EnemyGroup/EnemyBGGrid/BgGroup/Sprite1</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite2">
+      <path>PlayerInfoView/Anim/EnemyGroup/EnemyBGGrid/BgGroup/Sprite2</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite3">
+      <path>PlayerInfoView/Anim/EnemyGroup/EnemyBGGrid/BgGroup/Sprite3</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite4">
+      <path>PlayerInfoView/Anim/EnemyGroup/EnemyBGGrid/BgGroup/Sprite4</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite5">
+      <path>PlayerInfoView/Anim/EnemyGroup/EnemyBGGrid/BgGroup/Sprite5</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite6">
+      <path>PlayerInfoView/Anim/EnemyGroup/EnemyBGGrid/BgGroup/Sprite6</path>
+      <value>武將位置</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="QualifyingView">
+    <uiLabel name="RuleTitle">
+      <path>QualifyingView/gobj_Rule/Anim/RuleDesc/RuleDescGroup/RuleTitleGroup/RuleTitle</path>
+      <value>規則</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_Rule/Anim/BGGroup/TitleGroup/Title</path>
+      <value>排位規則</value>
+    </uiLabel>
+    <uiLabel name="Desc">
+      <path>QualifyingView/gobj_Main/Anim/CenterGroup/BtnGroup/RuleDesc/Desc</path>
+      <value>規則說明</value>
+    </uiLabel>
+    <uiLabel name="Desc">
+      <path>QualifyingView/gobj_Main/Anim/CenterGroup/BtnGroup/Rank/Desc</path>
+      <value>排行榜</value>
+    </uiLabel>
+    <uiLabel name="Desc">
+      <path>QualifyingView/gobj_Main/Anim/CenterGroup/BtnGroup/BattleLog/Desc</path>
+      <value>戰鬥日誌</value>
+    </uiLabel>
+    <uiLabel name="Desc">
+      <path>QualifyingView/gobj_Main/Anim/CenterGroup/BtnGroup/StartMacth/Desc</path>
+      <value>開始匹配</value>
+    </uiLabel>
+    <uiLabel name="Sprite">
+      <path>QualifyingView/gobj_Main/Anim/TopGroup/DefenseSoldierGroup/BG/SpriteBG1/Sprite</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite">
+      <path>QualifyingView/gobj_Main/Anim/TopGroup/DefenseSoldierGroup/BG/SpriteBG2/Sprite</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite">
+      <path>QualifyingView/gobj_Main/Anim/TopGroup/DefenseSoldierGroup/BG/SpriteBG3/Sprite</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite">
+      <path>QualifyingView/gobj_Main/Anim/TopGroup/DefenseSoldierGroup/BG/SpriteBG4/Sprite</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite">
+      <path>QualifyingView/gobj_Main/Anim/TopGroup/DefenseSoldierGroup/BG/SpriteBG5/Sprite</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite">
+      <path>QualifyingView/gobj_Main/Anim/TopGroup/DefenseSoldierGroup/BG/SpriteBG6/Sprite</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_Main/Anim/TopGroup/AdjustGroup/CombatPowerGroup/Title</path>
+      <value>戰鬥力</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_Main/Anim/TopGroup/AdjustGroup/AdjustLineup/Title</path>
+      <value>陣容調整</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_Main/Anim/BGGroup/TitleGroup/Title</path>
+      <value>排位賽</value>
+    </uiLabel>
+    <uiLabel name="RankTitle">
+      <path>QualifyingView/gobj_Main/Anim/RankAwardGroup/RankTitleGroup/RankTitle</path>
+      <value>排名獎勵</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_Main/Anim/RankAwardGroup/RankNumGroup/Title</path>
+      <value>排       名:</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_Main/Anim/RankAwardGroup/RankIntegralGroup/Title</path>
+      <value>積       分:</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_Main/Anim/RankAwardGroup/PlaySessionsGroup/Title</path>
+      <value>出戰場次:</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_Main/Anim/RankAwardGroup/WinsSessionsGroup/Title</path>
+      <value>勝場次數:</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_Main/Anim/RankAwardGroup/MyWinningGroup/Title</path>
+      <value>我的勝率:</value>
+    </uiLabel>
+    <uiLabel name="RankChangeLabel">
+      <path>QualifyingView/gobj_BattleLog/Anim/LogGroup/BattleLog/BattleLog/gobj_BattleLogComp/BattleResultGroup/RankChangeLabel</path>
+      <value>上升
+150位</value>
+    </uiLabel>
+    <uiLabel name="RevengeButtonDesc">
+      <path>QualifyingView/gobj_BattleLog/Anim/LogGroup/BattleLog/BattleLog/gobj_BattleLogComp/RevengeButton/RevengeButtonDesc</path>
+      <value>復仇</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_BattleLog/Anim/BGGroup/TitleGroup/Title</path>
+      <value>戰鬥日誌</value>
+    </uiLabel>
+    <uiLabel name="AwardTitle">
+      <path>QualifyingView/gobj_AwardGroup/BGGroup/TitleGroup/AwardTitle</path>
+      <value>演武規則</value>
+    </uiLabel>
+    <uiLabel name="Desc">
+      <path>QualifyingView/gobj_AwardGroup/AwardSureButton/Desc</path>
+      <value>確定</value>
+    </uiLabel>
+    <uiLabel name="GetAwardTitle">
+      <path>QualifyingView/gobj_SeasonRewards/Anim/SeasonRewards/AwardDescGroup/GetAwardTitleGroup/GetAwardTitle</path>
+      <value>獎勵</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>QualifyingView/gobj_SeasonRewards/Anim/BGGroup/TitleGroup/Title</path>
+      <value>賽季獎勵</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="RankView">
+    <uiLabel name="Label">
+      <path>RankView/Anim/RankTypeScrollView/UITable/WarFareButton/Label</path>
+      <value>征戰榜</value>
+    </uiLabel>
+    <uiLabel name="EndnessNormalLabel">
+      <path>RankView/Anim/RankTypeScrollView/UITable/WarExpandObject/ExpandGrid/EndnessNormalButton/EndnessNormalLabel</path>
+      <value>軍團榜</value>
+    </uiLabel>
+    <uiLabel name="EndnessEliteLabel">
+      <path>RankView/Anim/RankTypeScrollView/UITable/WarExpandObject/ExpandGrid/EndnessEliteButton/EndnessEliteLabel</path>
+      <value>成員榜</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>RankView/Anim/RankTypeScrollView/UITable/WarExpandObject/ExpandGrid/Personal/Label</path>
+      <value>個人榜</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>RankView/Anim/RankTypeScrollView/UITable/QualifyingButton/Label</path>
+      <value>排位榜</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="RecruitResultView">
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameAnim/Name0/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameAnim/Name1/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameAnim/Name2/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameAnim/Name3/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameAnim/Name4/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameAnim/Name5/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameAnim/Name6/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameAnim/Name7/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameAnim/Name8/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameAnim/Name9/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameResult/Name0/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameResult/Name1/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameResult/Name2/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameResult/Name3/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameResult/Name4/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameResult/Name5/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameResult/Name6/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameResult/Name7/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameResult/Name8/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/TenNameResult/Name9/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/OnceAnim/ones/Sprite/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecruitResultView/OnceResult/ones/Sprite/Item/Name</path>
+      <value>武將名字</value>
+    </uiLabel>
+    <uiLabel name="Lb">
+      <path>RecruitResultView/Btn/SingleBtn/Lb</path>
+      <value>招募一次</value>
+    </uiLabel>
+    <uiLabel name="Lb">
+      <path>RecruitResultView/Btn/MultipleBtn/Lb</path>
+      <value>招募十次</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="RecruitView">
+    <uiLabel name="Num">
+      <path>RecruitView/Anim/UnionPrison/Num</path>
+      <value>獲得高級武將幾率提升:</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ServerHegemonyInfoView">
+    <uiLabel name="Title">
+      <path>ServerHegemonyInfoView/Anim/StageInfoGroup/BG/TitleGroup/Title</path>
+      <value>敵方陣容</value>
+    </uiLabel>
+    <uiLabel name="Sprite1">
+      <path>ServerHegemonyInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite1</path>
+      <value>位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite2">
+      <path>ServerHegemonyInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite2</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite3">
+      <path>ServerHegemonyInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite3</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite4">
+      <path>ServerHegemonyInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite4</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite5">
+      <path>ServerHegemonyInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite5</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Sprite6">
+      <path>ServerHegemonyInfoView/Anim/StageInfoGroup/EnemyGroup/EnemyBGGrid/BgGroup/Sprite6</path>
+      <value>武將位置</value>
+    </uiLabel>
+    <uiLabel name="Text">
+      <path>ServerHegemonyInfoView/Anim/StageInfoGroup/ReadyBattle/Text</path>
+      <value>戰前準備</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>ServerHegemonyInfoView/Anim/StageInfoGroup/Information/Name</path>
+      <value>名       字:</value>
+    </uiLabel>
+    <uiLabel name="Union">
+      <path>ServerHegemonyInfoView/Anim/StageInfoGroup/Information/Union</path>
+      <value>所屬公會:</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="SoldierPropsPackageView">
+    <uiLabel name="TitleLabel">
+      <path>SoldierPropsPackageView/OffsetRoot/TitleGroup/TitleLabel</path>
+      <value>選擇武將</value>
+    </uiLabel>
+    <uiLabel name="SureButtonLabel">
+      <path>SoldierPropsPackageView/OffsetRoot/SummonButton/SureButtonLabel</path>
+      <value>召喚</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="StoreView">
+    <uiLabel name="RefreashTimeTip">
+      <path>StoreView/Anim/Layer3/RefreashItems/RefreashTimeTip</path>
+      <value>下次刷新時間：</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>StoreView/Anim/Layer3/RefreashItems/Refreash/Label</path>
+      <value>刷 新</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="SupermacyView">
+    <uiLabel name="Title">
+      <path>SupermacyView/gobj_MainGroup/Anim/BGGroup/TitleGroup/Title</path>
+      <value>全服霸主</value>
+    </uiLabel>
+    <uiLabel name="RuleDesc">
+      <path>SupermacyView/gobj_MainGroup/Anim/RuleDesc/RuleDesc</path>
+      <value>規則</value>
+    </uiLabel>
+    <uiLabel name="StateLabel">
+      <path>SupermacyView/gobj_MainGroup/Anim/TimeCount/StateLabel</path>
+      <value>距活動開始:</value>
+    </uiLabel>
+    <uiLabel name="Tittle">
+      <path>SupermacyView/gobj_MainGroup/Anim/ListGroup/AwardList/TitleGroup/Tittle</path>
+      <value>排名獎勵</value>
+    </uiLabel>
+    <uiLabel name="WTittle">
+      <path>SupermacyView/gobj_MainGroup/Anim/ListGroup/AwardPanel/Worship/WTittle</path>
+      <value>朝拜獎勵</value>
+    </uiLabel>
+    <uiLabel name="RTittle">
+      <path>SupermacyView/gobj_MainGroup/Anim/ListGroup/AwardPanel/Rank/RTittle</path>
+      <value>排名獎勵</value>
+    </uiLabel>
+    <uiLabel name="RDes">
+      <path>SupermacyView/gobj_MainGroup/Anim/ListGroup/AwardPanel/Rank/RDes</path>
+      <value>點擊查看</value>
+    </uiLabel>
+    <uiLabel name="WorshipDesc">
+      <path>SupermacyView/gobj_MainGroup/Anim/SupermacyButtonGroup/WorshipBtn/WorshipDesc</path>
+      <value>朝拜霸主</value>
+    </uiLabel>
+    <uiLabel name="ChallengDesc">
+      <path>SupermacyView/gobj_MainGroup/Anim/SupermacyButtonGroup/ChallengeBtn/ChallengDesc</path>
+      <value>挑戰霸主</value>
+    </uiLabel>
+    <uiLabel name="CDTIME">
+      <path>SupermacyView/gobj_MainGroup/Anim/SupermacyButtonGroup/ChallengeBtn/CDTIME</path>
+      <value>戰鬥冷卻：60</value>
+    </uiLabel>
+    <uiLabel name="NameText">
+      <path>SupermacyView/gobj_MainGroup/Anim/SupermacyWindow/BGGroup/NameText</path>
+      <value>全服霸主</value>
+    </uiLabel>
+    <uiLabel name="DescLabel">
+      <path>SupermacyView/gobj_MainGroup/Anim/BuffButtonGroup/BuffEffectLabel/DescLabel</path>
+      <value>神威附體: 增加攻擊+</value>
+    </uiLabel>
+    <uiLabel name="AutoBattleLabel">
+      <path>SupermacyView/gobj_MainGroup/Anim/AutoSelectionGroup/AutoBattle/AutoBattleLabel</path>
+      <value>自動戰鬥</value>
+    </uiLabel>
+    <uiLabel name="AutoClearCDLabel">
+      <path>SupermacyView/gobj_MainGroup/Anim/AutoSelectionGroup/AutoClearCD/AutoClearCDLabel</path>
+      <value>快速清除CD</value>
+    </uiLabel>
+    <uiLabel name="RTitle">
+      <path>SupermacyView/gobj_SupermacyRule/Anim/BGGroup/TitleGroup/RTitle</path>
+      <value>霸主規則</value>
+    </uiLabel>
+    <uiLabel name="RuleTitle">
+      <path>SupermacyView/gobj_SupermacyRule/Anim/BGGroup/RankTitleGroup/RuleTitle</path>
+      <value>規則</value>
+    </uiLabel>
+    <uiLabel name="RTitle">
+      <path>SupermacyView/gobj_RankAward/RA_Anim/BGGroup/TitleGroup/RTitle</path>
+      <value>排行獎勵</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionPrisonChooseView">
+    <uiLabel name="Label">
+      <path>UnionPrisonChooseView/Title/Label</path>
+      <value>出戰目標</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>UnionPrisonChooseView/TroggleGroup/TabStranger/SlicedSprite/Soldier</path>
+      <value>一般</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>UnionPrisonChooseView/TroggleGroup/TabStranger/Highlight/Soldier</path>
+      <value>一般</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>UnionPrisonChooseView/TroggleGroup/TabEnemy/SlicedSprite/Soldier</path>
+      <value>仇敵</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>UnionPrisonChooseView/TroggleGroup/TabEnemy/Highlight/Soldier</path>
+      <value>仇敵</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>UnionPrisonChooseView/TroggleGroup/TabEscaped/SlicedSprite/Soldier</path>
+      <value>叛逆</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>UnionPrisonChooseView/TroggleGroup/TabEscaped/Highlight/Soldier</path>
+      <value>叛逆</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionPrisonChooseView/StrangerGroup/Button_Level/Label</path>
+      <value>刷新</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionPrisonChooseView/StrangerGroup/Button_Power/Label</path>
+      <value>搜索</value>
+    </uiLabel>
+    <uiLabel name="Label_Master">
+      <path>UnionPrisonChooseView/StrangerGroup/MaterialScroll/item/LabelGroup/Label_Master</path>
+      <value>成員:</value>
+    </uiLabel>
+    <uiLabel name="Label_Power">
+      <path>UnionPrisonChooseView/StrangerGroup/MaterialScroll/item/LabelGroup/Label_Power</path>
+      <value>團長:</value>
+    </uiLabel>
+    <uiLabel name="Label_Prompt">
+      <path>UnionPrisonChooseView/StrangerGroup/MaterialScroll/item/LabelGroup/Label_Prompt</path>
+      <value>點擊開戰</value>
+    </uiLabel>
+    <uiLabel name="Label_State">
+      <path>UnionPrisonChooseView/StrangerGroup/MaterialScroll/item/LabelGroup/Label_State</path>
+      <value>狀態:</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionPrisonChooseView/StrangerGroup/Input/Label</path>
+      <value>點擊輸入軍團名</value>
+    </uiLabel>
+    <uiLabel name="Label_Master">
+      <path>UnionPrisonChooseView/OtherGroup/MaterialScroll/item/LabelGroup/Label_Master</path>
+      <value>成員:</value>
+    </uiLabel>
+    <uiLabel name="Label_Power">
+      <path>UnionPrisonChooseView/OtherGroup/MaterialScroll/item/LabelGroup/Label_Power</path>
+      <value>團長:</value>
+    </uiLabel>
+    <uiLabel name="Label_Prompt">
+      <path>UnionPrisonChooseView/OtherGroup/MaterialScroll/item/LabelGroup/Label_Prompt</path>
+      <value>點擊開戰</value>
+    </uiLabel>
+    <uiLabel name="Label_State">
+      <path>UnionPrisonChooseView/OtherGroup/MaterialScroll/item/LabelGroup/Label_State</path>
+      <value>狀態:</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionPrisonChooseView/OtherGroup/MaterialScroll/item/ButtonGroup/Button_UnLock/Label</path>
+      <value>解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionPrisonChooseView/OtherGroup/MaterialScroll/item/ButtonGroup/Button_Lock/Label</path>
+      <value>鎖定</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionPrisonInfoView">
+    <uiLabel name="Label_Name">
+      <path>UnionPrisonInfoView/Anim/LabelGroup/Label_Name</path>
+      <value>名稱:</value>
+    </uiLabel>
+    <uiLabel name="Label_Member">
+      <path>UnionPrisonInfoView/Anim/LabelGroup/Label_Member</path>
+      <value>成員:</value>
+    </uiLabel>
+    <uiLabel name="Label_Leader">
+      <path>UnionPrisonInfoView/Anim/LabelGroup/Label_Leader</path>
+      <value>團長:</value>
+    </uiLabel>
+    <uiLabel name="Label_State">
+      <path>UnionPrisonInfoView/Anim/LabelGroup/Label_State</path>
+      <value>狀態:</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionPrisonInfoView/Anim/RuleBtn/Label</path>
+      <value>出擊</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionPrisonView">
+    <uiLabel name="Label">
+      <path>UnionPrisonView/Anim/RuleBtn/Label</path>
+      <value>規則</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>UnionPrisonView/Anim/TitleBG/Title</path>
+      <value>信仰神殿</value>
+    </uiLabel>
+    <uiLabel name="UnionName">
+      <path>UnionPrisonView/Anim/DependRight/Title/UnionName</path>
+      <value>軍團：</value>
+    </uiLabel>
+    <uiLabel name="UnionLeader">
+      <path>UnionPrisonView/Anim/DependRight/Title/UnionLeader</path>
+      <value>軍團長：</value>
+    </uiLabel>
+    <uiLabel name="Count">
+      <path>UnionPrisonView/Anim/DependRight/EmptyGroup/SurplusCount/Count</path>
+      <value>今日剩餘：</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionPrisonView/Anim/DependRight/EmptyGroup/Descript/Label</path>
+      <value>無附屬軍團</value>
+    </uiLabel>
+    <uiLabel name="Count">
+      <path>UnionPrisonView/Anim/DependRight/HadGroup/SurplusCount/Count</path>
+      <value>今日剩餘：</value>
+    </uiLabel>
+    <uiLabel name="Level">
+      <path>UnionPrisonView/Anim/DependRight/HadGroup/Descript/Level</path>
+      <value>等級：</value>
+    </uiLabel>
+    <uiLabel name="Buff">
+      <path>UnionPrisonView/Anim/DependRight/HadGroup/Descript/Buff</path>
+      <value>招募提升：</value>
+    </uiLabel>
+    <uiLabel name="UnionName">
+      <path>UnionPrisonView/Anim/DependLeft/Title/UnionName</path>
+      <value>軍團：</value>
+    </uiLabel>
+    <uiLabel name="UnionLeader">
+      <path>UnionPrisonView/Anim/DependLeft/Title/UnionLeader</path>
+      <value>軍團長：</value>
+    </uiLabel>
+    <uiLabel name="Count">
+      <path>UnionPrisonView/Anim/DependLeft/EmptyGroup/SurplusCount/Count</path>
+      <value>今日剩餘：</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionPrisonView/Anim/DependLeft/EmptyGroup/Descript/Label</path>
+      <value>無附屬軍團</value>
+    </uiLabel>
+    <uiLabel name="Count">
+      <path>UnionPrisonView/Anim/DependLeft/HadGroup/SurplusCount/Count</path>
+      <value>今日剩餘：</value>
+    </uiLabel>
+    <uiLabel name="Level">
+      <path>UnionPrisonView/Anim/DependLeft/HadGroup/Descript/Level</path>
+      <value>等級：</value>
+    </uiLabel>
+    <uiLabel name="Buff">
+      <path>UnionPrisonView/Anim/DependLeft/HadGroup/Descript/Buff</path>
+      <value>招募提升：</value>
+    </uiLabel>
+    <uiLabel name="Count">
+      <path>UnionPrisonView/Anim/DependMiddle/EmptyGroup/SurplusCount/Count</path>
+      <value>招募出高級武將幾率共提升：</value>
+    </uiLabel>
+    <uiLabel name="Level">
+      <path>UnionPrisonView/Anim/DependMiddle/EmptyGroup/Descript/Level</path>
+      <value>等級：</value>
+    </uiLabel>
+    <uiLabel name="Buff">
+      <path>UnionPrisonView/Anim/DependMiddle/EmptyGroup/Descript/Buff</path>
+      <value>招募提升：</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionPrisonView/Anim/DependMiddle/HadGroup/Descript/Label</path>
+      <value>淪為附屬
+無招募提升</value>
+    </uiLabel>
+    <uiLabel name="Count">
+      <path>UnionPrisonView/Anim/DependMiddle/HadGroup/SurplusCount/Count</path>
+      <value>招募出高級武將幾率共提升：</value>
+    </uiLabel>
+    <uiLabel name="UnionName">
+      <path>UnionPrisonView/Anim/DependMiddle/HadGroup/Title/UnionName</path>
+      <value>軍團：</value>
+    </uiLabel>
+    <uiLabel name="UnionLeader">
+      <path>UnionPrisonView/Anim/DependMiddle/HadGroup/Title/UnionLeader</path>
+      <value>軍團長：</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionPrisonView/Anim/MarkGroup/Back/LabelPanel/Label</path>
+      <value>--點擊查看詳細--</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionView">
+    <uiLabel name="MenberCount">
+      <path>UnionView/Anim/Mid/Grid/Hall/MenberCount</path>
+      <value>探險進度99-99</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>UnionView/Anim/Mid/Grid/Hall/Name</path>
+      <value>軍團大廳</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>UnionView/Anim/Mid/Grid/Store/Name</path>
+      <value>軍團大廳</value>
+    </uiLabel>
+    <uiLabel name="Progress">
+      <path>UnionView/Anim/Mid/Grid/Advanture/Progress</path>
+      <value>探險進度99-99</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>UnionView/Anim/Mid/Grid/Advanture/Name</path>
+      <value>軍團大廳</value>
+    </uiLabel>
+    <uiLabel name="Rank">
+      <path>UnionView/Anim/Mid/Grid/Fight/Rank</path>
+      <value>爭霸排名:123456</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>UnionView/Anim/Mid/Grid/Fight/Name</path>
+      <value>軍團大廳</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>UnionView/Anim/Mid/Grid/Prison/Name</path>
+      <value>軍團大廳</value>
+    </uiLabel>
+  </uiRoot>
+</Data>

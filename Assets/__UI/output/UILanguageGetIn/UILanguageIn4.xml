@@ -1,0 +1,248 @@
+<Data>
+  <uiRoot name="CommentView">
+    <uiLabel name="Label">
+      <path>CommentView/Btns/NoRemind/Label</path>
+      <value>不再提醒</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CommentView/Btns/Refuse/Label</path>
+      <value>殘忍拒絕</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CommentView/Btns/Go/Label</path>
+      <value>欣然前往</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>CommentView/Btns/Confirm/Label</path>
+      <value>確定</value>
+    </uiLabel>
+    <uiLabel name="Content">
+      <path>CommentView/Common/Content</path>
+      <value>主公主公，給一個5星評價吧，人家會好好報答主公的~~~~</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="FriendAddView">
+    <uiLabel name="Title">
+      <path>FriendAddView/Title</path>
+      <value>添加好友</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendAddView/OneKeyRefuse/Label</path>
+      <value>刷新推薦</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendAddView/OneKeyAgree/Label</path>
+      <value>搜索</value>
+    </uiLabel>
+    <uiLabel name="FightPowerTitle">
+      <path>FriendAddView/Content/Pre/UnionApplyItem/FightPowerTitle</path>
+      <value>最強戰力</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendAddView/Content/Pre/UnionApplyItem/Agree/Label</path>
+      <value>添加</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendAddView/InputGroup/Input/Label</path>
+      <value>輸入角色名</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="FriendApplyView">
+    <uiLabel name="Title">
+      <path>FriendApplyView/Title</path>
+      <value>好友申請</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendApplyView/OneKeyRefuse/Label</path>
+      <value>一鍵拒絕</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendApplyView/OneKeyAgree/Label</path>
+      <value>一鍵同意</value>
+    </uiLabel>
+    <uiLabel name="FightPowerTitle">
+      <path>FriendApplyView/Content/Pre/UnionApplyItem/FightPowerTitle</path>
+      <value>最強戰力</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendApplyView/Content/Pre/UnionApplyItem/Agree/Label</path>
+      <value>同意</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendApplyView/Content/Pre/UnionApplyItem/Refuse/Label</path>
+      <value>拒絕</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="FriendView">
+    <uiLabel name="Title">
+      <path>FriendView/Title</path>
+      <value>好友</value>
+    </uiLabel>
+    <uiLabel name="Lb">
+      <path>FriendView/gobj_SecondMenu/gobj_Menu/SlaveControl/Lb</path>
+      <value>奴役</value>
+    </uiLabel>
+    <uiLabel name="Lb">
+      <path>FriendView/gobj_SecondMenu/gobj_Menu/Kick/Lb</path>
+      <value>開除</value>
+    </uiLabel>
+    <uiLabel name="Lb">
+      <path>FriendView/gobj_SecondMenu/gobj_Menu/Job/Lb</path>
+      <value>開除</value>
+    </uiLabel>
+    <uiLabel name="Lb">
+      <path>FriendView/gobj_SecondMenu/gobj_Menu/Nominate/Lb</path>
+      <value>讓位</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>FriendView/ToggleGroup/TabFriend/SlicedSprite/Soldier</path>
+      <value>好友</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>FriendView/ToggleGroup/TabFriend/Highlight/Soldier</path>
+      <value>好友</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>FriendView/ToggleGroup/TabFBFriend/SlicedSprite/Soldier</path>
+      <value>FB好友</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>FriendView/ToggleGroup/TabFBFriend/Highlight/Soldier</path>
+      <value>FB好友</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>FriendView/ToggleGroup/TabFriendMisson/SlicedSprite/Soldier</path>
+      <value>好友任務</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>FriendView/ToggleGroup/TabFriendMisson/Highlight/Soldier</path>
+      <value>好友任務</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>FriendView/ToggleGroup/TabWelcome/SlicedSprite/Soldier</path>
+      <value>邀請碼</value>
+    </uiLabel>
+    <uiLabel name="Soldier">
+      <path>FriendView/ToggleGroup/TabWelcome/Highlight/Soldier</path>
+      <value>邀請碼</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendView/FrienGroup/Btns/OneKeyGive/Label</path>
+      <value>一鍵贈送</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendView/FrienGroup/Btns/OneKeyGet/Label</path>
+      <value>一鍵領取</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendView/FrienGroup/Btns/FriendRequest/Label</path>
+      <value>好友申請</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendView/FrienGroup/Btns/FriendAdd/Label</path>
+      <value>添加好友</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>FriendView/FrienGroup/FriendList/FriendMemberItem/Name</path>
+      <value>今天我不在</value>
+    </uiLabel>
+    <uiLabel name="Union">
+      <path>FriendView/FrienGroup/FriendList/FriendMemberItem/Union</path>
+      <value>職位:成員</value>
+    </uiLabel>
+    <uiLabel name="Liveness">
+      <path>FriendView/FrienGroup/FriendList/FriendMemberItem/Liveness</path>
+      <value>最強戰力</value>
+    </uiLabel>
+    <uiLabel name="Lb">
+      <path>FriendView/FrienGroup/FriendList/FriendMemberItem/GiveBtn/Lb</path>
+      <value>贈送體力</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendView/InviteCodeGroup/InputGroup/Label</path>
+      <value>輸入邀請碼:</value>
+    </uiLabel>
+	<uiLabel name="LabelDec">
+      <path>FriendView/InviteCodeGroup/InputGroup/LabelDec</path>
+      <value>將邀請碼分享給想邀請的好友，當他填入後雙方都會獲得獎勵</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendView/InviteCodeGroup/InputGroup/Input/Label</path>
+      <value>點擊輸入邀請碼</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendView/InviteCodeGroup/Btns/Ok/Label</path>
+      <value>確認</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendView/InviteCodeGroup/Btns/Share/Label</path>
+      <value>分享</value>
+    </uiLabel>
+    <uiLabel name="Descript">
+      <path>FriendView/InviteCodeGroup/MissionGroup/MissonList/FriendMemberItem/Descript</path>
+      <value>今天我不在</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>FriendView/InviteCodeGroup/MyCodeBg/Title</path>
+      <value>我的邀請碼：</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendView/FriendMissionGroup/Btns/Share/Label</path>
+      <value>邀請好友</value>
+    </uiLabel>
+    <uiLabel name="Descript">
+      <path>FriendView/FriendMissionGroup/FBMissionGroup/MissonList/FriendMemberItem/Descript</path>
+      <value>今天我不在</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FriendView/FriendMissionGroup/Label</path>
+      <value>好友任務每30天重置1次</value>
+    </uiLabel>
+    <uiLabel name="Descript">
+      <path>FriendView/FriendMissionGroup/LINEMissionGroup/MissonList/FriendMemberItem/Descript</path>
+      <value>今天我不在</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>FriendView/FBFrienGroup/FriendList/FriendMemberItem/Name</path>
+      <value>今天我不在</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="FunctionMenuView">
+    <uiLabel name="Label">
+      <path>FunctionMenuView/gobj_FunctionGroup/ButtonGroup/CheckInfo/Label</path>
+      <value>查看信息</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FunctionMenuView/gobj_FunctionGroup/ButtonGroup/LaunchChat/Label</path>
+      <value>發起私聊</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FunctionMenuView/gobj_FunctionGroup/ButtonGroup/AddFriend/Label</path>
+      <value>添加好友</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FunctionMenuView/gobj_FunctionGroup/ButtonGroup/DeleteFriend/Label</path>
+      <value>刪除好友</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FunctionMenuView/gobj_FunctionGroup/ButtonGroup/ShieldPlayer/Label</path>
+      <value>屏蔽玩家</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FunctionMenuView/gobj_FunctionGroup/ButtonGroup/CropsInvite/Label</path>
+      <value>軍團邀請</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FunctionMenuView/gobj_FunctionGroup/ButtonGroup/Enslaved/Label</path>
+      <value>發起奴役</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>FunctionMenuView/gobj_FunctionGroup/ButtonGroup/Rescue/Label</path>
+      <value>發起解救</value>
+    </uiLabel>
+    <uiLabel name="PlayerName">
+      <path>FunctionMenuView/gobj_FunctionGroup/PlayerName</path>
+      <value>六個字六個字</value>
+    </uiLabel>
+  </uiRoot>
+</Data>

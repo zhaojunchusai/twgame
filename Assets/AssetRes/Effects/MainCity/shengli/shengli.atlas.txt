@@ -1,0 +1,27 @@
+
+shengli.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianyuanguang/1_00000
+  rotate: false
+  xy: 2, 210
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+guangxian/1_00000
+  rotate: false
+  xy: 2, 2
+  size: 220, 206
+  orig: 220, 220
+  offset: 0, 7
+  index: -1
+waikuang/1_00000
+  rotate: false
+  xy: 244, 302
+  size: 143, 148
+  orig: 150, 150
+  offset: 4, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+shuye.png
+size: 32,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lvyezi01
+  rotate: false
+  xy: 14, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+lvyezi02
+  rotate: false
+  xy: 2, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1

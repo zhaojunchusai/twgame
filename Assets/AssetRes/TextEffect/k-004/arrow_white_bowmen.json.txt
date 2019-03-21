@@ -1,0 +1,18 @@
+{
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "arrow", "bone": "root", "attachment": "arrow" }
+],
+"skins": {
+	"default": {
+		"arrow": {
+			"arrow": { "x": 2.92, "rotation": -3.12, "width": 44, "height": 8 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+     >
+    
+    <com.platform7725.gamesdk.view.TitleView
+        android:id="@+id/user_center_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/p7725_distance"
+        android:background="@color/p7725_sdk_background" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+             >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/p7725_distance"
+        android:layout_marginTop="@dimen/p7725_distance"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/user_center_username"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:singleLine="true"
+            android:textSize="@dimen/p7725_font_name_size"
+            android:textColor="@color/p7725_sdk_black_light" />
+
+        <Button
+            android:id="@+id/user_center_invite_by_fb"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:background="@drawable/p7725_sdk_btn_orange_red"
+            android:text="@string/p7725_invite_by_fb"
+            android:textSize="@dimen/p7725_font_name_size"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/user_center_change_password"
+        style="@style/p7725_sdk_user_center_button"
+        android:drawableLeft="@drawable/p7725_sdk_change_password_off"
+        android:text="@string/p7725_change_password" />
+    
+
+    <Button
+        android:layout_marginTop="-5dp"
+        android:id="@+id/user_center_binding_username"
+        style="@style/p7725_sdk_user_center_button"
+        android:drawableLeft="@drawable/p7725_sdk_binding_off"
+        android:text="@string/p7725_binding_username" />
+
+    <Button
+        android:layout_marginTop="-5dp"
+        android:id="@+id/user_center_download_manager"
+        style="@style/p7725_sdk_user_center_button"
+        android:drawableLeft="@drawable/p7725_sdk_download_off"
+        android:text="@string/p7725_download_manager" />
+
+    <Button
+        android:id="@+id/user_center_deposits_record"
+        style="@style/p7725_sdk_user_center_button"
+        android:layout_marginTop="@dimen/p7725_distance"
+        android:drawableLeft="@drawable/p7725_sdk_stored_value_off"
+        android:text="@string/p7725_deposits_record" />
+
+</LinearLayout>
+</ScrollView>
+</LinearLayout>

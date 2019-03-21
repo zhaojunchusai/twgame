@@ -1,0 +1,154 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!-- 淡入淡出动画 -->
+    <style name="FadeAnimation">
+        <item name="android:windowEnterAnimation">@anim/p7725_sdk_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/p7725_sdk_fade_out</item>
+    </style>
+
+    <style name="FadeAnimation2">
+        <item name="android:windowExitAnimation">@anim/p7725_sdk_fade_out</item>
+    </style>
+
+    <style name="LoginPro" parent="@style/p7725_full_screen">
+        <item name="android:windowAnimationStyle">@style/FadeAnimation</item>
+    </style>
+
+    <style name="Login" parent="@style/p7725_full_screen">
+        <item name="android:windowAnimationStyle">@style/FadeAnimation</item>
+    </style>
+    
+    <style name="p7725_full_screen" parent="android:Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="MyDialog">
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+
+    <style name="UserList" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="Title">
+        <item name="android:textColor">#000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30.0px</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Input">
+        <item name="android:background">@drawable/p7725_sdk_input_bg</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textColorHint">#fff</item>
+        <item name="android:textSize">22.96px</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:background">@drawable/p7725_sdk_btn_ok</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">22.76px</item>
+    </style>
+
+    <style name="style_listview">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:divider">@android:color/transparent</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+    </style>
+
+    <style name="game_detail_ratingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/p7725_sdk_game_detail_ratingbar</item>
+        <item name="android:minHeight">15dip</item>
+        <item name="android:maxHeight">15dip</item>
+    </style>
+
+    <style name="p7725_sdk_change_password_textview">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/p7725_sdk_black_light</item>
+        <item name="android:textSize">@dimen/p7725_font_name_size</item>
+        <item name="android:layout_marginBottom">@dimen/p7725_distance_half</item>
+    </style>
+
+    <style name="p7725_sdk_change_password_edittext">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/p7725_sdk_banding_account_input_box</item>
+        <item name="android:textSize">@dimen/p7725_font_detail_size</item>
+        <item name="android:layout_marginBottom">@dimen/p7725_distance</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="p7725_sdk_change_password_button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/p7725_sdk_btn_grey_orange</item>
+        <item name="android:textSize">@dimen/p7725_font_name_size</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="p7725_sdk_user_center_button">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">62dp</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:background">@drawable/p7725_sdk_select_button_background</item>
+        <item name="android:drawablePadding">@dimen/p7725_distance_half</item>
+        <item name="android:textColor">@color/p7725_sdk_black_light</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:drawableRight">@drawable/p7725_sdk_select_button_arrow</item>
+    </style>
+    
+    <style name="p7725_dialogBuilder" parent="@android:Theme.Dialog">
+
+        <!-- 去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 去除背景 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+
+        -->
+
+    </style>
+    
+     <style name="p7725_sdk_checkbox" parent="@android:style/Widget.CompoundButton.CheckBox">
+         <item name="android:button">@drawable/p7725_sdk_chck_clause</item>  
+     </style>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="com_7725_activity_horizontal_margin">16dp</dimen>
+    <dimen name="com_7725_activity_vertical_margin">16dp</dimen>
+    <dimen name="com_facebook_picker_divider_width">1px</dimen>
+    
+    <dimen name="p7725_distance">10dp</dimen>
+    <dimen name="p7725_distance_half">5dp</dimen>
+    <dimen name="p7725_font_name_size">16sp</dimen>
+    <dimen name="p7725_font_detail_size">12sp</dimen>
+    <dimen name="p7725_font_title_size">20sp</dimen>
+    
+    <dimen name="p7725_icon_middle_size">80dp</dimen>
+    <dimen name="p7725_title_height">50dp</dimen>
+</resources>

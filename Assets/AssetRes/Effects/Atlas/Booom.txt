@@ -1,0 +1,108 @@
+{"frames": {
+
+"合成_00000.png":
+{
+	"frame": {"x":0,"y":0,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00001.png":
+{
+	"frame": {"x":131,"y":0,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00002.png":
+{
+	"frame": {"x":262,"y":0,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00003.png":
+{
+	"frame": {"x":0,"y":128,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00004.png":
+{
+	"frame": {"x":131,"y":128,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00005.png":
+{
+	"frame": {"x":262,"y":128,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00006.png":
+{
+	"frame": {"x":0,"y":256,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00007.png":
+{
+	"frame": {"x":131,"y":256,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00008.png":
+{
+	"frame": {"x":262,"y":256,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00009.png":
+{
+	"frame": {"x":0,"y":384,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00010.png":
+{
+	"frame": {"x":131,"y":384,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+},
+"合成_00011.png":
+{
+	"frame": {"x":262,"y":384,"w":131,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":128},
+	"sourceSize": {"w":131,"h":128}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "Booom.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:26c0fb37fdbbee028d09a9786126fe0f$"
+}
+}

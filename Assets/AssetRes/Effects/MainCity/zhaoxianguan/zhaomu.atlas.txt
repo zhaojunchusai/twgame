@@ -1,0 +1,34 @@
+
+zhaomu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong
+  rotate: false
+  xy: 54, 38
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+zhaomu
+  rotate: false
+  xy: 2, 65
+  size: 257, 179
+  orig: 257, 179
+  offset: 0, 0
+  index: -1
+zhaomuqi01
+  rotate: false
+  xy: 261, 182
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+zhaomuqi02
+  rotate: false
+  xy: 2, 2
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+youxiang.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao
+  rotate: false
+  xy: 76, 79
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+niaoyan
+  rotate: false
+  xy: 2, 2
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+youxiang
+  rotate: false
+  xy: 2, 15
+  size: 72, 105
+  orig: 72, 105
+  offset: 0, 0
+  index: -1

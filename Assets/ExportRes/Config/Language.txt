@@ -1,0 +1,5 @@
+Main.Button.Common = Common_001
+Main.Button.Sp = Sp_001
+
+
+Hint.Tip.NotOpen = 功能暂未开放

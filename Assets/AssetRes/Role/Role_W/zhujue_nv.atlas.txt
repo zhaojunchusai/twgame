@@ -1,0 +1,55 @@
+
+zhujue_nv.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 277, 85
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+bianzi
+  rotate: false
+  xy: 2, 74
+  size: 134, 168
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 277, 147
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+foot1
+  rotate: true
+  xy: 349, 118
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 376, 200
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 138, 77
+  size: 137, 165
+  orig: 137, 165
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 2, 2
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1

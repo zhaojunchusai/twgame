@@ -1,0 +1,22 @@
+<Data Count="4">
+  <Line>
+    <rank_floor>1</rank_floor>
+    <rank_ceil>1</rank_ceil>
+    <rank_award>96109001</rank_award>
+  </Line>
+  <Line>
+    <rank_floor>2</rank_floor>
+    <rank_ceil>2</rank_ceil>
+    <rank_award>96109002</rank_award>
+  </Line>
+  <Line>
+    <rank_floor>2</rank_floor>
+    <rank_ceil>10</rank_ceil>
+    <rank_award>96109003</rank_award>
+  </Line>
+  <Line>
+    <rank_floor>10</rank_floor>
+    <rank_ceil>-1</rank_ceil>
+    <rank_award>96109004</rank_award>
+  </Line>
+</Data>

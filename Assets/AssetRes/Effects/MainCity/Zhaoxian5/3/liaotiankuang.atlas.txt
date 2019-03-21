@@ -1,0 +1,20 @@
+
+liaotiankuang.png
+size: 83,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZCJ_BG_xxts
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+ZJM_icon_liaotian
+  rotate: false
+  xy: 2, 29
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1

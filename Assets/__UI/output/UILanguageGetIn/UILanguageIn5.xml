@@ -1,0 +1,28 @@
+<Data>
+  <uiRoot name="BuySPView">
+    <uiLabel name="LabelLef">
+      <path>BuySPView/Anim/ContentUp/LabelLef</path>
+      <value>體力不足,花費</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="FriendInviteView">
+    <uiLabel name="Title">
+      <path>FriendInviteView/Title</path>
+      <value>請邀請好友</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>FriendInviteView/MissonList/FriendMemberItem/Name</path>
+      <value>今天我不在</value>
+    </uiLabel>
+    <uiLabel name="Descript">
+      <path>FriendInviteView/MissonList/FriendMemberItem/Descript</path>
+      <value>邀請好友嗎？</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="FriendView">
+    <uiLabel name="Title">
+      <path>FriendView/PlatformGroup/Title</path>
+      <value>選擇邀請平台</value>
+    </uiLabel>
+  </uiRoot>
+</Data>

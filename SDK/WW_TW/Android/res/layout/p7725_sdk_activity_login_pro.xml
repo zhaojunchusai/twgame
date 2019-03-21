@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_background"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_to_fblogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/p7725_sdk_btn_facebook_login" />
+
+    <Button
+        android:id="@+id/btn_to_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/p7725_sdk_btn_7725_login" />
+
+    <Button
+        android:id="@+id/btn_to_quick_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/p7725_sdk_btn_7725_quick_login" />
+
+    <LinearLayout
+        android:id="@+id/layout_clause"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/chck_clause"
+            style="@style/p7725_sdk_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/p7725_sdk_chck_clause"
+            android:textColor="@color/p7725_sdk_clause" />
+
+        <Button
+            android:id="@+id/btn_agree_privacy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/p7725_sdk_transparent"
+            android:text="@string/p7725_sdk_txt_agree_privacy"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/p7725_sdk_clause" />
+
+        <TextView
+            android:id="@+id/txt_agree_and"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/p7725_sdk_txt_agree_and"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/p7725_sdk_clause" />
+
+        <Button
+            android:id="@+id/btn_agree_clause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/p7725_sdk_transparent"
+            android:text="@string/p7725_sdk_txt_agree_clause"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/p7725_sdk_clause" />
+    </LinearLayout>
+
+</RelativeLayout>

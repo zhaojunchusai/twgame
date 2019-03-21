@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:visibility="gone"
+    android:padding="@dimen/p7725_distance_half" >
+
+    <Button
+        android:id="@+id/more_game"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:background="@drawable/p7725_recreation_gamemore"
+        android:gravity="center"
+        android:text="@string/p7725_sdk_more_game"
+        android:textColor="#000"
+        android:textSize="@dimen/p7725_font_name_size" />
+
+</LinearLayout>

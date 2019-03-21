@@ -1,0 +1,486 @@
+<Data>
+  <uiRoot name="AchievementView">
+    <uiLabel name="TitleLb">
+      <path>AchievementView/Anim/AchievementGroup/AchievementItem/TitleLb</path>
+      <value>全服霸主</value>
+    </uiLabel>
+    <uiLabel name="DesLb">
+      <path>AchievementView/Anim/AchievementGroup/AchievementItem/DesLb</path>
+      <value>成爲全服霸主</value>
+    </uiLabel>
+    <uiLabel name="Lb">
+      <path>AchievementView/Anim/AchievementGroup/AchievementItem/GetBtn/Lb</path>
+      <value>領取</value>
+    </uiLabel>
+    <uiLabel name="AwardLb">
+      <path>AchievementView/Anim/AchievementGroup/AchievementItem/AwardGroup/AwardLb</path>
+      <value>獎勵:</value>
+    </uiLabel>
+    <uiLabel name="AwardDesc">
+      <path>AchievementView/Anim/AchievementGroup/AchievementItem/AwardGroup/AwardDesc</path>
+      <value>解鎖頭像</value>
+    </uiLabel>
+    <uiLabel name="ConstTimeDesc">
+      <path>AchievementView/Anim/AchievementGroup/AchievementItem/AwardGroup/ConstTimeDesc</path>
+      <value>持續72小時</value>
+    </uiLabel>
+    <uiLabel name="TitleDesc">
+      <path>AchievementView/Anim/AchievementGroup/AchievementItem/TitleDesc</path>
+      <value>【999:59:59】後重置</value>
+    </uiLabel>
+    <uiLabel name="TitleLb">
+      <path>AchievementView/Anim/TitleObj/TitleLb</path>
+      <value>成就</value>
+    </uiLabel>
+    <uiLabel name="TitleLb">
+      <path>AchievementView/GetAchievemenet/TitleObj/TitleLb</path>
+      <value>解鎖成功</value>
+    </uiLabel>
+    <uiLabel name="UnlockLabel">
+      <path>AchievementView/GetAchievemenet/Anim/AchieveSprite/UnlockLabel</path>
+      <value>解鎖：全服霸主</value>
+    </uiLabel>
+    <uiLabel name="TimeLabel">
+      <path>AchievementView/GetAchievemenet/Anim/AchieveSprite/TimeLabel</path>
+      <value>持續72小時</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="BackPackView">
+    <uiLabel name="Label">
+      <path>BackPackView/Anim/LeftGroup/gobj_SoldierEquipInfo/InfoGroup/SuitScrollView/SuitTable/SuitNameGroup/Label</path>
+      <value>青龍套裝</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ChangeUnionBadgeView">
+    <uiLabel name="TitleValue">
+      <path>ChangeUnionBadgeView/Content/Title/TitleValue</path>
+      <value>選擇徽章</value>
+    </uiLabel>
+    <uiLabel name="ConfirmFGSprite">
+      <path>ChangeUnionBadgeView/Content/Confirm/ConfirmFGSprite</path>
+      <value>確定</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="CreateUnionView">
+    <uiLabel name="Label">
+      <path>CreateUnionView/Icons/Icons/Pre/ChooseBadge/Label</path>
+      <value>更改</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="EquipDetailInfoView">
+    <uiLabel name="Label">
+      <path>EquipDetailInfoView/InfoGroup/SuitNameGroup/Label</path>
+      <value>青龍套裝</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>EquipDetailInfoView/AttributeComparisonGroup/SuitAttGroup/BaseAttGroup/Title</path>
+      <value>基礎屬性</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>EquipDetailInfoView/AttributeComparisonGroup/SuitAttGroup/SuitAttGroup/Title</path>
+      <value>套裝屬性</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="ExpeditionInfoView">
+    <uiLabel name="Union">
+      <path>ExpeditionInfoView/Anim/StageInfoGroup/Information/Union</path>
+      <value>所屬軍團:</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="GuildHegemonyView">
+    <uiLabel name="OtherIntegralLb">
+      <path>GuildHegemonyView/Anim/Integral/Other/OtherIntegralLb</path>
+      <value>本場軍團積分：</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="LifeSpiritIntensifyView">
+    <uiLabel name="AttValue">
+      <path>LifeSpiritIntensifyView/Anim/LifeSpiritInfoGroup/AttributeComparisonGroup/AttGrid/gobj_LifeSpiritAttComp/AttValue</path>
+      <value>[c4ad87]攻擊:88889</value>
+    </uiLabel>
+    <uiLabel name="NameLabel">
+      <path>LifeSpiritIntensifyView/Anim/LifeSpiritInfoGroup/NameGroup/NameLabel</path>
+      <value>高順</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>LifeSpiritIntensifyView/Anim/TitleGroup/Title</path>
+      <value>命魂升級</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>LifeSpiritIntensifyView/Anim/ButtomGroup/IntensifyButton/Label</path>
+      <value>升級</value>
+    </uiLabel>
+    <uiLabel name="SpriteLabel">
+      <path>LifeSpiritIntensifyView/Anim/ButtomGroup/FastSelectButton/SpriteLabel</path>
+      <value>一鍵選擇</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>LifeSpiritIntensifyView/IntensifyLabelItem/Label</path>
+      <value>防禦+15</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="LifeSpiritPackView">
+    <uiLabel name="SelectItemTip">
+      <path>LifeSpiritPackView/Anim/LeftGroup/SelectItemTip</path>
+      <value>請選擇一個物品</value>
+    </uiLabel>
+    <uiLabel name="ArtifactDesc">
+      <path>LifeSpiritPackView/Anim/LeftGroup/gobj_ArtifactInfo/InfoGroup/ArtifactAtt/ArtifactDesc</path>
+      <value>請選擇一個物品</value>
+    </uiLabel>
+    <uiLabel name="Sprite">
+      <path>LifeSpiritPackView/Anim/LeftGroup/gobj_ArtifactInfo/InfoGroup/SellGroup/Sprite</path>
+      <value>出售單價：</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>LifeSpiritPackView/Anim/LeftGroup/gobj_ArtifactInfo/ButtonGroup/ArtifactSell/Label</path>
+      <value>出售</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>LifeSpiritPackView/Anim/LeftGroup/gobj_ArtifactInfo/ButtonGroup/ArtifactStrengthen/Label</path>
+      <value>強化</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>LifeSpiritPackView/Anim/RightGroup/BtnFuncGroup/AddSoldierEquip/Label</path>
+      <value>購買格子</value>
+    </uiLabel>
+    <uiLabel name="NoItemTip">
+      <path>LifeSpiritPackView/Anim/RightGroup/NoItemTip</path>
+      <value>當前無道具</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>LifeSpiritPackView/Anim/BGGroup/TitleGroup/Title</path>
+      <value>命魂倉庫</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="LifeSpiritView">
+    <uiLabel name="Label">
+      <path>LifeSpiritView/gobj_MainPanel/Title/Label</path>
+      <value>命魂</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>LifeSpiritView/gobj_MainPanel/CenterGroup/AttributeGroup/gobj_AttComp/Title</path>
+      <value>統禦力</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>LifeSpiritView/gobj_MainPanel/CenterGroup/LifeSpiritBackPack/Label</path>
+      <value>命魂倉庫</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>LifeSpiritView/gobj_MainPanel/CenterGroup/HuntingLifeSpirit/Label</path>
+      <value>狩獵命魂</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>LifeSpiritView/gobj_MainPanel/CenterGroup/CenterObjInfo/Talent/Title</path>
+      <value>資質</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>LifeSpiritView/gobj_MainPanel/RightGroup/FastEquipButton/Label</path>
+      <value>一鍵裝備</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>LifeSpiritView/gobj_LifeSpriteChoose/Anim/LifeSpriteScrollView/Grid/gobj_LifeSpriteComp/Name</path>
+      <value>削鐵劍</value>
+    </uiLabel>
+    <uiLabel name="SkillDesc">
+      <path>LifeSpiritView/gobj_LifeSpriteChoose/Anim/LifeSpriteScrollView/Grid/gobj_LifeSpriteComp/AttributeComparisonGroup/SkillDesc</path>
+      <value>神技:碧血洗心神技:碧血洗心神技:碧血洗心</value>
+    </uiLabel>
+    <uiLabel name="SoldierName">
+      <path>LifeSpiritView/gobj_LifeSpriteChoose/Anim/LifeSpriteScrollView/Grid/gobj_LifeSpriteComp/SoldierName</path>
+      <value>張飛</value>
+    </uiLabel>
+    <uiLabel name="TTSprite">
+      <path>LifeSpiritView/gobj_LifeSpriteChoose/Anim/TitleGroup/TTSprite</path>
+      <value>更換命魂</value>
+    </uiLabel>
+    <uiLabel name="tt">
+      <path>LifeSpiritView/gobj_LifeSoulDetailInfo/ButtomGroup/LifeSpiritChange/tt</path>
+      <value>更換</value>
+    </uiLabel>
+    <uiLabel name="tt">
+      <path>LifeSpiritView/gobj_LifeSoulDetailInfo/ButtomGroup/LifeSpiritUnLoad/tt</path>
+      <value>卸下</value>
+    </uiLabel>
+    <uiLabel name="tt">
+      <path>LifeSpiritView/gobj_LifeSoulDetailInfo/ButtomGroup/LifeSpiritIntensify/tt</path>
+      <value>強化</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>LifeSpiritView/gobj_LifeSoulDetailInfo/BGGroup/TitleGroup/Title</path>
+      <value>詳細</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="MainCityView">
+    <uiLabel name="Sprite1">
+      <path>MainCityView/MainCity/MainCityFG/Title/Shop/Sprite1</path>
+      <value>商城</value>
+    </uiLabel>
+    <uiLabel name="Sprite1">
+      <path>MainCityView/MainCity/MainCityFG/Title/YuanBao/Sprite1</path>
+      <value>緣寶閣</value>
+    </uiLabel>
+    <uiLabel name="Sprite1">
+      <path>MainCityView/MainCityBG/ExpeditionTitle/Sprite1</path>
+      <value>無盡戰場</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>MainCityView/MainCityBG/ExpeditionTitle/Label</path>
+      <value>[ffcc33]15級[-]解鎖</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="MallView">
+    <uiLabel name="Label">
+      <path>MallView/Anim/RankTypeScrollView/UITable/OtherMat/Label</path>
+      <value>坐騎材料</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="MenuView">
+    <uiLabel name="LivenessTip">
+      <path>MenuView/LivenessTipObj/LivenessTip</path>
+      <value>你還有5次攻城掠地任務可完成務可完成務可完成務可完成(點擊前往)</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="NoviceTaskView">
+    <uiLabel name="BannerTitleLabel">
+      <path>NoviceTaskView/Layer1/BannerGroup/BannerTitleLabel</path>
+      <value>任務描述：</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>NoviceTaskView/Layer1/TitleGroup/Title</path>
+      <value>新手任務</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="PreyLifeSpiritView">
+    <uiLabel name="Tip">
+      <path>PreyLifeSpiritView/LockGroup/LockBtnGroup/gobj_White/ConsumeTipGroup/Tip</path>
+      <value>點擊獵魂</value>
+    </uiLabel>
+    <uiLabel name="Tip">
+      <path>PreyLifeSpiritView/LockGroup/LockBtnGroup/gobj_Green/ConsumeTipGroup/Tip</path>
+      <value>點擊獵魂</value>
+    </uiLabel>
+    <uiLabel name="Tip">
+      <path>PreyLifeSpiritView/LockGroup/LockBtnGroup/gobj_Blue/ConsumeTipGroup/Tip</path>
+      <value>點擊獵魂</value>
+    </uiLabel>
+    <uiLabel name="Tip">
+      <path>PreyLifeSpiritView/LockGroup/LockBtnGroup/gobj_Purple/ConsumeTipGroup/Tip</path>
+      <value>點擊獵魂</value>
+    </uiLabel>
+    <uiLabel name="Tip">
+      <path>PreyLifeSpiritView/LockGroup/LockBtnGroup/gobj_Orange/ConsumeTipGroup/Tip</path>
+      <value>點擊獵魂</value>
+    </uiLabel>
+    <uiLabel name="Tip">
+      <path>PreyLifeSpiritView/LockGroup/LockBtnGroup/gobj_Red/ConsumeTipGroup/Tip</path>
+      <value>點擊獵魂</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>PreyLifeSpiritView/ButtonGroup/QuickPickup/Label</path>
+      <value>一鍵拾取</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>PreyLifeSpiritView/ButtonGroup/QuickPrey/Label</path>
+      <value>一鍵獵魂</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>PreyLifeSpiritView/ButtonGroup/Prey/Label</path>
+      <value>獵魂</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>PreyLifeSpiritView/ButtonGroup/Rule/Label</path>
+      <value>規則</value>
+    </uiLabel>
+    <uiLabel name="RuleTitle">
+      <path>PreyLifeSpiritView/gobj_Rule/Anim/RuleDesc/RuleDescGroup/RuleTitleGroup/RuleTitle</path>
+      <value>規則</value>
+    </uiLabel>
+    <uiLabel name="Title">
+      <path>PreyLifeSpiritView/gobj_Rule/Anim/BGGroup/TitleGroup/Title</path>
+      <value>獵魂規則</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="PVPView">
+    <uiLabel name="Sprite">
+      <path>PVPView/gobj_Main/Anim/ButtomGroup/ChanglleInfoGroup/SurplusGroup/Sprite</path>
+      <value>今日剩餘次數</value>
+    </uiLabel>
+    <uiLabel name="Desc">
+      <path>PVPView/gobj_Main/Anim/ButtomGroup/ChanglleInfoGroup/Purchase/Desc</path>
+      <value>購買次數</value>
+    </uiLabel>
+    <uiLabel name="Desc">
+      <path>PVPView/gobj_Main/Anim/ButtomGroup/ChanglleInfoGroup/ClearTick/Desc</path>
+      <value>清除CD</value>
+    </uiLabel>
+    <uiLabel name="Desc">
+      <path>PVPView/gobj_Main/Anim/ButtomGroup/ChanglleInfoGroup/RefreshPlayer/Desc</path>
+      <value>刷新對手</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="RecycleView">
+    <uiLabel name="TitleLb">
+      <path>RecycleView/Anim/TitleObj/TitleLb</path>
+      <value>造化烘爐</value>
+    </uiLabel>
+    <uiLabel name="Lbl">
+      <path>RecycleView/Anim/OneKeyChoose/Lbl</path>
+      <value>一鍵選擇</value>
+    </uiLabel>
+    <uiLabel name="Lbl">
+      <path>RecycleView/Anim/Confirm/Lbl</path>
+      <value>煉化</value>
+    </uiLabel>
+    <uiLabel name="Lbl">
+      <path>RecycleView/Anim/Store/Lbl</path>
+      <value>造化商店</value>
+    </uiLabel>
+    <uiLabel name="MoneyTip">
+      <path>RecycleView/Anim/MoneyTip</path>
+      <value>煉化獲得:</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>RecycleView/Anim/Source/Gobj_TypeBtn/Label</path>
+      <value>等級榜</value>
+    </uiLabel>
+    <uiLabel name="Lbl">
+      <path>RecycleView/Anim/Source/Gobj_SubTypeBtn/Lbl</path>
+      <value>簽名風波</value>
+    </uiLabel>
+    <uiLabel name="Name">
+      <path>RecycleView/Anim/Source/RecycleItem/Name</path>
+      <value>春哥的復活甲</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="SoldierAttView">
+    <uiLabel name="PromptLabel">
+      <path>SoldierAttView/SoldierUpStarPanel/Anim/EXPAddGroup/PromptLabel</path>
+      <value>已補足升星經驗，可繼續升星</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="StoreView">
+    <uiLabel name="Label">
+      <path>StoreView/Anim/Layer3/RefreashItems/Refreash/Label</path>
+      <value>補 貨</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="SystemSettingView">
+    <uiLabel name="FeedbackFGSprite">
+      <path>SystemSettingView/OffsetRoot/Anim/FeedbackButton/FeedbackFGSprite</path>
+      <value>客服回饋</value>
+    </uiLabel>
+    <uiLabel name="TimeLabel">
+      <path>SystemSettingView/IconChangeView/Anim/gobj_ChangeIcon/ChangeScrollView/IconChangeItem/TimeLabel</path>
+      <value>時間:</value>
+    </uiLabel>
+    <uiLabel name="EffectLabel">
+      <path>SystemSettingView/IconChangeView/Anim/gobj_ChangeIcon/ChangeScrollView/IconChangeItem/EffectLabel</path>
+      <value>攻擊</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>SystemSettingView/HeadChangeView/OffsetRoot/HeadScrollView/Table/UnlockHead/Label</path>
+      <value>已解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>SystemSettingView/HeadChangeView/OffsetRoot/HeadScrollView/Table/UAchievementHead/Label</path>
+      <value>成就頭像</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>SystemSettingView/HeadChangeView/OffsetRoot/HeadScrollView/Table/USoldierHead/Label</path>
+      <value>武將頭像</value>
+    </uiLabel>
+    <uiLabel name="HintLabel">
+      <path>SystemSettingView/HeadChangeView/OffsetRoot/HeadScrollView/Table/USoldierHead/HintLabel</path>
+      <value>溫馨提示:紫色及以上品質的武將可以作為頭像</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>SystemSettingView/HeadChangeView/OffsetRoot/HeadScrollView/Table/LockHead/Label</path>
+      <value>未解鎖</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>SystemSettingView/HeadChangeView/OffsetRoot/HeadScrollView/Table/LAchievementHead/Label</path>
+      <value>成就頭像</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>SystemSettingView/HeadChangeView/OffsetRoot/HeadScrollView/Table/LSoldierHead/Label</path>
+      <value>武將頭像</value>
+    </uiLabel>
+    <uiLabel name="HintLabel">
+      <path>SystemSettingView/HeadChangeView/OffsetRoot/HeadScrollView/Table/LSoldierHead/HintLabel</path>
+      <value>溫馨提示:紫色及以上品質的武將可以作為頭像</value>
+    </uiLabel>
+    <uiLabel name="ChangeLabel">
+      <path>SystemSettingView/HeadChangeView/OffsetRoot/ChangeButton/ChangeLabel</path>
+      <value>更改</value>
+    </uiLabel>
+    <uiLabel name="ShopPushFGLab">
+      <path>SystemSettingView/PushSettingView/Anim/Btn/ShopPushButton/ShopPushFGLab</path>
+      <value>體力贈送：開</value>
+    </uiLabel>
+    <uiLabel name="GCLDFLab">
+      <path>SystemSettingView/PushSettingView/Anim/Btn/GCLDButton/GCLDFLab</path>
+      <value>攻城掠地：開</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionPrisonView">
+    <uiLabel name="Count">
+      <path>UnionPrisonView/Anim/DependMiddle/EmptyGroup/SurplusCount/Count</path>
+      <value>高級武將招募機率總共提升：</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="UnionView">
+    <uiLabel name="UnionID">
+      <path>UnionView/Anim/Up/Icon/UnionID</path>
+      <value>軍團ID:9999999</value>
+    </uiLabel>
+    <uiLabel name="UnionName">
+      <path>UnionView/Anim/Up/Icon/UnionName</path>
+      <value>說不在就不在</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionView/Anim/Up/Btn/UnionDonation/Label</path>
+      <value>軍團捐獻</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionView/Anim/Up/Btn/UnionRule/Label</path>
+      <value>軍團規則</value>
+    </uiLabel>
+    <uiLabel name="SupplyTip">
+      <path>UnionView/Anim/Up/Info/SupplyTip</path>
+      <value>-軍團公告-</value>
+    </uiLabel>
+    <uiLabel name="NoticeContent">
+      <path>UnionView/Anim/Up/Info/NoticeContent</path>
+      <value>鞍山市分市分市分市分市山山山山山山山山山分市分市分市分市分市分市分市分市分市分市分市分市分市分</value>
+    </uiLabel>
+    <uiLabel name="Label">
+      <path>UnionView/Anim/Up/Info/ShowNoticeTip/Label</path>
+      <value>展開</value>
+    </uiLabel>
+    <uiLabel name="HintInfo">
+      <path>UnionView/Content/Mid/Hall/HintBG/HintInfo</path>
+      <value>探險進度99-99</value>
+    </uiLabel>
+    <uiLabel name="HintInfo">
+      <path>UnionView/Content/Mid/Store/HintBG/HintInfo</path>
+      <value>軍團大廳</value>
+    </uiLabel>
+    <uiLabel name="HintInfo">
+      <path>UnionView/Content/Mid/Advanture/HintBG/HintInfo</path>
+      <value>探險進度99-99</value>
+    </uiLabel>
+    <uiLabel name="HintInfo">
+      <path>UnionView/Content/Mid/Fight/HintBG/HintInfo</path>
+      <value>爭霸排名:123456</value>
+    </uiLabel>
+    <uiLabel name="HintInfo">
+      <path>UnionView/Content/Mid/Prison/HintBG/HintInfo</path>
+      <value>招募幾率提升:99%</value>
+    </uiLabel>
+    <uiLabel name="HintInfo">
+      <path>UnionView/Content/Mid/CaptureTerritory/HintBG/HintInfo</path>
+      <value>99:99:99後活動開始</value>
+    </uiLabel>
+  </uiRoot>
+</Data>

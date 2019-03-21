@@ -1,0 +1,53 @@
+<RelativeLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center" >
+
+    <RelativeLayout
+        android:id="@+id/rl_root"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#0000"
+        android:gravity="center" >
+
+        <RelativeLayout
+            android:id="@+id/rl_exit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/p7725_exit_bg1"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/com_7725_close" />
+
+            <ImageView
+                android:id="@+id/iv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/com_7725_tips"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/iv_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btn_exit"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rl_exit"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/p7725_exit_ok_selector" />
+    </RelativeLayout>
+
+</RelativeLayout>

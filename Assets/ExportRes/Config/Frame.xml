@@ -1,0 +1,23 @@
+<Data Count="3">
+  <Line>
+	<id>10001</id>
+	<type>0</type>
+	<num>0</num>
+	<name>基本边框</name>
+	<desc>默认解锁</desc>
+  </Line>
+  <Line>
+	<id>20001</id>
+	<type>1</type>
+	<num>1</num>
+	<name>VIP边框</name>
+	<desc>达到VIP1后解锁</desc>
+  </Line>
+  <Line>
+	<id>20002</id>
+	<type>1</type>
+	<num>9</num>
+	<name>高级VIP边框</name>
+	<desc>达到VIP9后解锁</desc>
+  </Line>
+</Data>

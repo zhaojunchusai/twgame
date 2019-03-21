@@ -1,0 +1,188 @@
+
+zhou_yu.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 1260, 176
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 365, 5
+  size: 106, 112
+  orig: 106, 112
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: false
+  xy: 765, 171
+  size: 211, 83
+  orig: 211, 83
+  offset: 0, 0
+  index: -1
+foot
+  rotate: false
+  xy: 1713, 216
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1162, 178
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 373, 113
+  size: 141, 196
+  orig: 141, 196
+  offset: 0, 0
+  index: -1
+horse_body
+  rotate: false
+  xy: 571, 133
+  size: 192, 121
+  orig: 192, 121
+  offset: 0, 0
+  index: -1
+horse_head
+  rotate: true
+  xy: 2, 2
+  size: 114, 152
+  orig: 114, 152
+  offset: 0, 0
+  index: -1
+horse_leg_1f_a
+  rotate: true
+  xy: 1603, 193
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+horse_leg_1f_b
+  rotate: true
+  xy: 804, 140
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+horse_leg_1f_c
+  rotate: false
+  xy: 1768, 217
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+horse_leg_1r_a
+  rotate: true
+  xy: 1449, 194
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+horse_leg_1r_b
+  rotate: true
+  xy: 843, 144
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+horse_leg_1r_c
+  rotate: true
+  xy: 765, 134
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+horse_leg_2f_a
+  rotate: false
+  xy: 1667, 198
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+horse_leg_2f_b
+  rotate: true
+  xy: 1884, 231
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+horse_leg_2f_c
+  rotate: false
+  xy: 1808, 222
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+horse_leg_2r_a
+  rotate: true
+  xy: 1530, 201
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+horse_leg_2r_b
+  rotate: true
+  xy: 978, 172
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+horse_leg_2r_c
+  rotate: false
+  xy: 1849, 221
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+horse_neck
+  rotate: true
+  xy: 479, 13
+  size: 98, 115
+  orig: 98, 115
+  offset: 0, 0
+  index: -1
+horse_tail
+  rotate: true
+  xy: 1354, 189
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+ornament1
+  rotate: true
+  xy: 156, 2
+  size: 114, 94
+  orig: 114, 94
+  offset: 0, 0
+  index: -1
+ornament2
+  rotate: false
+  xy: 252, 2
+  size: 111, 109
+  orig: 111, 109
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 978, 194
+  size: 182, 60
+  orig: 182, 60
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 118
+  size: 136, 369
+  orig: 136, 369
+  offset: 0, 0
+  index: -1

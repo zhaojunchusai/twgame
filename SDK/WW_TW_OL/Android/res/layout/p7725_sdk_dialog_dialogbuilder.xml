@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dialog_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/p7725_sdk_box_bg" >
+
+    <!-- 标题 -->
+    <!--
+         <ImageView
+        android:id="@+id/iv_dialog_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/p7725_sdk_botton_loginlogo"
+        android:contentDescription="@string/com_7725_app_name" />
+    -->
+
+
+<ScrollView 
+        android:id="@+id/sv_dialog_content"
+    android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/tv_dialog_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textColor="#fff"
+        android:textSize="38.74px"
+        android:textStyle="bold" />
+
+</ScrollView>
+        <Button
+            android:id="@+id/btn_dialog_to_binding"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/p7725_sdk_to_binding" />
+
+        <Button
+            android:id="@+id/btn_dialog_cancle"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/p7725_sdk_text_cancel" />
+
+</RelativeLayout>

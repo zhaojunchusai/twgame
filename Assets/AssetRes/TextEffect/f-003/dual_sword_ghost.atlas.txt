@@ -1,0 +1,34 @@
+
+dual_sword_ghost.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 128
+  size: 247, 124
+  orig: 247, 124
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 170, 124
+  orig: 170, 124
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 251, 128
+  size: 153, 124
+  orig: 153, 124
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 174, 2
+  size: 153, 124
+  orig: 153, 124
+  offset: 0, 0
+  index: -1

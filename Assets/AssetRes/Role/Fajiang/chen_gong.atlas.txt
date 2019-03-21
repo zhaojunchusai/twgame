@@ -1,0 +1,76 @@
+
+chen_gong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 88, 5
+  size: 82, 96
+  orig: 82, 96
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 103
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+foot1
+  rotate: true
+  xy: 172, 70
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: false
+  xy: 373, 176
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 446, 209
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 146, 103
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 146, 147
+  size: 99, 144
+  orig: 99, 144
+  offset: 0, 0
+  index: -1
+ornament1
+  rotate: false
+  xy: 292, 116
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 292, 196
+  size: 152, 50
+  orig: 152, 50
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 2, 2
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1

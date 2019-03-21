@@ -1,0 +1,12 @@
+<Data Count="2">
+  <Line>
+    <goods_floor>1</goods_floor>
+    <goods_ceil>100</goods_ceil>
+    <goods_award>96109001</goods_award>
+  </Line>
+  <Line>
+    <goods_floor>101</goods_floor>
+    <goods_ceil>100000</goods_ceil>
+    <goods_award>96109002</goods_award>
+  </Line>
+</Data>

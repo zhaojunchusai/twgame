@@ -1,0 +1,34 @@
+
+laolong.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laolong
+  rotate: false
+  xy: 2, 38
+  size: 178, 204
+  orig: 178, 204
+  offset: 0, 0
+  index: -1
+laolongqizi
+  rotate: false
+  xy: 2, 17
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+laolongyanjing
+  rotate: false
+  xy: 2, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+niaoxiae
+  rotate: false
+  xy: 182, 226
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1

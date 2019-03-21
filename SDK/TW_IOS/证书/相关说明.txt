@@ -1,0 +1,5 @@
+1.p12密码
+dist_binglin.p12 / distbinglin1234qwer
+deve_binglin.p12 / devebinglin1234qwer
+
+2. FB APPID = 809357939191406

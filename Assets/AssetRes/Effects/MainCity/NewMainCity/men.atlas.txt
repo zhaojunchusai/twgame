@@ -1,0 +1,20 @@
+
+men.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+men
+  rotate: false
+  xy: 2, 29
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1
+men_denglong
+  rotate: false
+  xy: 2, 2
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- app name. eg.: 風雲天下 OL -->    
+    <string name="com_7725_app_name">洪荒之戰</string>
+
+    
+    <!-- 程序入口的类名和包名，请游戏商填写 (推送) -->
+<string name="com_7725_game_main_activity"> </string>
+    
+    <!-- 7725 sdk protocol token & game alias -->
+    <string name="com_7725_sdkProtocolToken">2bd8f9092697daa59240a6c63e5489f1</string>
+    <string name="com_7725_sdkProtocolGame">binglinfour</string>
+
+
+    <!-- facebook manifest -->
+       <string name="com_7725_facebookSdkApplicationId">1668863993373396</string>
+
+<!-- KuADCPA manifest -->
+<string name="com_7725_enable_mobile_kuadcpa_advertisement_tracker">true</string>
+<string name="com_7725_kuadcpa_appid">2016082900001</string>
+<string name="com_7725_kuadcpa_appkey">47c04f720377a49e05fc35103bf9002c</string>
+
+<!-- Chartboost manifest -->
+<string name="com_7725_enable_mobile_charboost_advertisement_tracker">true</string>
+<string name="com_7725_chartboost_appid">57c3a1e5f6cd4576c840c4a7</string>
+<string name="com_7725_chartboost_appsignature">530871fde5baab11b85e32c6c8699dc5faba6bf2</string>
+
+
+<!-- AppsFlyer manifest -->
+<string name="com_7725_enable_mobile_appsflyer_advertisement_tracker">true</string>
+<string name="com_7725_appsflyer_devkey">rcPQXy3sxjJDfmd7xA8EBH</string>
+
+<!-- Jpush manifest -->
+<string name="com_7725_enable_mobile_jpush_advertisement_tracker">true</string>
+
+<!-- 是否允许使用7725帐号登入-->
+<string name="com_7725_enable_7725_login">true</string>
+    
+   
+</resources>

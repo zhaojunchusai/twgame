@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- app name. eg.: 風雲天下 OL -->    
+    <string name="com_7725_app_name">倒退嚕騎士</string>
+    
+    <!-- 程序入口的类名和包名，请游戏商填写 (推送) -->
+	<string name="com_7725_game_main_activity"> </string>
+    
+    <!-- 7725 sdk protocol token & game alias -->
+    <string name="com_7725_sdkProtocolToken">2bd8f9092697daa59240a6c63e5489f1</string>
+    <string name="com_7725_sdkProtocolGame">binglinol</string>
+
+
+    <!-- facebook manifest -->
+       <string name="com_7725_facebookSdkApplicationId">488959187958448</string>
+	
+	<!-- InMobi manifest -->
+	<string name="com_7725_enable_mobile_inmobi_advertisement_tracker">false</string>
+	<string name="com_7725_inmobi_appid">44340784697e4d8d8840223738a3622a</string>
+
+	<!-- KuADCPA manifest -->
+	<string name="com_7725_enable_mobile_kuadcpa_advertisement_tracker">true</string>
+	<string name="com_7725_kuadcpa_appid">2016042000006</string>
+	<string name="com_7725_kuadcpa_appkey">47c04f720377a49e05fc35103bf9002c</string>
+	
+	<!-- Chartboost manifest -->
+	<string name="com_7725_enable_mobile_charboost_advertisement_tracker">false</string>
+	<string name="com_7725_chartboost_appid">5717599a04b0163605ab5bb9</string>
+	<string name="com_7725_chartboost_appsignature">1a20fe8745fc143b1f06c75c2dc1af5f95b49d59</string>
+	
+	<!-- Appma manifest -->
+	<string name="com_7725_enable_mobile_appma_advertisement_tracker">false</string>
+	<string name="com_7725_appma_appid">1151</string>
+	
+	<!-- AppsFlyer manifest -->
+	<string name="com_7725_enable_mobile_appsflyer_advertisement_tracker">true</string>
+	<string name="com_7725_appsflyer_devkey">rcPQXy3sxjJDfmd7xA8EBH</string>
+	
+	<!-- Jpush manifest -->
+	<string name="com_7725_enable_mobile_jpush_advertisement_tracker">true</string>
+	
+	<!-- 是否允许使用7725帐号登入-->
+	<string name="com_7725_enable_7725_login">true</string>
+    
+   
+</resources>

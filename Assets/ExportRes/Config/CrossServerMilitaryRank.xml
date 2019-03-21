@@ -1,0 +1,22 @@
+<Data Count="4">
+  <Line>
+    <military_rank>1</military_rank>
+    <point_low>1</point_low>
+    <point_high>1000</point_high>
+  </Line>
+  <Line>
+    <military_rank>2</military_rank>
+    <point_low>1001</point_low>
+    <point_high>2000</point_high>
+  </Line>
+  <Line>
+    <military_rank>3</military_rank>
+    <point_low>2001</point_low>
+    <point_high>5000</point_high>
+  </Line>
+  <Line>
+    <military_rank>4</military_rank>
+    <point_low>5000</point_low>
+    <point_high>-1</point_high>
+  </Line>
+</Data>

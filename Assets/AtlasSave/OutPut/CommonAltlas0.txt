@@ -1,0 +1,1 @@
+{"frames": {"KFZ_bg1.png":{"frame":{"x":0,"y":0,"w":1024,"h":1024},"rotated": false,"trimmed": false,"spriteSourceSize":{"x":0,"y":0,"w":1024,"h":1024},"sourceSize":{"w":1024,"h":1024}},}}

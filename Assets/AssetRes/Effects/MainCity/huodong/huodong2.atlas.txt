@@ -1,0 +1,20 @@
+
+huodong2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengxiangb
+  rotate: false
+  xy: 2, 2
+  size: 97, 37
+  orig: 97, 37
+  offset: 0, 0
+  index: -1
+huodong
+  rotate: false
+  xy: 2, 41
+  size: 219, 195
+  orig: 219, 195
+  offset: 0, 0
+  index: -1

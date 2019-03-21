@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu_you
+  rotate: false
+  xy: 2, 13
+  size: 284, 253
+  orig: 284, 253
+  offset: 0, 0
+  index: -1
+yezi_01
+  rotate: false
+  xy: 288, 251
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+yezi_02
+  rotate: false
+  xy: 2, 2
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1

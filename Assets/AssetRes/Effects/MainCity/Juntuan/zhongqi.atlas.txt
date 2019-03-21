@@ -1,0 +1,20 @@
+
+zhongqi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gonghui
+  rotate: false
+  xy: 2, 49
+  size: 239, 188
+  orig: 239, 188
+  offset: 0, 0
+  index: -1
+qizhi
+  rotate: false
+  xy: 2, 2
+  size: 29, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1

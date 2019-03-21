@@ -1,0 +1,14 @@
+<Data>
+  <uiRoot name="GuildHegemonyView">
+    <uiLabel name="Label">
+      <path>GuildHegemonyView/Anim/MyselfGuildObj/MyselfGuild/SignUp/Label</path>
+      <value>報名</value>
+    </uiLabel>
+  </uiRoot>
+  <uiRoot name="SystemSettingView">
+    <uiLabel name="FreeLabel">
+      <path>SystemSettingView/ChangeNameView/OffsetRoot/InuptNameGroup/FreeLabel</path>
+      <value>免費改名次數1/1</value>
+    </uiLabel>
+  </uiRoot>
+</Data>

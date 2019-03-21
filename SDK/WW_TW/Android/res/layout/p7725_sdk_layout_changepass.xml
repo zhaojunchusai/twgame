@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_changepass"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/p7725_sdk_box_bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_changepass_title"
+        style="@style/Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/p7725_sdk_tv_changepass2" />
+
+    <EditText
+        android:id="@+id/et_changepass_input_username"
+        style="@style/Input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/p7725_sdk_hint_changepass_input_username"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/et_changepass_input_pass"
+        style="@style/Input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/p7725_sdk_hint_changepass_input_pass"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/et_changepass_input_passnew"
+        style="@style/Input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/p7725_sdk_hint_changepass_input_passnew"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/btn_changepass_ok"
+        style="@style/Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/p7725_sdk_btn_ok" />
+
+    <Button
+        android:id="@+id/btn_changepass_back"
+        style="@style/Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/p7725_sdk_btn_back" />
+
+</RelativeLayout>

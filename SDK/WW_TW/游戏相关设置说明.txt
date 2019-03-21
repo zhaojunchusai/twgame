@@ -1,0 +1,7 @@
+游戏名：衝殺小英雄
+PackageName:com.idplay.legu.binglin
+KeyStore:
+	ALIAS_NAME=p7725releasekey
+	KEY_PASSPHRASE=admin@www.7725.com
+相应下载地址：
+	https://play.google.com/store/apps/details?id=com.idplay.legu.binglin

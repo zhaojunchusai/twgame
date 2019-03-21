@@ -1,0 +1,13 @@
+
+c_001.png
+size: 213,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect2
+  rotate: false
+  xy: 2, 2
+  size: 211, 83
+  orig: 211, 83
+  offset: 0, 0
+  index: -1

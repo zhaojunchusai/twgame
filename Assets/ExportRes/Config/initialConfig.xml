@@ -1,0 +1,15 @@
+<Data Count="1">
+  <Line>
+	<initial_equip>21610001:1;21214001:1</initial_equip>
+	<initial_soldier>0</initial_soldier>
+	<initial_money>1:100000;2:5000</initial_money>
+	<initial_chapter>70010001;</initial_chapter>
+	<initial_icon>1:10002;2:10001</initial_icon>
+	<initial_frame>10001</initial_frame>
+	<vip_level>3</vip_level>
+	<is_first_recharge>1</is_first_recharge>
+	<recharge_exp>450</recharge_exp>
+	<activity_vip_limit>4</activity_vip_limit>
+	<newhand_task_time>72</newhand_task_time>
+  </Line>
+</Data>

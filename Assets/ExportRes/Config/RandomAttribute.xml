@@ -1,0 +1,22 @@
+<Data Count="4">
+  <Line>
+	<type>1</type>
+	<min>1.0</min>
+	<max>1.0</max>
+  </Line>
+  <Line>
+	<type>2</type>
+	<min>0.9</min>
+	<max>1.1</max>
+  </Line>
+  <Line>
+	<type>3</type>
+	<min>0.9</min>
+	<max>1.1</max>
+  </Line>
+  <Line>
+	<type>4</type>
+	<min>0.9</min>
+	<max>1.1</max>
+  </Line>
+</Data>

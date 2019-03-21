@@ -1,0 +1,125 @@
+
+horse_chitu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+horse_body
+  rotate: false
+  xy: 120, 138
+  size: 184, 116
+  orig: 184, 116
+  offset: 0, 0
+  index: -1
+horse_head
+  rotate: false
+  xy: 2, 69
+  size: 116, 185
+  orig: 116, 185
+  offset: 0, 0
+  index: -1
+horse_leg_1f_a
+  rotate: false
+  xy: 269, 11
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+horse_leg_1f_b
+  rotate: false
+  xy: 83, 2
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+horse_leg_1f_c
+  rotate: false
+  xy: 459, 159
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+horse_leg_1r_a
+  rotate: true
+  xy: 2, 6
+  size: 61, 79
+  orig: 61, 79
+  offset: 0, 0
+  index: -1
+horse_leg_1r_b
+  rotate: true
+  xy: 83, 42
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+horse_leg_1r_c
+  rotate: false
+  xy: 304, 82
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+horse_leg_2f_a
+  rotate: false
+  xy: 459, 198
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+horse_leg_2f_b
+  rotate: true
+  xy: 383, 129
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+horse_leg_2f_c
+  rotate: false
+  xy: 306, 120
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+horse_leg_2r_a
+  rotate: false
+  xy: 120, 2
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+horse_leg_2r_b
+  rotate: true
+  xy: 421, 132
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+horse_leg_2r_c
+  rotate: true
+  xy: 347, 119
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+horse_neck
+  rotate: true
+  xy: 306, 154
+  size: 100, 151
+  orig: 100, 151
+  offset: 0, 0
+  index: -1
+horse_tail
+  rotate: true
+  xy: 175, 8
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 120, 76
+  size: 182, 60
+  orig: 182, 60
+  offset: 0, 0
+  index: -1

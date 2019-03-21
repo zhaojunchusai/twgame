@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/login_background" >
+
+    <include
+        android:id="@+id/ll_login"
+        layout="@layout/p7725_sdk_layout_login" />
+
+    <include
+        android:id="@+id/ll_register"
+        layout="@layout/p7725_sdk_layout_register"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/ll_findpass"
+        layout="@layout/p7725_sdk_layout_findpass"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/ll_changepass"
+        layout="@layout/p7725_sdk_layout_changepass"
+        android:visibility="gone" />
+
+</RelativeLayout>

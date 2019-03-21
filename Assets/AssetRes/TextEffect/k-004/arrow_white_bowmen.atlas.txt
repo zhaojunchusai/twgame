@@ -1,0 +1,13 @@
+
+arrow_white_bowmen.png
+size: 46,10
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 2, 2
+  size: 44, 8
+  orig: 44, 8
+  offset: 0, 0
+  index: -1

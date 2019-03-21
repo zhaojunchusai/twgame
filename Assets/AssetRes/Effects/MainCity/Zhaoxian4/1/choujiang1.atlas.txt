@@ -1,0 +1,55 @@
+
+choujiang1.png
+size: 900,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZXG_Green_bg
+  rotate: true
+  xy: 2, 16
+  size: 286, 430
+  orig: 286, 430
+  offset: 0, 0
+  index: -1
+ZXG_Green_bg01
+  rotate: false
+  xy: 553, 55
+  size: 241, 81
+  orig: 241, 81
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 434, 138
+  size: 164, 372
+  orig: 164, 372
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 434, 2
+  size: 117, 134
+  orig: 117, 134
+  offset: 0, 0
+  index: -1
+ys
+  rotate: false
+  xy: 808, 239
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+ysb
+  rotate: false
+  xy: 808, 142
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+zsb
+  rotate: false
+  xy: 796, 5
+  size: 95, 131
+  orig: 95, 131
+  offset: 0, 0
+  index: -1
